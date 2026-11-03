@@ -1,0 +1,2161 @@
+student_id,subject,semester,attendance,internal1,internal2,assignment,study_hours,previous_gpa,final_marks
+STU0001,Engineering Mathematics I,1,89.6,30.5,36.0,18.5,8.0,7.53,72.3
+STU0001,Engineering Physics,1,97.5,31.0,35.0,15.5,8.8,7.53,77.5
+STU0001,Basic Electrical Engineering,1,91.0,32.5,39.5,17.0,7.7,7.53,71.9
+STU0001,Programming in C,1,89.4,37.5,41.5,18.0,8.9,7.53,88.1
+STU0001,Engineering Graphics,1,89.1,33.0,38.0,19.5,7.2,7.53,76.1
+STU0001,Engineering Mathematics II,2,97.3,32.0,35.5,18.0,9.4,7.67,74.6
+STU0001,Engineering Chemistry,2,98.0,39.5,42.5,18.5,8.9,7.67,83.4
+STU0001,Basic Electronics,2,85.2,34.0,34.5,17.5,8.0,7.67,81.0
+STU0001,Python Programming,2,88.4,31.5,33.0,18.0,10.1,7.67,80.1
+STU0001,Elements of Mechanical Engineering,2,97.1,35.0,36.0,19.5,9.8,7.67,77.1
+STU0001,Mathematics for AI,3,91.0,36.0,36.5,16.5,7.5,7.77,
+STU0001,Data Structures,3,86.6,31.0,31.5,15.5,8.0,7.77,
+STU0001,Digital Logic Design,3,91.0,35.0,38.5,17.0,6.5,7.77,
+STU0001,Object Oriented Programming with Java,3,87.8,35.0,30.5,14.0,6.6,7.77,
+STU0001,Computer Organization,3,82.8,30.5,31.0,19.0,7.9,7.77,
+STU0002,Engineering Mathematics I,1,69.4,24.5,17.0,10.5,2.4,6.36,34.9
+STU0002,Engineering Physics,1,68.3,34.0,31.5,8.5,2.0,6.36,48.7
+STU0002,Basic Electrical Engineering,1,68.2,31.5,31.0,13.0,4.2,6.36,46.5
+STU0002,Programming in C,1,63.5,27.0,20.0,11.5,0.5,6.36,33.9
+STU0002,Engineering Graphics,1,58.9,30.5,32.0,14.0,0.5,6.36,60.2
+STU0002,Engineering Mathematics II,2,65.9,20.5,16.0,9.0,0.5,5.76,30.3
+STU0002,Engineering Chemistry,2,65.3,19.5,11.0,8.5,1.1,5.76,26.7
+STU0002,Basic Electronics,2,74.1,27.5,23.5,7.5,1.5,5.76,36.1
+STU0002,Python Programming,2,60.4,22.5,23.5,8.0,4.7,5.76,46.3
+STU0002,Elements of Mechanical Engineering,2,66.5,24.0,19.0,10.5,1.1,5.76,31.4
+STU0002,Mathematics for AI,3,79.7,22.5,22.5,13.5,3.2,4.7,
+STU0002,Data Structures,3,68.8,25.5,30.5,11.5,4.7,4.7,
+STU0002,Digital Logic Design,3,63.5,32.0,30.5,10.5,5.6,4.7,
+STU0002,Object Oriented Programming with Java,3,65.0,28.0,25.5,11.5,1.5,4.7,
+STU0002,Computer Organization,3,72.9,24.5,26.0,7.5,5.2,4.7,
+STU0003,Engineering Mathematics I,1,81.6,30.0,36.5,14.5,7.6,6.35,60.5
+STU0003,Engineering Physics,1,82.2,29.5,26.5,15.0,6.4,6.35,61.8
+STU0003,Basic Electrical Engineering,1,97.3,25.5,25.5,12.5,9.0,6.35,57.9
+STU0003,Programming in C,1,85.2,26.5,25.5,11.0,7.9,6.35,58.6
+STU0003,Engineering Graphics,1,77.6,26.5,27.5,11.5,5.2,6.35,48.9
+STU0003,Engineering Mathematics II,2,90.7,19.0,19.0,14.5,9.9,6.58,64.5
+STU0003,Engineering Chemistry,2,75.2,29.0,32.0,13.5,4.9,6.58,59.6
+STU0003,Basic Electronics,2,73.0,24.0,26.0,13.0,4.9,6.58,56.7
+STU0003,Python Programming,2,86.2,29.0,30.5,14.0,5.5,6.58,60.5
+STU0003,Elements of Mechanical Engineering,2,82.4,35.0,41.5,14.5,5.1,6.58,64.1
+STU0003,Mathematics for AI,3,89.2,34.0,37.5,14.0,4.0,6.38,
+STU0003,Data Structures,3,88.0,29.5,31.0,15.5,6.9,6.38,
+STU0003,Digital Logic Design,3,94.6,31.0,33.5,16.5,2.7,6.38,
+STU0003,Object Oriented Programming with Java,3,76.9,40.0,36.0,17.5,7.3,6.38,
+STU0003,Computer Organization,3,86.2,30.0,36.5,17.0,5.1,6.38,
+STU0004,Engineering Mathematics I,1,90.5,38.0,43.5,18.0,10.5,9.65,87.2
+STU0004,Engineering Physics,1,98.5,46.5,43.0,18.0,11.8,9.65,81.5
+STU0004,Basic Electrical Engineering,1,91.5,47.0,46.5,16.5,11.3,9.65,86.3
+STU0004,Programming in C,1,87.6,46.0,50.0,19.5,7.8,9.65,76.7
+STU0004,Engineering Graphics,1,96.0,47.0,50.0,14.5,9.0,9.65,84.5
+STU0004,Engineering Mathematics II,2,99.6,38.0,44.5,20.0,11.0,9.32,84.5
+STU0004,Engineering Chemistry,2,98.9,39.0,41.5,19.0,10.1,9.32,85.2
+STU0004,Basic Electronics,2,100.0,41.5,50.0,18.0,8.0,9.32,81.5
+STU0004,Python Programming,2,98.7,44.5,50.0,20.0,11.0,9.32,92.8
+STU0004,Elements of Mechanical Engineering,2,100.0,41.5,37.0,20.0,13.4,9.32,83.0
+STU0004,Mathematics for AI,3,83.7,41.5,44.5,18.5,5.4,9.17,
+STU0004,Data Structures,3,82.8,45.5,45.5,18.0,4.3,9.17,
+STU0004,Digital Logic Design,3,91.3,47.5,50.0,16.0,9.2,9.17,
+STU0004,Object Oriented Programming with Java,3,91.7,45.5,49.0,17.0,9.3,9.17,
+STU0004,Computer Organization,3,95.1,40.5,36.5,13.0,4.8,9.17,
+STU0005,Engineering Mathematics I,1,93.7,36.5,36.5,19.0,8.9,8.73,82.1
+STU0005,Engineering Physics,1,100.0,45.0,44.5,20.0,7.6,8.73,83.4
+STU0005,Basic Electrical Engineering,1,88.2,41.5,42.5,17.5,11.3,8.73,80.2
+STU0005,Programming in C,1,100.0,46.0,50.0,20.0,9.5,8.73,86.2
+STU0005,Engineering Graphics,1,90.1,44.0,50.0,20.0,11.5,8.73,87.1
+STU0005,Engineering Mathematics II,2,100.0,49.5,50.0,20.0,11.7,8.81,86.8
+STU0005,Engineering Chemistry,2,100.0,40.0,36.5,19.5,10.1,8.81,80.2
+STU0005,Basic Electronics,2,100.0,50.0,50.0,20.0,14.5,8.81,87.4
+STU0005,Python Programming,2,100.0,50.0,50.0,20.0,11.7,8.81,85.9
+STU0005,Elements of Mechanical Engineering,2,100.0,47.5,50.0,20.0,15.6,8.81,91.6
+STU0005,Mathematics for AI,3,96.9,41.5,48.0,19.0,7.5,8.9,
+STU0005,Data Structures,3,97.0,43.0,39.0,17.5,8.4,8.9,
+STU0005,Digital Logic Design,3,86.3,44.0,44.0,15.5,11.1,8.9,
+STU0005,Object Oriented Programming with Java,3,91.5,42.5,43.5,19.0,12.7,8.9,
+STU0005,Computer Organization,3,92.9,39.5,45.0,19.0,9.0,8.9,
+STU0006,Engineering Mathematics I,1,91.1,49.5,50.0,16.0,5.5,8.52,87.9
+STU0006,Engineering Physics,1,81.4,42.0,44.0,12.5,4.7,8.52,78.2
+STU0006,Basic Electrical Engineering,1,80.4,34.5,31.5,12.5,8.0,8.52,64.3
+STU0006,Programming in C,1,84.7,44.0,43.5,15.5,5.9,8.52,73.9
+STU0006,Engineering Graphics,1,87.3,47.0,49.5,16.0,7.3,8.52,92.1
+STU0006,Engineering Mathematics II,2,74.8,35.0,34.5,15.0,3.5,8.42,64.8
+STU0006,Engineering Chemistry,2,76.3,43.5,43.0,13.5,6.9,8.42,80.4
+STU0006,Basic Electronics,2,81.5,39.5,40.5,13.0,3.1,8.42,70.7
+STU0006,Python Programming,2,72.5,47.5,46.5,15.0,7.6,8.42,66.9
+STU0006,Elements of Mechanical Engineering,2,74.1,36.0,38.5,18.0,5.0,8.42,65.4
+STU0006,Mathematics for AI,3,81.2,49.0,44.0,14.5,7.7,7.82,
+STU0006,Data Structures,3,85.0,43.0,37.5,17.5,8.6,7.82,
+STU0006,Digital Logic Design,3,94.9,40.5,43.5,18.0,6.3,7.82,
+STU0006,Object Oriented Programming with Java,3,78.6,39.5,41.5,14.0,8.2,7.82,
+STU0006,Computer Organization,3,83.5,45.5,47.5,15.5,5.2,7.82,
+STU0007,Engineering Mathematics I,1,77.7,32.0,43.0,14.0,2.1,6.14,47.5
+STU0007,Engineering Physics,1,81.7,25.0,22.5,16.0,5.5,6.14,59.5
+STU0007,Basic Electrical Engineering,1,75.2,35.0,37.0,14.0,7.1,6.14,65.8
+STU0007,Programming in C,1,86.8,27.5,27.5,18.0,3.2,6.14,59.3
+STU0007,Engineering Graphics,1,92.6,30.0,33.0,13.5,4.2,6.14,64.4
+STU0007,Engineering Mathematics II,2,74.3,21.5,21.0,9.0,2.3,6.41,30.8
+STU0007,Engineering Chemistry,2,77.0,14.0,16.5,13.0,2.9,6.41,35.2
+STU0007,Basic Electronics,2,67.1,25.5,34.5,13.0,5.1,6.41,55.8
+STU0007,Python Programming,2,73.5,29.0,33.5,11.5,5.1,6.41,58.3
+STU0007,Elements of Mechanical Engineering,2,71.7,31.0,29.0,11.5,5.0,6.41,57.9
+STU0007,Mathematics for AI,3,69.1,15.5,11.5,10.5,2.4,5.81,
+STU0007,Data Structures,3,79.8,21.5,20.5,14.0,3.2,5.81,
+STU0007,Digital Logic Design,3,68.7,26.0,28.0,12.0,4.5,5.81,
+STU0007,Object Oriented Programming with Java,3,68.0,26.5,21.5,9.5,3.6,5.81,
+STU0007,Computer Organization,3,71.7,26.0,29.5,8.0,2.0,5.81,
+STU0008,Engineering Mathematics I,1,88.4,30.0,33.0,16.5,8.1,7.17,72.9
+STU0008,Engineering Physics,1,92.5,22.0,27.5,18.5,4.6,7.17,55.4
+STU0008,Basic Electrical Engineering,1,77.9,36.0,44.5,17.0,7.4,7.17,73.0
+STU0008,Programming in C,1,83.2,31.0,29.5,20.0,7.2,7.17,81.2
+STU0008,Engineering Graphics,1,94.4,36.5,41.0,17.0,5.7,7.17,82.8
+STU0008,Engineering Mathematics II,2,91.9,34.5,34.5,14.5,4.9,7.51,77.0
+STU0008,Engineering Chemistry,2,99.6,37.0,44.5,17.0,9.9,7.51,81.4
+STU0008,Basic Electronics,2,84.0,35.5,33.0,17.0,8.4,7.51,70.8
+STU0008,Python Programming,2,99.9,37.5,41.0,17.0,9.2,7.51,80.4
+STU0008,Elements of Mechanical Engineering,2,84.1,33.0,30.0,18.0,7.5,7.51,72.6
+STU0008,Mathematics for AI,3,96.3,32.5,32.0,15.0,9.5,7.48,
+STU0008,Data Structures,3,92.6,37.5,39.5,15.0,9.9,7.48,
+STU0008,Digital Logic Design,3,91.7,32.0,35.0,16.0,7.5,7.48,
+STU0008,Object Oriented Programming with Java,3,92.2,36.0,39.5,15.0,7.2,7.48,
+STU0008,Computer Organization,3,98.4,25.0,20.0,17.0,6.0,7.48,
+STU0009,Engineering Mathematics I,1,86.9,39.5,49.0,17.0,7.6,7.53,86.8
+STU0009,Engineering Physics,1,92.0,34.0,37.0,18.0,11.0,7.53,90.1
+STU0009,Basic Electrical Engineering,1,96.5,39.0,40.0,16.5,7.0,7.53,81.8
+STU0009,Programming in C,1,92.0,35.5,39.5,18.0,8.6,7.53,65.6
+STU0009,Engineering Graphics,1,95.5,30.0,32.5,17.5,6.6,7.53,67.9
+STU0009,Engineering Mathematics II,2,88.9,32.5,31.5,18.5,8.1,7.98,71.1
+STU0009,Engineering Chemistry,2,81.7,33.0,35.0,17.0,5.1,7.98,70.1
+STU0009,Basic Electronics,2,93.4,28.0,26.0,15.5,9.7,7.98,69.7
+STU0009,Python Programming,2,99.0,24.5,20.5,16.0,7.5,7.98,63.6
+STU0009,Elements of Mechanical Engineering,2,89.9,31.5,38.5,16.0,8.3,7.98,69.2
+STU0009,Mathematics for AI,3,94.9,38.0,39.0,20.0,8.5,7.73,
+STU0009,Data Structures,3,87.3,27.5,28.0,19.0,8.9,7.73,
+STU0009,Digital Logic Design,3,90.9,38.0,46.5,19.0,10.3,7.73,
+STU0009,Object Oriented Programming with Java,3,84.0,30.0,34.0,17.0,8.2,7.73,
+STU0009,Computer Organization,3,100.0,34.5,36.5,18.0,8.5,7.73,
+STU0010,Engineering Mathematics I,1,96.8,41.0,46.5,18.5,9.6,9.41,88.7
+STU0010,Engineering Physics,1,93.2,42.0,33.0,18.0,7.6,9.41,56.2
+STU0010,Basic Electrical Engineering,1,82.2,43.5,41.0,16.5,8.9,9.41,87.1
+STU0010,Programming in C,1,89.0,42.0,45.5,20.0,11.8,9.41,86.9
+STU0010,Engineering Graphics,1,86.1,42.5,39.5,17.0,8.0,9.41,79.2
+STU0010,Engineering Mathematics II,2,91.4,44.5,42.5,16.0,8.6,9.08,85.1
+STU0010,Engineering Chemistry,2,89.7,45.5,49.5,15.0,6.0,9.08,83.5
+STU0010,Basic Electronics,2,96.0,46.0,42.5,18.5,8.9,9.08,82.4
+STU0010,Python Programming,2,89.3,50.0,50.0,20.0,9.7,9.08,88.7
+STU0010,Elements of Mechanical Engineering,2,93.9,44.5,46.5,19.0,9.5,9.08,85.2
+STU0010,Mathematics for AI,3,94.4,44.5,45.5,19.5,9.4,8.89,
+STU0010,Data Structures,3,87.6,40.0,36.5,16.5,11.2,8.89,
+STU0010,Digital Logic Design,3,94.6,42.0,47.0,19.0,8.4,8.89,
+STU0010,Object Oriented Programming with Java,3,96.6,35.0,36.0,14.5,9.9,8.89,
+STU0010,Computer Organization,3,94.3,48.0,50.0,17.5,10.5,8.89,
+STU0011,Engineering Mathematics I,1,88.6,21.5,20.0,14.0,6.5,6.74,57.6
+STU0011,Engineering Physics,1,79.5,20.0,21.5,15.5,7.0,6.74,70.8
+STU0011,Basic Electrical Engineering,1,77.2,26.5,30.0,15.5,8.7,6.74,67.2
+STU0011,Programming in C,1,83.9,24.5,31.0,14.0,8.6,6.74,64.4
+STU0011,Engineering Graphics,1,78.9,33.5,35.0,15.0,7.0,6.74,61.9
+STU0011,Engineering Mathematics II,2,79.9,33.5,32.0,16.0,6.9,6.75,65.9
+STU0011,Engineering Chemistry,2,77.8,24.0,25.0,12.5,5.5,6.75,47.3
+STU0011,Basic Electronics,2,70.2,22.0,20.0,13.5,5.8,6.75,53.8
+STU0011,Python Programming,2,79.7,30.5,37.0,14.5,3.7,6.75,72.5
+STU0011,Elements of Mechanical Engineering,2,85.5,26.0,29.0,14.5,6.6,6.75,55.3
+STU0011,Mathematics for AI,3,86.4,28.5,28.5,11.5,6.3,6.65,
+STU0011,Data Structures,3,79.8,27.5,27.0,14.0,5.1,6.65,
+STU0011,Digital Logic Design,3,81.7,21.0,21.0,13.5,4.9,6.65,
+STU0011,Object Oriented Programming with Java,3,88.9,23.5,16.5,12.0,4.8,6.65,
+STU0011,Computer Organization,3,75.4,23.0,28.5,13.5,7.1,6.65,
+STU0012,Engineering Mathematics I,1,76.7,36.0,38.5,14.0,4.3,7.89,68.6
+STU0012,Engineering Physics,1,78.2,36.0,37.0,12.5,4.0,7.89,66.2
+STU0012,Basic Electrical Engineering,1,81.0,33.0,27.0,11.5,0.5,7.89,51.1
+STU0012,Programming in C,1,64.6,36.0,44.0,15.5,2.0,7.89,58.8
+STU0012,Engineering Graphics,1,70.9,32.0,30.0,10.5,1.7,7.89,54.8
+STU0012,Engineering Mathematics II,2,75.1,31.5,33.0,11.0,4.3,6.97,61.7
+STU0012,Engineering Chemistry,2,73.1,37.5,37.5,13.5,1.4,6.97,58.2
+STU0012,Basic Electronics,2,81.6,37.0,38.5,16.0,5.2,6.97,81.1
+STU0012,Python Programming,2,66.4,46.5,41.0,10.0,2.1,6.97,58.2
+STU0012,Elements of Mechanical Engineering,2,75.4,36.0,32.0,11.0,3.5,6.97,54.6
+STU0012,Mathematics for AI,3,73.4,36.5,25.5,11.0,4.1,7.18,
+STU0012,Data Structures,3,63.8,45.5,44.5,15.5,2.5,7.18,
+STU0012,Digital Logic Design,3,80.4,43.5,45.5,12.0,3.0,7.18,
+STU0012,Object Oriented Programming with Java,3,79.2,37.5,31.5,13.5,3.5,7.18,
+STU0012,Computer Organization,3,71.8,43.0,44.5,16.0,4.4,7.18,
+STU0013,Engineering Mathematics I,1,76.7,40.0,38.5,16.0,8.1,8.22,69.7
+STU0013,Engineering Physics,1,81.8,34.0,42.0,14.5,7.8,8.22,80.5
+STU0013,Basic Electrical Engineering,1,85.8,33.0,34.0,15.5,7.8,8.22,66.9
+STU0013,Programming in C,1,88.9,38.0,45.0,18.0,7.6,8.22,79.7
+STU0013,Engineering Graphics,1,87.3,36.0,35.0,18.5,5.5,8.22,78.4
+STU0013,Engineering Mathematics II,2,70.5,38.5,39.5,12.5,7.0,8.04,65.8
+STU0013,Engineering Chemistry,2,92.6,40.5,39.0,14.0,7.0,8.04,62.3
+STU0013,Basic Electronics,2,83.0,32.5,30.5,12.5,7.1,8.04,60.0
+STU0013,Python Programming,2,81.9,44.5,47.5,14.5,2.4,8.04,60.4
+STU0013,Elements of Mechanical Engineering,2,76.1,28.0,27.0,12.5,7.7,8.04,69.0
+STU0013,Mathematics for AI,3,99.2,40.0,36.0,19.0,7.2,7.36,
+STU0013,Data Structures,3,86.0,32.0,34.5,18.5,7.5,7.36,
+STU0013,Digital Logic Design,3,80.4,43.0,37.5,15.0,7.3,7.36,
+STU0013,Object Oriented Programming with Java,3,90.6,48.5,50.0,18.0,8.2,7.36,
+STU0013,Computer Organization,3,87.9,41.0,44.5,16.0,6.3,7.36,
+STU0014,Engineering Mathematics I,1,76.7,33.0,36.5,14.0,6.6,6.27,60.6
+STU0014,Engineering Physics,1,81.5,24.0,29.0,12.0,5.7,6.27,61.9
+STU0014,Basic Electrical Engineering,1,81.7,21.5,28.0,17.0,6.7,6.27,66.8
+STU0014,Programming in C,1,75.5,28.5,24.0,15.0,7.4,6.27,62.7
+STU0014,Engineering Graphics,1,86.9,28.5,35.5,17.0,6.4,6.27,50.1
+STU0014,Engineering Mathematics II,2,77.5,18.5,20.0,11.5,6.4,6.3,41.8
+STU0014,Engineering Chemistry,2,85.1,26.5,20.0,16.5,3.5,6.3,59.0
+STU0014,Basic Electronics,2,76.0,18.5,23.0,12.5,5.3,6.3,48.5
+STU0014,Python Programming,2,74.3,29.5,31.0,14.0,3.5,6.3,60.2
+STU0014,Elements of Mechanical Engineering,2,79.8,34.0,28.5,15.5,3.7,6.3,69.3
+STU0014,Mathematics for AI,3,92.3,29.0,30.0,16.5,7.0,6.03,
+STU0014,Data Structures,3,88.0,34.0,39.0,17.0,5.5,6.03,
+STU0014,Digital Logic Design,3,85.5,28.0,23.5,16.5,5.4,6.03,
+STU0014,Object Oriented Programming with Java,3,84.5,27.0,33.0,15.0,2.2,6.03,
+STU0014,Computer Organization,3,79.3,30.5,33.5,20.0,9.2,6.03,
+STU0015,Engineering Mathematics I,1,95.8,43.5,45.5,17.0,6.2,7.49,73.9
+STU0015,Engineering Physics,1,78.5,41.0,41.5,13.0,6.8,7.49,63.4
+STU0015,Basic Electrical Engineering,1,75.3,38.0,42.5,15.0,3.2,7.49,54.8
+STU0015,Programming in C,1,82.1,46.5,42.0,14.5,5.8,7.49,84.7
+STU0015,Engineering Graphics,1,85.7,39.0,41.0,16.5,7.0,7.49,72.4
+STU0015,Engineering Mathematics II,2,83.4,29.5,28.5,13.0,4.8,7.57,57.0
+STU0015,Engineering Chemistry,2,76.3,27.0,30.5,12.5,6.3,7.57,58.8
+STU0015,Basic Electronics,2,78.9,32.5,32.5,15.5,7.9,7.57,54.6
+STU0015,Python Programming,2,82.1,34.0,35.0,15.5,9.0,7.57,80.5
+STU0015,Elements of Mechanical Engineering,2,71.4,32.5,30.5,17.0,3.1,7.57,58.9
+STU0015,Mathematics for AI,3,72.0,26.5,29.5,14.5,3.3,6.84,
+STU0015,Data Structures,3,61.6,31.0,31.5,14.0,4.5,6.84,
+STU0015,Digital Logic Design,3,84.3,33.0,26.0,10.5,2.0,6.84,
+STU0015,Object Oriented Programming with Java,3,71.9,31.5,30.5,14.5,4.9,6.84,
+STU0015,Computer Organization,3,63.5,31.5,32.5,9.5,2.3,6.84,
+STU0016,Engineering Mathematics I,1,68.7,20.5,16.0,9.0,1.9,4.81,26.6
+STU0016,Engineering Physics,1,66.0,21.0,23.0,8.0,0.7,4.81,29.5
+STU0016,Basic Electrical Engineering,1,68.3,21.0,14.5,8.5,3.1,4.81,31.3
+STU0016,Programming in C,1,75.2,23.0,26.5,10.5,0.5,4.81,44.6
+STU0016,Engineering Graphics,1,65.6,15.5,6.0,12.5,2.3,4.81,23.4
+STU0016,Engineering Mathematics II,2,60.3,14.5,14.5,9.0,0.5,4.15,21.7
+STU0016,Engineering Chemistry,2,70.0,14.5,17.0,10.5,0.5,4.15,22.7
+STU0016,Basic Electronics,2,59.6,16.5,15.0,8.0,2.6,4.15,23.7
+STU0016,Python Programming,2,62.9,16.5,14.5,7.0,0.5,4.15,26.0
+STU0016,Elements of Mechanical Engineering,2,77.3,16.5,11.0,9.5,0.5,4.15,26.9
+STU0016,Mathematics for AI,3,74.2,26.0,26.5,12.5,0.5,4.0,
+STU0016,Data Structures,3,63.4,20.0,20.0,12.5,2.4,4.0,
+STU0016,Digital Logic Design,3,73.3,20.5,13.5,11.5,2.2,4.0,
+STU0016,Object Oriented Programming with Java,3,71.5,22.0,20.5,12.5,0.5,4.0,
+STU0016,Computer Organization,3,64.2,26.0,27.0,9.5,1.3,4.0,
+STU0017,Mathematics for AI,3,94.5,29.5,31.5,15.5,8.3,8.84,72.1
+STU0017,Data Structures,3,80.8,26.5,28.0,16.0,6.2,8.84,64.0
+STU0017,Digital Logic Design,3,75.7,35.5,34.0,15.0,8.0,8.84,63.5
+STU0017,Object Oriented Programming with Java,3,79.0,40.0,38.5,16.5,5.5,8.84,73.6
+STU0017,Computer Organization,3,86.0,37.5,36.5,12.5,6.1,8.84,63.1
+STU0017,Design and Analysis of Algorithms,4,83.5,24.5,26.5,13.5,10.5,7.99,59.1
+STU0017,Database Management Systems,4,86.8,36.0,44.5,15.0,3.0,7.99,74.4
+STU0017,Operating Systems,4,91.7,31.0,24.0,17.0,6.5,7.99,65.7
+STU0017,Probability and Statistics,4,80.4,30.5,30.0,17.0,6.9,7.99,58.2
+STU0017,Introduction to Artificial Intelligence,4,91.8,32.5,41.5,18.0,4.5,7.99,76.5
+STU0017,Machine Learning,5,85.8,34.0,34.5,13.0,6.5,7.44,
+STU0017,Computer Networks,5,90.6,34.0,32.5,16.0,4.4,7.44,
+STU0017,Software Engineering,5,93.7,32.0,35.5,14.5,7.4,7.44,
+STU0017,Theory of Computation,5,87.3,36.5,34.5,14.5,5.8,7.44,
+STU0017,Data Visualization,5,82.4,40.0,47.5,20.0,8.4,7.44,
+STU0018,Mathematics for AI,3,62.4,15.5,25.0,10.0,3.8,5.46,33.0
+STU0018,Data Structures,3,62.0,24.5,24.5,8.5,5.1,5.46,39.7
+STU0018,Digital Logic Design,3,62.9,24.5,24.0,6.5,4.8,5.46,32.2
+STU0018,Object Oriented Programming with Java,3,72.9,26.5,19.5,11.0,4.4,5.46,54.9
+STU0018,Computer Organization,3,60.0,21.5,19.5,7.5,2.4,5.46,28.3
+STU0018,Design and Analysis of Algorithms,4,66.1,22.0,20.0,10.0,2.2,4.83,31.1
+STU0018,Database Management Systems,4,57.9,23.5,22.0,12.5,3.1,4.83,26.5
+STU0018,Operating Systems,4,57.7,22.0,21.5,10.0,2.7,4.83,33.7
+STU0018,Probability and Statistics,4,73.6,20.5,11.0,12.0,3.1,4.83,40.8
+STU0018,Introduction to Artificial Intelligence,4,72.1,27.0,29.0,13.5,0.9,4.83,40.0
+STU0018,Machine Learning,5,64.9,26.0,25.5,12.0,3.6,4.35,
+STU0018,Computer Networks,5,79.2,22.0,21.0,13.0,1.5,4.35,
+STU0018,Software Engineering,5,63.8,27.0,22.0,10.5,0.5,4.35,
+STU0018,Theory of Computation,5,67.5,21.0,22.5,12.0,3.3,4.35,
+STU0018,Data Visualization,5,70.1,28.5,22.0,12.5,4.6,4.35,
+STU0019,Mathematics for AI,3,84.6,26.5,22.5,12.0,4.3,7.38,42.1
+STU0019,Data Structures,3,83.8,35.5,30.0,15.5,8.1,7.38,76.6
+STU0019,Digital Logic Design,3,77.3,22.5,24.0,12.0,5.3,7.38,57.5
+STU0019,Object Oriented Programming with Java,3,71.2,35.5,33.0,12.0,6.0,7.38,49.6
+STU0019,Computer Organization,3,78.4,23.5,26.0,13.0,4.2,7.38,49.3
+STU0019,Design and Analysis of Algorithms,4,81.3,26.5,27.5,15.0,6.7,6.63,54.9
+STU0019,Database Management Systems,4,84.4,37.0,39.5,9.5,4.5,6.63,73.3
+STU0019,Operating Systems,4,65.2,37.5,37.0,12.0,4.7,6.63,49.7
+STU0019,Probability and Statistics,4,87.7,37.5,38.0,12.5,2.7,6.63,58.4
+STU0019,Introduction to Artificial Intelligence,4,76.4,38.5,32.5,14.0,7.1,6.63,63.0
+STU0019,Machine Learning,5,83.0,25.5,23.5,12.5,4.1,6.72,
+STU0019,Computer Networks,5,76.4,27.5,21.5,13.5,2.5,6.72,
+STU0019,Software Engineering,5,78.4,31.5,33.5,11.5,9.2,6.72,
+STU0019,Theory of Computation,5,84.4,30.5,27.0,14.5,4.3,6.72,
+STU0019,Data Visualization,5,84.1,30.0,30.5,13.5,4.9,6.72,
+STU0020,Mathematics for AI,3,92.7,29.5,23.5,15.5,3.9,6.58,66.5
+STU0020,Data Structures,3,86.1,24.5,26.0,14.5,6.3,6.58,52.7
+STU0020,Digital Logic Design,3,81.8,24.5,23.0,12.5,6.3,6.58,59.1
+STU0020,Object Oriented Programming with Java,3,86.4,32.5,34.0,15.5,6.4,6.58,70.1
+STU0020,Computer Organization,3,82.9,36.5,36.0,13.5,5.1,6.58,68.4
+STU0020,Design and Analysis of Algorithms,4,85.1,29.0,33.0,13.0,4.7,6.69,70.1
+STU0020,Database Management Systems,4,89.2,33.5,36.0,15.5,6.5,6.69,65.6
+STU0020,Operating Systems,4,88.8,25.5,24.5,15.5,7.3,6.69,60.6
+STU0020,Probability and Statistics,4,78.3,27.5,19.5,16.0,4.2,6.69,50.8
+STU0020,Introduction to Artificial Intelligence,4,92.8,30.0,30.5,15.5,5.7,6.69,71.9
+STU0020,Machine Learning,5,82.7,31.5,39.5,13.0,6.9,6.66,
+STU0020,Computer Networks,5,75.6,31.5,32.5,12.5,6.5,6.66,
+STU0020,Software Engineering,5,74.4,43.5,46.0,15.5,7.3,6.66,
+STU0020,Theory of Computation,5,71.2,22.5,17.5,17.5,4.5,6.66,
+STU0020,Data Visualization,5,83.2,31.0,35.5,14.0,5.0,6.66,
+STU0021,Mathematics for AI,3,64.7,6.5,6.5,10.0,0.5,4.41,14.2
+STU0021,Data Structures,3,65.3,14.0,12.5,8.5,2.8,4.41,23.2
+STU0021,Digital Logic Design,3,67.0,14.5,13.5,10.5,1.5,4.41,26.8
+STU0021,Object Oriented Programming with Java,3,68.8,9.0,6.0,12.0,2.6,4.41,25.3
+STU0021,Computer Organization,3,55.0,14.5,12.0,8.0,0.5,4.41,23.4
+STU0021,Design and Analysis of Algorithms,4,67.7,14.5,14.0,10.5,2.2,4.0,24.8
+STU0021,Database Management Systems,4,65.9,14.5,16.5,10.5,1.6,4.0,27.3
+STU0021,Operating Systems,4,61.1,12.5,12.0,13.5,1.6,4.0,21.9
+STU0021,Probability and Statistics,4,67.9,12.5,20.0,9.0,3.2,4.0,29.1
+STU0021,Introduction to Artificial Intelligence,4,61.1,15.5,17.5,10.0,0.9,4.0,29.2
+STU0021,Machine Learning,5,75.5,11.5,8.0,13.5,2.2,4.0,
+STU0021,Computer Networks,5,74.0,18.0,15.0,10.0,3.3,4.0,
+STU0021,Software Engineering,5,76.6,14.0,17.0,10.5,3.9,4.0,
+STU0021,Theory of Computation,5,68.1,15.5,18.0,14.0,5.5,4.0,
+STU0021,Data Visualization,5,63.9,15.0,12.0,10.0,2.2,4.0,
+STU0022,Mathematics for AI,3,95.0,23.0,20.5,12.0,6.4,7.37,55.0
+STU0022,Data Structures,3,82.6,40.0,43.0,16.5,5.3,7.37,66.8
+STU0022,Digital Logic Design,3,77.8,33.5,27.5,14.5,6.1,7.37,64.5
+STU0022,Object Oriented Programming with Java,3,82.1,31.0,31.5,15.0,4.7,7.37,69.6
+STU0022,Computer Organization,3,89.3,30.0,33.0,16.0,5.6,7.37,64.0
+STU0022,Design and Analysis of Algorithms,4,98.3,32.0,34.0,16.5,6.0,7.23,62.6
+STU0022,Database Management Systems,4,80.4,32.0,34.0,15.0,7.5,7.23,62.2
+STU0022,Operating Systems,4,89.8,36.5,46.5,17.0,7.6,7.23,80.3
+STU0022,Probability and Statistics,4,82.6,40.0,38.5,14.5,5.3,7.23,69.0
+STU0022,Introduction to Artificial Intelligence,4,88.1,34.5,41.0,15.0,5.9,7.23,64.7
+STU0022,Machine Learning,5,73.8,31.0,36.0,13.0,4.6,7.35,
+STU0022,Computer Networks,5,86.2,36.0,32.5,15.5,2.0,7.35,
+STU0022,Software Engineering,5,88.5,24.0,22.0,15.0,6.7,7.35,
+STU0022,Theory of Computation,5,85.1,32.0,32.0,11.5,7.1,7.35,
+STU0022,Data Visualization,5,84.8,37.0,41.0,15.0,4.1,7.35,
+STU0023,Mathematics for AI,3,81.0,20.5,30.5,15.0,5.3,4.79,41.8
+STU0023,Data Structures,3,80.9,23.5,22.5,15.5,6.5,4.79,58.1
+STU0023,Digital Logic Design,3,92.6,17.5,17.0,12.5,3.5,4.79,35.7
+STU0023,Object Oriented Programming with Java,3,63.3,21.5,21.0,16.5,4.0,4.79,41.2
+STU0023,Computer Organization,3,85.6,22.5,24.5,15.5,5.1,4.79,53.1
+STU0023,Design and Analysis of Algorithms,4,78.5,14.0,16.5,15.0,7.7,4.96,47.2
+STU0023,Database Management Systems,4,76.3,20.5,12.5,15.0,0.5,4.96,34.5
+STU0023,Operating Systems,4,81.7,10.5,12.0,12.5,2.7,4.96,28.3
+STU0023,Probability and Statistics,4,76.7,20.0,24.5,14.0,8.5,4.96,61.7
+STU0023,Introduction to Artificial Intelligence,4,75.2,18.0,21.5,11.0,0.8,4.96,37.0
+STU0023,Machine Learning,5,83.8,19.5,21.5,11.5,6.1,4.68,
+STU0023,Computer Networks,5,81.0,25.0,32.5,16.5,5.6,4.68,
+STU0023,Software Engineering,5,78.2,33.0,40.0,16.0,5.9,4.68,
+STU0023,Theory of Computation,5,75.3,13.0,13.5,13.5,6.4,4.68,
+STU0023,Data Visualization,5,78.2,24.5,23.0,14.0,1.2,4.68,
+STU0024,Mathematics for AI,3,64.8,13.5,6.0,9.5,2.2,5.13,17.9
+STU0024,Data Structures,3,62.8,9.5,6.0,8.0,0.5,5.13,16.4
+STU0024,Digital Logic Design,3,64.4,19.5,18.5,7.0,0.5,5.13,24.4
+STU0024,Object Oriented Programming with Java,3,52.1,14.5,6.0,7.5,0.9,5.13,15.5
+STU0024,Computer Organization,3,69.8,8.5,10.5,11.0,0.5,5.13,21.2
+STU0024,Design and Analysis of Algorithms,4,49.7,21.5,17.5,8.5,0.5,4.0,23.3
+STU0024,Database Management Systems,4,71.5,18.0,22.5,5.5,0.5,4.0,34.3
+STU0024,Operating Systems,4,54.3,16.0,9.5,6.5,0.5,4.0,18.3
+STU0024,Probability and Statistics,4,65.4,16.5,16.0,6.5,0.5,4.0,25.5
+STU0024,Introduction to Artificial Intelligence,4,64.4,17.0,13.0,9.5,4.3,4.0,32.1
+STU0024,Machine Learning,5,63.1,16.5,19.0,9.0,1.4,4.0,
+STU0024,Computer Networks,5,57.1,11.0,9.5,8.0,0.5,4.0,
+STU0024,Software Engineering,5,63.4,24.5,26.0,10.0,1.3,4.0,
+STU0024,Theory of Computation,5,65.3,16.5,12.0,10.5,2.5,4.0,
+STU0024,Data Visualization,5,68.9,18.0,23.5,8.5,3.2,4.0,
+STU0025,Mathematics for AI,3,85.7,28.0,34.5,20.0,8.8,7.85,70.5
+STU0025,Data Structures,3,77.5,37.0,41.5,17.0,6.7,7.85,80.2
+STU0025,Digital Logic Design,3,92.2,37.0,45.0,17.5,9.5,7.85,84.3
+STU0025,Object Oriented Programming with Java,3,87.8,41.0,44.0,18.0,6.6,7.85,81.0
+STU0025,Computer Organization,3,86.3,38.5,43.0,13.5,7.6,7.85,73.8
+STU0025,Design and Analysis of Algorithms,4,92.0,28.5,28.0,16.5,6.7,8.27,61.5
+STU0025,Database Management Systems,4,87.9,32.5,34.0,14.0,6.5,8.27,78.3
+STU0025,Operating Systems,4,76.8,33.0,36.5,15.5,3.0,8.27,68.5
+STU0025,Probability and Statistics,4,79.8,29.5,28.5,14.0,6.9,8.27,77.6
+STU0025,Introduction to Artificial Intelligence,4,72.1,25.5,25.5,13.5,6.4,8.27,48.3
+STU0025,Machine Learning,5,85.2,35.5,37.5,14.0,7.6,7.8,
+STU0025,Computer Networks,5,89.8,26.0,27.5,15.0,7.2,7.8,
+STU0025,Software Engineering,5,83.2,35.0,41.5,14.5,9.0,7.8,
+STU0025,Theory of Computation,5,82.7,23.5,29.0,16.5,4.0,7.8,
+STU0025,Data Visualization,5,85.9,34.0,36.0,16.0,5.2,7.8,
+STU0026,Mathematics for AI,3,71.3,39.0,40.0,10.5,4.0,8.33,70.1
+STU0026,Data Structures,3,77.1,34.0,35.0,16.5,7.5,8.33,65.0
+STU0026,Digital Logic Design,3,74.6,39.0,34.0,11.0,5.0,8.33,72.7
+STU0026,Object Oriented Programming with Java,3,76.8,28.5,26.0,14.0,4.7,8.33,69.1
+STU0026,Computer Organization,3,75.9,32.0,29.5,17.0,7.9,8.33,70.6
+STU0026,Design and Analysis of Algorithms,4,89.6,32.0,33.0,13.0,4.3,7.81,61.6
+STU0026,Database Management Systems,4,81.6,40.0,39.5,14.0,7.5,7.81,79.9
+STU0026,Operating Systems,4,78.3,33.5,30.5,13.0,6.6,7.81,74.6
+STU0026,Probability and Statistics,4,80.7,31.0,33.0,19.0,8.3,7.81,63.6
+STU0026,Introduction to Artificial Intelligence,4,71.1,32.5,32.5,13.5,7.7,7.81,68.4
+STU0026,Machine Learning,5,73.3,31.5,26.0,13.0,3.8,7.47,
+STU0026,Computer Networks,5,76.6,33.5,31.0,15.0,4.5,7.47,
+STU0026,Software Engineering,5,76.3,34.5,36.0,16.5,5.7,7.47,
+STU0026,Theory of Computation,5,69.1,36.0,35.5,15.5,5.7,7.47,
+STU0026,Data Visualization,5,70.7,28.5,27.5,16.0,5.2,7.47,
+STU0027,Mathematics for AI,3,91.3,33.0,31.0,18.0,6.1,7.24,74.5
+STU0027,Data Structures,3,90.3,31.5,23.0,17.0,7.2,7.24,63.2
+STU0027,Digital Logic Design,3,88.8,30.5,28.5,16.5,8.6,7.24,68.8
+STU0027,Object Oriented Programming with Java,3,89.7,36.0,34.0,17.0,7.7,7.24,81.1
+STU0027,Computer Organization,3,79.6,28.0,29.0,15.0,7.7,7.24,62.7
+STU0027,Design and Analysis of Algorithms,4,76.7,22.0,23.5,14.0,8.9,7.59,51.4
+STU0027,Database Management Systems,4,82.6,33.0,31.5,16.0,10.0,7.59,66.7
+STU0027,Operating Systems,4,74.1,31.0,36.5,14.0,7.7,7.59,66.1
+STU0027,Probability and Statistics,4,88.0,23.5,19.0,15.0,6.7,7.59,64.5
+STU0027,Introduction to Artificial Intelligence,4,77.3,29.0,33.5,16.5,7.1,7.59,65.6
+STU0027,Machine Learning,5,87.6,20.5,30.0,18.5,6.7,6.94,
+STU0027,Computer Networks,5,95.9,27.5,30.0,16.0,8.7,6.94,
+STU0027,Software Engineering,5,93.6,33.0,32.0,19.5,7.0,6.94,
+STU0027,Theory of Computation,5,93.3,28.0,31.0,17.0,9.5,6.94,
+STU0027,Data Visualization,5,87.4,37.5,39.5,15.5,7.0,6.94,
+STU0028,Mathematics for AI,3,77.7,29.5,26.5,12.0,6.5,6.32,56.7
+STU0028,Data Structures,3,88.6,27.5,23.0,12.5,1.9,6.32,47.4
+STU0028,Digital Logic Design,3,76.8,28.0,26.0,11.0,4.1,6.32,59.5
+STU0028,Object Oriented Programming with Java,3,83.3,22.0,23.5,15.0,6.3,6.32,51.4
+STU0028,Computer Organization,3,79.2,35.0,42.5,10.5,4.8,6.32,80.3
+STU0028,Design and Analysis of Algorithms,4,78.8,26.5,30.5,15.5,7.0,6.18,66.3
+STU0028,Database Management Systems,4,84.7,35.0,38.5,16.5,6.0,6.18,65.6
+STU0028,Operating Systems,4,78.5,26.5,31.0,17.0,5.3,6.18,59.6
+STU0028,Probability and Statistics,4,92.1,29.5,27.5,18.0,8.4,6.18,64.3
+STU0028,Introduction to Artificial Intelligence,4,84.9,27.0,23.0,16.5,5.7,6.18,55.7
+STU0028,Machine Learning,5,78.9,23.0,25.5,9.5,6.6,6.84,
+STU0028,Computer Networks,5,70.2,23.5,15.5,10.5,1.1,6.84,
+STU0028,Software Engineering,5,71.5,27.0,30.5,14.0,4.8,6.84,
+STU0028,Theory of Computation,5,76.1,23.0,23.5,12.0,4.6,6.84,
+STU0028,Data Visualization,5,71.6,25.5,23.0,11.5,4.8,6.84,
+STU0029,Mathematics for AI,3,77.8,40.5,41.0,12.0,5.4,7.4,71.3
+STU0029,Data Structures,3,77.4,36.5,28.0,15.0,8.3,7.4,78.7
+STU0029,Digital Logic Design,3,88.7,33.5,37.0,13.0,8.2,7.4,72.2
+STU0029,Object Oriented Programming with Java,3,73.0,35.5,39.0,15.5,4.3,7.4,69.9
+STU0029,Computer Organization,3,72.6,34.0,37.5,16.5,4.8,7.4,72.7
+STU0029,Design and Analysis of Algorithms,4,81.4,23.5,29.0,14.5,3.0,7.42,54.6
+STU0029,Database Management Systems,4,71.9,30.5,36.0,13.0,3.4,7.42,65.9
+STU0029,Operating Systems,4,80.0,31.5,30.0,7.5,1.7,7.42,38.9
+STU0029,Probability and Statistics,4,67.9,28.5,28.5,15.5,4.5,7.42,46.5
+STU0029,Introduction to Artificial Intelligence,4,73.4,27.0,26.5,9.5,4.1,7.42,65.3
+STU0029,Machine Learning,5,87.9,39.0,37.0,15.0,5.8,6.6,
+STU0029,Computer Networks,5,78.0,37.0,46.0,15.0,5.7,6.6,
+STU0029,Software Engineering,5,81.2,36.5,35.0,15.5,6.3,6.6,
+STU0029,Theory of Computation,5,83.5,40.0,46.5,15.0,8.1,6.6,
+STU0029,Data Visualization,5,79.6,37.0,46.0,16.5,4.7,6.6,
+STU0030,Mathematics for AI,3,80.3,42.5,50.0,12.0,3.6,9.02,71.7
+STU0030,Data Structures,3,75.1,37.5,34.0,14.5,5.6,9.02,72.5
+STU0030,Digital Logic Design,3,63.2,47.5,47.5,11.5,2.0,9.02,64.1
+STU0030,Object Oriented Programming with Java,3,74.5,36.0,31.5,13.5,5.2,9.02,68.7
+STU0030,Computer Organization,3,77.6,42.0,45.0,13.5,2.0,9.02,72.5
+STU0030,Design and Analysis of Algorithms,4,86.8,35.5,33.0,14.5,5.1,8.27,64.0
+STU0030,Database Management Systems,4,82.5,46.0,50.0,16.0,6.1,8.27,77.6
+STU0030,Operating Systems,4,74.9,39.0,34.5,13.5,5.2,8.27,65.5
+STU0030,Probability and Statistics,4,76.2,45.5,45.5,18.5,4.8,8.27,79.5
+STU0030,Introduction to Artificial Intelligence,4,78.3,44.0,45.0,18.0,5.3,8.27,76.1
+STU0030,Machine Learning,5,80.4,38.0,37.0,10.0,6.4,8.12,
+STU0030,Computer Networks,5,81.9,37.5,37.5,12.5,3.7,8.12,
+STU0030,Software Engineering,5,80.2,41.0,40.0,15.0,2.6,8.12,
+STU0030,Theory of Computation,5,72.5,36.5,42.5,11.5,5.9,8.12,
+STU0030,Data Visualization,5,72.6,47.0,42.0,12.5,7.6,8.12,
+STU0031,Mathematics for AI,3,92.6,36.5,39.0,17.0,9.3,7.56,70.4
+STU0031,Data Structures,3,85.0,28.5,31.5,16.0,5.4,7.56,68.8
+STU0031,Digital Logic Design,3,88.9,37.5,38.5,16.5,7.1,7.56,70.2
+STU0031,Object Oriented Programming with Java,3,87.9,33.0,34.5,14.5,7.8,7.56,68.1
+STU0031,Computer Organization,3,79.7,39.0,42.5,19.5,8.7,7.56,77.1
+STU0031,Design and Analysis of Algorithms,4,84.2,37.5,38.5,19.0,7.4,7.98,75.3
+STU0031,Database Management Systems,4,87.9,38.5,39.5,15.0,5.4,7.98,69.7
+STU0031,Operating Systems,4,100.0,29.5,28.5,16.0,6.4,7.98,71.6
+STU0031,Probability and Statistics,4,89.4,32.5,35.0,14.5,7.9,7.98,66.1
+STU0031,Introduction to Artificial Intelligence,4,81.3,42.0,46.0,17.5,4.9,7.98,80.4
+STU0031,Machine Learning,5,88.0,34.0,32.0,13.5,8.0,7.95,
+STU0031,Computer Networks,5,90.2,27.0,25.0,14.5,8.1,7.95,
+STU0031,Software Engineering,5,79.6,32.0,34.0,14.0,4.7,7.95,
+STU0031,Theory of Computation,5,92.9,29.5,35.0,15.5,4.9,7.95,
+STU0031,Data Visualization,5,93.4,40.0,43.5,15.5,6.5,7.95,
+STU0032,Mathematics for AI,3,79.9,20.0,24.0,16.5,4.5,6.28,58.6
+STU0032,Data Structures,3,82.2,19.0,11.5,13.0,3.9,6.28,35.5
+STU0032,Digital Logic Design,3,69.3,29.5,24.0,11.5,3.7,6.28,59.0
+STU0032,Object Oriented Programming with Java,3,68.4,25.5,27.5,14.5,5.2,6.28,58.4
+STU0032,Computer Organization,3,79.3,31.0,27.5,13.0,1.9,6.28,54.6
+STU0032,Design and Analysis of Algorithms,4,67.2,25.0,29.0,12.5,5.2,6.1,37.7
+STU0032,Database Management Systems,4,79.9,28.5,25.5,15.5,3.2,6.1,51.2
+STU0032,Operating Systems,4,72.7,21.5,22.0,15.5,4.0,6.1,46.1
+STU0032,Probability and Statistics,4,76.8,25.0,23.5,11.0,0.5,6.1,48.3
+STU0032,Introduction to Artificial Intelligence,4,72.8,26.0,18.5,10.5,3.5,6.1,54.6
+STU0032,Machine Learning,5,84.7,21.0,26.0,11.0,5.2,5.36,
+STU0032,Computer Networks,5,67.6,22.0,18.0,12.0,5.6,5.36,
+STU0032,Software Engineering,5,72.4,24.0,26.0,13.5,4.8,5.36,
+STU0032,Theory of Computation,5,72.7,23.5,31.5,14.0,4.2,5.36,
+STU0032,Data Visualization,5,92.1,28.5,31.0,10.5,4.7,5.36,
+STU0033,Machine Learning,5,93.3,24.5,25.0,16.5,8.2,7.77,69.5
+STU0033,Computer Networks,5,92.0,34.5,36.5,15.0,7.4,7.77,70.3
+STU0033,Software Engineering,5,87.1,26.5,26.5,16.0,6.9,7.77,66.4
+STU0033,Theory of Computation,5,85.7,25.0,20.5,15.5,7.7,7.77,62.8
+STU0033,Data Visualization,5,96.3,28.0,29.0,16.5,8.2,7.77,73.6
+STU0033,Deep Learning,6,90.9,26.5,27.0,11.5,8.6,7.62,57.3
+STU0033,Natural Language Processing,6,85.7,31.0,33.0,12.5,5.7,7.62,65.2
+STU0033,Cloud Computing,6,83.5,27.5,29.5,16.0,8.1,7.62,70.9
+STU0033,Compiler Design,6,89.3,22.5,19.0,15.5,6.9,7.62,55.5
+STU0033,Big Data Analytics,6,85.3,30.5,29.0,16.0,8.3,7.62,69.8
+STU0033,Computer Vision,7,88.1,35.5,35.5,14.0,8.1,7.29,
+STU0033,Reinforcement Learning,7,82.6,31.0,29.0,17.5,4.6,7.29,
+STU0033,Generative AI,7,83.6,29.0,29.0,17.5,7.0,7.29,
+STU0033,Information Security,7,84.6,30.0,27.0,18.0,9.1,7.29,
+STU0033,MLOps,7,91.3,29.0,23.0,17.0,7.3,7.29,
+STU0034,Machine Learning,5,88.2,30.0,43.0,17.5,9.1,7.45,76.8
+STU0034,Computer Networks,5,91.7,38.0,34.0,19.0,10.4,7.45,74.4
+STU0034,Software Engineering,5,89.4,39.5,39.0,17.0,5.4,7.45,75.0
+STU0034,Theory of Computation,5,99.4,32.5,35.0,16.0,10.6,7.45,77.5
+STU0034,Data Visualization,5,87.0,41.5,41.5,16.5,6.8,7.45,69.2
+STU0034,Deep Learning,6,99.5,36.5,35.5,17.0,6.7,7.74,77.4
+STU0034,Natural Language Processing,6,92.1,30.5,28.0,18.5,5.8,7.74,80.2
+STU0034,Cloud Computing,6,99.0,44.5,50.0,14.5,5.1,7.74,80.5
+STU0034,Compiler Design,6,97.5,29.5,34.0,13.5,9.0,7.74,66.1
+STU0034,Big Data Analytics,6,97.8,35.5,41.0,19.0,8.1,7.74,84.9
+STU0034,Computer Vision,7,92.3,33.5,31.0,15.5,8.1,8.07,
+STU0034,Reinforcement Learning,7,92.2,33.0,39.0,19.0,10.2,8.07,
+STU0034,Generative AI,7,94.2,41.0,46.0,15.0,7.5,8.07,
+STU0034,Information Security,7,100.0,37.0,41.5,15.5,7.6,8.07,
+STU0034,MLOps,7,83.2,41.5,45.0,16.5,6.9,8.07,
+STU0035,Machine Learning,5,80.4,14.0,8.0,11.0,3.7,5.97,40.9
+STU0035,Computer Networks,5,70.8,22.0,23.0,9.0,5.2,5.97,51.9
+STU0035,Software Engineering,5,69.9,19.5,19.5,12.0,4.5,5.97,44.4
+STU0035,Theory of Computation,5,74.0,15.0,21.0,13.5,2.6,5.97,32.5
+STU0035,Data Visualization,5,74.9,18.0,21.0,8.5,1.9,5.97,48.3
+STU0035,Deep Learning,6,80.0,26.0,26.5,10.5,3.0,5.39,46.4
+STU0035,Natural Language Processing,6,84.4,26.5,22.5,14.0,7.0,5.39,59.8
+STU0035,Cloud Computing,6,80.8,27.5,27.5,12.0,5.6,5.39,44.9
+STU0035,Compiler Design,6,78.6,24.5,20.0,14.0,4.6,5.39,60.8
+STU0035,Big Data Analytics,6,77.2,26.0,34.0,11.0,4.2,5.39,56.6
+STU0035,Computer Vision,7,82.6,24.5,23.0,17.0,6.8,5.44,
+STU0035,Reinforcement Learning,7,72.0,27.0,31.0,17.0,1.1,5.44,
+STU0035,Generative AI,7,83.2,27.0,21.0,15.0,4.0,5.44,
+STU0035,Information Security,7,74.9,20.0,17.5,11.5,5.0,5.44,
+STU0035,MLOps,7,79.9,22.0,23.5,12.0,5.8,5.44,
+STU0036,Machine Learning,5,90.2,40.0,45.0,14.0,7.1,9.04,78.2
+STU0036,Computer Networks,5,82.5,36.5,42.0,15.5,4.1,9.04,65.4
+STU0036,Software Engineering,5,74.9,39.5,37.5,14.5,8.8,9.04,70.2
+STU0036,Theory of Computation,5,91.3,41.0,41.5,18.0,5.5,9.04,78.0
+STU0036,Data Visualization,5,88.1,42.5,44.5,15.0,7.3,9.04,90.2
+STU0036,Deep Learning,6,88.4,38.0,38.5,13.0,6.1,8.45,71.4
+STU0036,Natural Language Processing,6,80.2,38.0,41.0,17.0,4.0,8.45,76.1
+STU0036,Cloud Computing,6,75.6,48.0,45.5,17.0,4.6,8.45,77.3
+STU0036,Compiler Design,6,86.7,38.5,40.5,15.0,5.8,8.45,65.4
+STU0036,Big Data Analytics,6,87.7,40.5,50.0,18.5,4.9,8.45,84.1
+STU0036,Computer Vision,7,87.8,29.5,29.5,12.5,4.2,8.19,
+STU0036,Reinforcement Learning,7,80.5,28.0,25.5,15.5,4.0,8.19,
+STU0036,Generative AI,7,79.8,33.0,32.5,15.0,6.4,8.19,
+STU0036,Information Security,7,80.0,30.0,27.0,15.5,5.6,8.19,
+STU0036,MLOps,7,83.3,35.0,38.0,16.0,5.9,8.19,
+STU0037,Machine Learning,5,100.0,34.0,34.0,15.5,6.5,7.97,80.6
+STU0037,Computer Networks,5,84.0,27.5,26.5,13.0,6.4,7.97,66.6
+STU0037,Software Engineering,5,100.0,29.5,35.0,15.0,6.5,7.97,81.5
+STU0037,Theory of Computation,5,86.1,31.0,35.5,16.0,6.1,7.97,62.9
+STU0037,Data Visualization,5,86.6,38.5,33.0,15.5,5.1,7.97,78.4
+STU0037,Deep Learning,6,92.8,37.0,42.0,17.5,8.3,7.94,73.8
+STU0037,Natural Language Processing,6,79.0,38.0,43.5,14.5,7.5,7.94,68.2
+STU0037,Cloud Computing,6,88.9,30.5,33.0,12.5,6.7,7.94,63.6
+STU0037,Compiler Design,6,93.8,29.5,29.5,16.0,9.8,7.94,79.4
+STU0037,Big Data Analytics,6,83.7,43.5,43.5,17.5,6.1,7.94,69.6
+STU0037,Computer Vision,7,86.4,29.0,27.0,14.0,5.6,7.71,
+STU0037,Reinforcement Learning,7,87.2,26.0,27.0,14.5,1.4,7.71,
+STU0037,Generative AI,7,83.2,29.5,29.5,16.5,5.2,7.71,
+STU0037,Information Security,7,81.4,37.5,37.5,16.0,5.9,7.71,
+STU0037,MLOps,7,81.4,31.5,31.5,16.0,5.3,7.71,
+STU0038,Machine Learning,5,95.4,24.0,26.5,17.5,9.4,6.27,54.0
+STU0038,Computer Networks,5,93.3,33.0,37.0,13.5,9.0,6.27,67.9
+STU0038,Software Engineering,5,100.0,24.0,30.0,16.5,9.9,6.27,60.6
+STU0038,Theory of Computation,5,91.9,15.0,14.0,17.5,8.7,6.27,42.6
+STU0038,Data Visualization,5,96.0,30.5,29.5,20.0,6.6,6.27,59.8
+STU0038,Deep Learning,6,97.1,26.5,26.5,17.5,9.8,6.03,55.1
+STU0038,Natural Language Processing,6,88.4,22.5,27.5,16.0,9.6,6.03,62.5
+STU0038,Cloud Computing,6,92.7,31.0,39.5,17.0,11.2,6.03,75.1
+STU0038,Compiler Design,6,90.0,25.0,26.0,16.0,8.3,6.03,49.1
+STU0038,Big Data Analytics,6,82.5,31.0,28.5,15.5,7.2,6.03,75.0
+STU0038,Computer Vision,7,95.9,25.5,22.5,20.0,5.7,6.25,
+STU0038,Reinforcement Learning,7,86.5,19.0,27.0,20.0,6.5,6.25,
+STU0038,Generative AI,7,85.0,26.5,28.5,16.0,4.6,6.25,
+STU0038,Information Security,7,94.5,25.5,24.5,18.5,8.7,6.25,
+STU0038,MLOps,7,97.2,22.5,20.5,16.0,9.4,6.25,
+STU0039,Machine Learning,5,92.8,32.5,30.5,16.5,6.6,7.99,77.0
+STU0039,Computer Networks,5,84.4,26.0,27.0,15.5,8.5,7.99,60.9
+STU0039,Software Engineering,5,97.8,35.0,36.5,12.0,6.3,7.99,69.0
+STU0039,Theory of Computation,5,90.1,28.5,34.5,18.0,5.4,7.99,69.3
+STU0039,Data Visualization,5,82.1,33.5,30.5,13.5,6.0,7.99,65.7
+STU0039,Deep Learning,6,84.9,26.0,28.5,15.5,8.8,7.49,62.1
+STU0039,Natural Language Processing,6,87.7,31.0,31.0,14.5,7.3,7.49,57.0
+STU0039,Cloud Computing,6,79.1,27.5,30.0,17.0,5.1,7.49,60.5
+STU0039,Compiler Design,6,85.1,27.0,25.5,16.0,4.4,7.49,53.8
+STU0039,Big Data Analytics,6,89.1,28.0,24.5,15.5,5.7,7.49,69.0
+STU0039,Computer Vision,7,88.3,40.5,39.0,19.0,7.3,7.06,
+STU0039,Reinforcement Learning,7,91.4,44.5,47.0,17.0,8.9,7.06,
+STU0039,Generative AI,7,95.3,39.5,42.0,17.5,7.3,7.06,
+STU0039,Information Security,7,81.5,35.0,34.5,18.0,6.3,7.06,
+STU0039,MLOps,7,91.1,39.0,43.0,18.0,5.8,7.06,
+STU0040,Machine Learning,5,74.1,24.0,23.0,12.0,1.5,6.73,41.9
+STU0040,Computer Networks,5,73.3,32.5,31.5,13.0,3.9,6.73,54.6
+STU0040,Software Engineering,5,77.4,35.0,37.0,13.5,4.4,6.73,66.8
+STU0040,Theory of Computation,5,75.6,23.5,20.5,12.5,5.5,6.73,52.0
+STU0040,Data Visualization,5,69.7,31.0,21.5,12.0,3.7,6.73,52.0
+STU0040,Deep Learning,6,67.5,27.5,25.0,11.0,0.5,6.26,43.8
+STU0040,Natural Language Processing,6,76.8,28.5,31.5,12.0,3.4,6.26,49.3
+STU0040,Cloud Computing,6,62.6,36.0,43.5,12.0,2.6,6.26,50.5
+STU0040,Compiler Design,6,65.6,21.5,22.5,13.5,4.2,6.26,44.0
+STU0040,Big Data Analytics,6,70.9,32.0,28.0,15.0,4.2,6.26,54.1
+STU0040,Computer Vision,7,84.7,26.0,28.5,11.5,4.3,5.92,
+STU0040,Reinforcement Learning,7,72.2,27.5,31.0,11.5,3.3,5.92,
+STU0040,Generative AI,7,73.1,21.0,22.5,14.0,5.5,5.92,
+STU0040,Information Security,7,82.2,23.5,20.0,14.5,3.8,5.92,
+STU0040,MLOps,7,78.5,22.0,19.5,15.5,4.2,5.92,
+STU0041,Machine Learning,5,100.0,50.0,46.0,19.5,13.6,9.9,94.1
+STU0041,Computer Networks,5,100.0,50.0,50.0,20.0,9.0,9.9,94.0
+STU0041,Software Engineering,5,100.0,50.0,47.5,20.0,11.1,9.9,85.7
+STU0041,Theory of Computation,5,98.4,50.0,48.5,20.0,10.8,9.9,88.7
+STU0041,Data Visualization,5,100.0,50.0,49.5,18.5,11.3,9.9,89.0
+STU0041,Deep Learning,6,93.7,50.0,47.0,20.0,11.9,9.75,87.1
+STU0041,Natural Language Processing,6,100.0,50.0,49.5,20.0,10.6,9.75,92.4
+STU0041,Cloud Computing,6,100.0,50.0,50.0,18.5,10.9,9.75,91.2
+STU0041,Compiler Design,6,89.0,50.0,49.0,16.0,6.7,9.75,85.2
+STU0041,Big Data Analytics,6,100.0,50.0,50.0,20.0,12.2,9.75,94.6
+STU0041,Computer Vision,7,100.0,50.0,50.0,20.0,11.4,9.55,
+STU0041,Reinforcement Learning,7,100.0,50.0,50.0,20.0,11.0,9.55,
+STU0041,Generative AI,7,100.0,50.0,50.0,20.0,12.3,9.55,
+STU0041,Information Security,7,100.0,50.0,50.0,20.0,12.8,9.55,
+STU0041,MLOps,7,100.0,50.0,50.0,20.0,12.0,9.55,
+STU0042,Machine Learning,5,87.8,30.0,32.0,10.5,4.7,7.35,55.2
+STU0042,Computer Networks,5,85.1,37.0,43.0,13.5,2.4,7.35,68.4
+STU0042,Software Engineering,5,85.9,38.5,36.0,13.0,4.4,7.35,65.5
+STU0042,Theory of Computation,5,81.6,29.0,24.5,12.0,7.0,7.35,59.1
+STU0042,Data Visualization,5,89.9,33.0,36.0,13.5,5.8,7.35,68.9
+STU0042,Deep Learning,6,79.1,30.0,35.5,11.5,3.2,6.94,53.0
+STU0042,Natural Language Processing,6,74.0,30.5,23.5,11.0,4.6,6.94,61.9
+STU0042,Cloud Computing,6,75.1,33.5,30.5,15.5,4.7,6.94,64.1
+STU0042,Compiler Design,6,72.3,28.0,25.0,12.5,5.7,6.94,52.7
+STU0042,Big Data Analytics,6,76.1,35.0,25.0,13.0,7.3,6.94,63.0
+STU0042,Computer Vision,7,81.0,29.0,26.0,20.0,6.5,6.65,
+STU0042,Reinforcement Learning,7,81.9,31.0,28.0,13.5,3.2,6.65,
+STU0042,Generative AI,7,83.9,25.5,33.0,12.5,6.5,6.65,
+STU0042,Information Security,7,86.9,28.5,29.5,13.5,6.5,6.65,
+STU0042,MLOps,7,79.9,38.5,39.0,13.5,2.3,6.65,
+STU0043,Machine Learning,5,77.9,28.0,32.5,15.0,5.0,7.59,59.7
+STU0043,Computer Networks,5,96.7,33.0,33.0,14.5,7.2,7.59,55.7
+STU0043,Software Engineering,5,91.2,33.0,34.5,17.0,7.4,7.59,65.1
+STU0043,Theory of Computation,5,82.7,36.5,41.5,11.5,4.8,7.59,55.3
+STU0043,Data Visualization,5,85.2,28.5,37.5,16.0,5.9,7.59,75.3
+STU0043,Deep Learning,6,84.4,27.0,34.5,16.0,7.7,7.05,73.6
+STU0043,Natural Language Processing,6,80.0,29.5,32.0,16.0,5.2,7.05,59.9
+STU0043,Cloud Computing,6,80.3,37.0,36.5,14.5,4.7,7.05,79.4
+STU0043,Compiler Design,6,85.5,31.0,33.5,15.5,8.7,7.05,54.9
+STU0043,Big Data Analytics,6,93.8,39.0,37.5,15.5,6.5,7.05,67.5
+STU0043,Computer Vision,7,95.3,37.5,34.0,15.0,9.0,7.26,
+STU0043,Reinforcement Learning,7,91.8,27.0,28.0,13.5,7.5,7.26,
+STU0043,Generative AI,7,78.7,37.0,46.0,18.0,8.0,7.26,
+STU0043,Information Security,7,92.3,31.0,34.0,12.5,4.9,7.26,
+STU0043,MLOps,7,82.2,32.0,35.5,16.5,7.3,7.26,
+STU0044,Machine Learning,5,72.6,25.5,26.0,13.5,3.8,6.46,51.1
+STU0044,Computer Networks,5,82.0,32.5,34.5,13.0,3.2,6.46,57.9
+STU0044,Software Engineering,5,89.4,32.5,29.0,16.0,2.9,6.46,69.4
+STU0044,Theory of Computation,5,72.3,27.5,25.0,14.0,5.0,6.46,53.3
+STU0044,Data Visualization,5,77.2,33.0,33.5,13.0,4.1,6.46,59.8
+STU0044,Deep Learning,6,67.0,19.0,14.5,9.0,5.2,6.61,36.0
+STU0044,Natural Language Processing,6,61.2,14.0,14.0,10.0,1.6,6.61,21.7
+STU0044,Cloud Computing,6,74.7,29.0,25.0,13.5,0.5,6.61,54.4
+STU0044,Compiler Design,6,63.2,24.5,22.5,10.5,0.9,6.61,40.7
+STU0044,Big Data Analytics,6,64.6,28.5,30.0,10.5,2.5,6.61,44.4
+STU0044,Computer Vision,7,67.6,27.5,21.5,10.0,2.4,5.33,
+STU0044,Reinforcement Learning,7,64.5,26.0,25.5,14.0,4.6,5.33,
+STU0044,Generative AI,7,68.3,20.5,20.5,8.5,2.9,5.33,
+STU0044,Information Security,7,74.2,16.0,11.0,11.5,2.7,5.33,
+STU0044,MLOps,7,53.6,26.0,21.5,12.5,4.3,5.33,
+STU0045,Machine Learning,5,93.4,45.0,45.5,18.0,6.6,9.34,83.0
+STU0045,Computer Networks,5,73.0,46.5,50.0,17.0,8.1,9.34,89.1
+STU0045,Software Engineering,5,91.6,50.0,50.0,15.5,8.5,9.34,76.4
+STU0045,Theory of Computation,5,87.2,40.0,44.5,17.5,9.0,9.34,85.2
+STU0045,Data Visualization,5,88.2,48.5,50.0,14.0,8.5,9.34,84.4
+STU0045,Deep Learning,6,93.3,49.0,50.0,19.0,10.3,9.21,90.7
+STU0045,Natural Language Processing,6,100.0,46.0,48.5,19.5,10.2,9.21,85.8
+STU0045,Cloud Computing,6,95.9,50.0,48.0,18.0,7.4,9.21,87.2
+STU0045,Compiler Design,6,100.0,42.0,42.0,20.0,8.4,9.21,65.2
+STU0045,Big Data Analytics,6,89.4,49.5,48.0,18.5,13.4,9.21,88.0
+STU0045,Computer Vision,7,92.6,43.5,42.0,15.5,10.5,9.12,
+STU0045,Reinforcement Learning,7,90.6,47.0,44.5,13.0,7.3,9.12,
+STU0045,Generative AI,7,92.9,50.0,50.0,20.0,8.2,9.12,
+STU0045,Information Security,7,95.3,47.0,46.5,19.0,7.9,9.12,
+STU0045,MLOps,7,90.3,50.0,50.0,19.0,10.8,9.12,
+STU0046,Machine Learning,5,66.5,26.5,30.0,12.5,6.8,5.38,61.2
+STU0046,Computer Networks,5,66.0,21.5,22.5,11.5,0.5,5.38,33.4
+STU0046,Software Engineering,5,77.6,29.0,24.5,9.0,3.4,5.38,62.6
+STU0046,Theory of Computation,5,70.9,18.0,14.5,10.0,1.8,5.38,24.6
+STU0046,Data Visualization,5,62.1,23.0,26.5,11.5,2.4,5.38,42.9
+STU0046,Deep Learning,6,73.8,27.0,26.0,12.5,2.5,5.05,42.2
+STU0046,Natural Language Processing,6,59.9,26.0,27.0,12.0,3.1,5.05,34.7
+STU0046,Cloud Computing,6,65.4,27.0,24.0,13.0,3.5,5.05,39.5
+STU0046,Compiler Design,6,66.7,25.5,23.0,11.5,5.3,5.05,41.9
+STU0046,Big Data Analytics,6,54.8,24.0,21.5,11.5,1.2,5.05,34.6
+STU0046,Computer Vision,7,67.3,19.5,27.0,6.5,2.2,4.65,
+STU0046,Reinforcement Learning,7,69.1,23.5,25.5,10.5,1.2,4.65,
+STU0046,Generative AI,7,68.5,22.0,20.0,11.0,2.3,4.65,
+STU0046,Information Security,7,62.3,14.0,16.5,11.0,0.7,4.65,
+STU0046,MLOps,7,61.2,21.0,20.5,12.5,5.3,4.65,
+STU0047,Machine Learning,5,97.3,41.0,44.5,12.5,5.7,8.24,73.4
+STU0047,Computer Networks,5,95.0,38.0,37.0,15.0,7.7,8.24,75.0
+STU0047,Software Engineering,5,91.6,42.5,42.0,18.0,7.5,8.24,82.8
+STU0047,Theory of Computation,5,82.9,32.5,42.5,18.5,5.9,8.24,60.4
+STU0047,Data Visualization,5,74.3,37.0,44.0,15.5,9.2,8.24,81.5
+STU0047,Deep Learning,6,92.6,32.5,39.0,16.5,9.2,8.2,65.7
+STU0047,Natural Language Processing,6,100.0,30.5,33.0,17.5,7.3,8.2,69.8
+STU0047,Cloud Computing,6,92.4,36.0,30.0,20.0,8.2,8.2,76.8
+STU0047,Compiler Design,6,95.7,30.0,30.0,20.0,6.1,8.2,65.0
+STU0047,Big Data Analytics,6,96.7,32.5,34.0,20.0,7.3,8.2,63.9
+STU0047,Computer Vision,7,84.9,26.5,21.0,15.0,4.9,7.56,
+STU0047,Reinforcement Learning,7,91.6,24.0,20.5,14.5,7.8,7.56,
+STU0047,Generative AI,7,94.2,33.5,33.0,16.5,8.9,7.56,
+STU0047,Information Security,7,88.3,22.5,24.0,19.0,10.8,7.56,
+STU0047,MLOps,7,85.9,31.0,27.5,17.5,6.7,7.56,
+STU0048,Machine Learning,5,69.1,27.5,22.0,11.0,4.5,6.75,44.8
+STU0048,Computer Networks,5,80.8,36.0,31.0,12.0,5.1,6.75,63.7
+STU0048,Software Engineering,5,72.2,38.0,36.0,13.5,3.7,6.75,75.2
+STU0048,Theory of Computation,5,74.7,33.5,27.5,11.0,6.1,6.75,49.9
+STU0048,Data Visualization,5,70.9,38.5,43.0,13.5,4.0,6.75,64.9
+STU0048,Deep Learning,6,74.9,33.5,35.5,10.5,7.1,6.27,56.9
+STU0048,Natural Language Processing,6,73.3,31.0,31.5,10.5,2.4,6.27,59.0
+STU0048,Cloud Computing,6,74.4,31.0,31.0,14.0,0.9,6.27,51.8
+STU0048,Compiler Design,6,78.4,22.0,16.0,14.5,4.0,6.27,51.6
+STU0048,Big Data Analytics,6,75.6,34.5,36.0,10.5,6.1,6.27,74.2
+STU0048,Computer Vision,7,72.9,30.0,25.5,12.0,0.5,6.35,
+STU0048,Reinforcement Learning,7,70.0,25.5,31.5,14.0,1.9,6.35,
+STU0048,Generative AI,7,71.3,33.0,29.0,11.5,4.4,6.35,
+STU0048,Information Security,7,77.6,28.0,19.0,12.5,6.4,6.35,
+STU0048,MLOps,7,67.8,31.0,28.0,10.5,4.1,6.35,
+STU0049,Engineering Mathematics I,1,70.9,32.5,33.5,14.5,2.6,6.89,51.1
+STU0049,Engineering Physics,1,76.6,25.5,31.5,9.5,3.9,6.89,58.0
+STU0049,Basic Electrical Engineering,1,75.5,31.0,33.0,9.5,4.1,6.89,58.4
+STU0049,Programming in C,1,70.3,35.5,38.5,11.5,2.5,6.89,64.3
+STU0049,Engineering Graphics,1,73.7,33.5,31.0,11.0,2.2,6.89,60.0
+STU0049,Engineering Mathematics II,2,77.0,28.0,30.5,10.0,2.6,6.63,42.2
+STU0049,Engineering Chemistry,2,83.9,26.5,22.5,11.5,4.4,6.63,47.2
+STU0049,Basic Electronics,2,79.5,32.5,30.5,10.5,2.6,6.63,52.7
+STU0049,Python Programming,2,60.3,29.5,32.5,9.0,3.7,6.63,55.8
+STU0049,Elements of Mechanical Engineering,2,79.2,28.5,31.5,10.0,5.9,6.63,64.0
+STU0049,Discrete Mathematics,3,76.2,28.5,21.5,9.0,2.9,6.07,
+STU0049,Data Structures,3,81.2,27.5,31.0,13.5,2.6,6.07,
+STU0049,Digital Logic Design,3,82.2,29.0,28.5,12.5,3.1,6.07,
+STU0049,Object Oriented Programming with Java,3,76.6,25.0,28.0,11.0,4.3,6.07,
+STU0049,Computer Organization,3,74.6,19.0,22.5,11.5,4.8,6.07,
+STU0050,Engineering Mathematics I,1,91.6,41.5,39.0,16.5,9.5,9.82,81.8
+STU0050,Engineering Physics,1,90.1,50.0,48.0,16.0,9.3,9.82,80.2
+STU0050,Basic Electrical Engineering,1,100.0,47.5,44.0,17.5,8.6,9.82,87.8
+STU0050,Programming in C,1,89.9,50.0,48.0,15.5,9.9,9.82,83.5
+STU0050,Engineering Graphics,1,100.0,46.0,48.0,16.0,9.8,9.82,91.0
+STU0050,Engineering Mathematics II,2,90.6,43.0,48.0,20.0,7.8,9.34,85.9
+STU0050,Engineering Chemistry,2,96.0,42.0,46.0,18.0,7.9,9.34,77.6
+STU0050,Basic Electronics,2,89.8,42.0,49.5,18.5,8.1,9.34,89.7
+STU0050,Python Programming,2,93.1,42.5,44.5,17.5,8.4,9.34,79.9
+STU0050,Elements of Mechanical Engineering,2,88.6,46.5,50.0,16.5,7.7,9.34,86.7
+STU0050,Discrete Mathematics,3,92.3,37.5,44.5,14.5,4.2,9.07,
+STU0050,Data Structures,3,79.2,37.0,38.5,18.5,9.5,9.07,
+STU0050,Digital Logic Design,3,81.6,40.5,39.5,12.0,5.8,9.07,
+STU0050,Object Oriented Programming with Java,3,78.3,40.0,38.0,15.0,9.5,9.07,
+STU0050,Computer Organization,3,80.4,47.5,50.0,16.0,8.5,9.07,
+STU0051,Engineering Mathematics I,1,100.0,50.0,49.5,20.0,10.6,9.48,90.5
+STU0051,Engineering Physics,1,100.0,42.5,46.5,20.0,10.8,9.48,87.6
+STU0051,Basic Electrical Engineering,1,100.0,50.0,50.0,18.5,12.9,9.48,87.0
+STU0051,Programming in C,1,100.0,46.0,46.0,18.5,11.1,9.48,81.0
+STU0051,Engineering Graphics,1,100.0,44.5,46.5,18.0,8.3,9.48,88.0
+STU0051,Engineering Mathematics II,2,100.0,42.5,50.0,20.0,9.7,9.41,88.1
+STU0051,Engineering Chemistry,2,100.0,50.0,50.0,20.0,7.7,9.41,89.5
+STU0051,Basic Electronics,2,100.0,49.0,50.0,20.0,10.4,9.41,82.2
+STU0051,Python Programming,2,99.3,47.0,50.0,19.0,14.1,9.41,92.1
+STU0051,Elements of Mechanical Engineering,2,98.2,50.0,50.0,20.0,10.6,9.41,92.3
+STU0051,Discrete Mathematics,3,100.0,46.0,50.0,20.0,14.2,9.51,
+STU0051,Data Structures,3,100.0,45.0,50.0,20.0,15.0,9.51,
+STU0051,Digital Logic Design,3,100.0,50.0,50.0,20.0,14.5,9.51,
+STU0051,Object Oriented Programming with Java,3,100.0,44.0,50.0,20.0,11.3,9.51,
+STU0051,Computer Organization,3,100.0,50.0,50.0,20.0,12.7,9.51,
+STU0052,Engineering Mathematics I,1,84.5,37.0,34.0,17.0,6.7,9.26,83.5
+STU0052,Engineering Physics,1,85.5,43.0,50.0,15.5,4.6,9.26,86.5
+STU0052,Basic Electrical Engineering,1,78.8,44.5,46.5,14.0,6.0,9.26,75.5
+STU0052,Programming in C,1,88.3,49.0,50.0,15.5,8.0,9.26,84.1
+STU0052,Engineering Graphics,1,90.3,39.0,35.5,16.0,7.2,9.26,78.7
+STU0052,Engineering Mathematics II,2,91.3,45.5,48.5,13.0,3.3,8.95,71.8
+STU0052,Engineering Chemistry,2,79.4,50.0,50.0,14.0,6.4,8.95,84.6
+STU0052,Basic Electronics,2,87.0,47.5,48.5,18.5,7.0,8.95,88.2
+STU0052,Python Programming,2,78.1,50.0,50.0,17.5,7.6,8.95,86.9
+STU0052,Elements of Mechanical Engineering,2,85.1,37.5,37.5,14.5,6.6,8.95,67.8
+STU0052,Discrete Mathematics,3,78.1,47.0,43.5,14.5,6.1,8.91,
+STU0052,Data Structures,3,70.6,41.5,40.5,14.0,5.6,8.91,
+STU0052,Digital Logic Design,3,91.8,45.5,50.0,14.0,5.2,8.91,
+STU0052,Object Oriented Programming with Java,3,81.2,48.5,49.0,14.5,8.5,8.91,
+STU0052,Computer Organization,3,81.6,44.0,42.5,14.5,7.1,8.91,
+STU0053,Engineering Mathematics I,1,87.2,38.5,36.0,14.5,7.8,8.3,67.8
+STU0053,Engineering Physics,1,93.9,34.5,41.5,14.5,9.2,8.3,82.7
+STU0053,Basic Electrical Engineering,1,90.6,27.5,30.5,18.0,9.4,8.3,80.0
+STU0053,Programming in C,1,83.6,29.0,34.0,19.0,8.3,8.3,81.7
+STU0053,Engineering Graphics,1,89.3,40.0,36.5,18.5,9.7,8.3,84.9
+STU0053,Engineering Mathematics II,2,89.3,32.0,38.0,17.5,8.8,8.28,69.5
+STU0053,Engineering Chemistry,2,96.4,43.5,41.5,19.0,10.7,8.28,78.4
+STU0053,Basic Electronics,2,100.0,30.5,32.0,18.5,7.6,8.28,75.6
+STU0053,Python Programming,2,98.6,30.0,36.5,18.5,9.1,8.28,84.5
+STU0053,Elements of Mechanical Engineering,2,92.0,34.0,42.0,19.0,6.6,8.28,77.3
+STU0053,Discrete Mathematics,3,88.3,29.5,36.5,19.0,9.2,8.07,
+STU0053,Data Structures,3,95.3,33.5,35.0,16.0,8.0,8.07,
+STU0053,Digital Logic Design,3,96.7,40.5,46.5,17.0,10.7,8.07,
+STU0053,Object Oriented Programming with Java,3,94.9,40.5,39.0,16.0,7.7,8.07,
+STU0053,Computer Organization,3,97.1,41.0,41.5,17.5,6.7,8.07,
+STU0054,Engineering Mathematics I,1,59.7,23.5,22.0,7.5,0.5,5.58,29.5
+STU0054,Engineering Physics,1,64.8,18.5,7.5,6.5,0.5,5.58,20.7
+STU0054,Basic Electrical Engineering,1,61.3,19.0,12.0,9.0,0.5,5.58,25.8
+STU0054,Programming in C,1,63.1,15.5,10.5,7.5,0.5,5.58,22.4
+STU0054,Engineering Graphics,1,61.3,26.0,19.5,9.5,2.7,5.58,41.5
+STU0054,Engineering Mathematics II,2,60.5,24.0,22.0,10.5,3.0,4.39,28.3
+STU0054,Engineering Chemistry,2,71.6,26.0,25.5,8.5,2.2,4.39,35.2
+STU0054,Basic Electronics,2,56.1,19.5,18.5,11.5,3.2,4.39,29.3
+STU0054,Python Programming,2,61.6,34.0,39.0,12.5,2.1,4.39,50.1
+STU0054,Elements of Mechanical Engineering,2,62.7,24.5,25.0,9.5,3.4,4.39,35.6
+STU0054,Discrete Mathematics,3,66.5,29.5,37.5,12.0,0.5,4.22,
+STU0054,Data Structures,3,65.5,28.5,23.0,11.0,3.4,4.22,
+STU0054,Digital Logic Design,3,74.5,17.5,19.0,13.0,2.1,4.22,
+STU0054,Object Oriented Programming with Java,3,71.9,21.5,24.0,11.5,1.8,4.22,
+STU0054,Computer Organization,3,78.0,21.5,21.0,10.0,0.9,4.22,
+STU0055,Engineering Mathematics I,1,88.4,34.5,35.5,20.0,6.4,7.61,80.7
+STU0055,Engineering Physics,1,93.0,33.5,31.0,16.5,8.2,7.61,71.3
+STU0055,Basic Electrical Engineering,1,90.7,38.5,38.0,15.5,8.3,7.61,83.0
+STU0055,Programming in C,1,93.7,34.5,36.5,17.0,6.9,7.61,77.8
+STU0055,Engineering Graphics,1,100.0,38.5,34.0,16.0,7.9,7.61,82.9
+STU0055,Engineering Mathematics II,2,97.4,29.0,21.0,17.5,3.6,7.99,60.2
+STU0055,Engineering Chemistry,2,74.0,29.5,33.0,17.0,7.5,7.99,66.0
+STU0055,Basic Electronics,2,76.6,31.5,38.0,12.0,7.9,7.99,58.8
+STU0055,Python Programming,2,82.2,26.5,30.5,13.0,4.3,7.99,70.0
+STU0055,Elements of Mechanical Engineering,2,90.2,24.0,18.5,15.0,5.9,7.99,59.6
+STU0055,Discrete Mathematics,3,87.7,36.5,38.5,17.0,8.0,7.43,
+STU0055,Data Structures,3,85.6,31.0,34.5,16.5,8.3,7.43,
+STU0055,Digital Logic Design,3,87.4,27.5,31.0,17.0,6.7,7.43,
+STU0055,Object Oriented Programming with Java,3,86.3,33.5,32.0,15.0,10.5,7.43,
+STU0055,Computer Organization,3,97.6,36.0,35.0,20.0,9.7,7.43,
+STU0056,Engineering Mathematics I,1,88.6,41.5,47.5,19.5,9.4,8.52,78.3
+STU0056,Engineering Physics,1,100.0,39.0,43.5,18.0,11.5,8.52,86.2
+STU0056,Basic Electrical Engineering,1,81.5,49.0,47.0,19.0,10.5,8.52,84.9
+STU0056,Programming in C,1,96.2,40.5,45.0,20.0,11.5,8.52,85.2
+STU0056,Engineering Graphics,1,100.0,40.0,37.5,18.5,10.1,8.52,87.1
+STU0056,Engineering Mathematics II,2,100.0,31.5,28.5,20.0,10.1,8.46,78.2
+STU0056,Engineering Chemistry,2,89.6,38.0,46.5,20.0,11.8,8.46,86.5
+STU0056,Basic Electronics,2,100.0,26.5,25.0,18.0,11.4,8.46,70.9
+STU0056,Python Programming,2,100.0,41.0,49.5,18.0,10.5,8.46,87.5
+STU0056,Elements of Mechanical Engineering,2,94.7,36.0,27.0,20.0,9.7,8.46,80.2
+STU0056,Discrete Mathematics,3,100.0,48.0,50.0,20.0,9.8,8.37,
+STU0056,Data Structures,3,100.0,46.5,50.0,20.0,10.5,8.37,
+STU0056,Digital Logic Design,3,100.0,40.5,43.5,17.5,12.7,8.37,
+STU0056,Object Oriented Programming with Java,3,98.4,50.0,50.0,18.5,10.5,8.37,
+STU0056,Computer Organization,3,100.0,42.5,45.0,20.0,12.4,8.37,
+STU0057,Engineering Mathematics I,1,74.8,26.5,24.0,9.5,4.7,7.2,51.7
+STU0057,Engineering Physics,1,67.8,36.5,37.0,12.5,1.3,7.2,59.2
+STU0057,Basic Electrical Engineering,1,75.2,30.0,28.0,12.0,2.3,7.2,57.9
+STU0057,Programming in C,1,68.8,30.0,28.0,8.0,0.8,7.2,48.4
+STU0057,Engineering Graphics,1,76.2,28.5,25.5,9.5,7.0,7.2,61.5
+STU0057,Engineering Mathematics II,2,63.4,24.0,23.5,10.0,5.3,6.68,38.0
+STU0057,Engineering Chemistry,2,72.7,31.0,36.0,13.5,3.8,6.68,66.6
+STU0057,Basic Electronics,2,82.2,28.5,31.5,14.5,4.7,6.68,64.9
+STU0057,Python Programming,2,66.3,29.5,32.0,12.5,2.4,6.68,60.2
+STU0057,Elements of Mechanical Engineering,2,81.5,34.0,29.5,13.0,5.7,6.68,59.1
+STU0057,Discrete Mathematics,3,81.7,30.0,39.5,14.0,8.2,6.21,
+STU0057,Data Structures,3,72.1,28.0,25.5,16.0,6.8,6.21,
+STU0057,Digital Logic Design,3,85.4,31.0,31.0,15.0,4.4,6.21,
+STU0057,Object Oriented Programming with Java,3,81.2,35.5,35.0,15.5,8.2,6.21,
+STU0057,Computer Organization,3,90.1,30.5,30.0,15.0,6.9,6.21,
+STU0058,Engineering Mathematics I,1,81.7,27.0,30.5,17.5,6.0,6.92,73.6
+STU0058,Engineering Physics,1,84.2,30.5,33.5,15.5,6.9,6.92,66.7
+STU0058,Basic Electrical Engineering,1,83.8,30.5,30.5,18.0,6.7,6.92,83.0
+STU0058,Programming in C,1,76.4,28.5,29.0,16.5,3.9,6.92,65.6
+STU0058,Engineering Graphics,1,84.0,30.0,30.0,15.0,6.8,6.92,56.5
+STU0058,Engineering Mathematics II,2,80.6,19.0,14.0,15.0,6.0,6.92,28.9
+STU0058,Engineering Chemistry,2,86.0,32.0,29.0,15.5,2.1,6.92,80.2
+STU0058,Basic Electronics,2,66.8,20.5,22.5,13.5,6.1,6.92,48.4
+STU0058,Python Programming,2,74.3,24.0,29.5,13.0,6.2,6.92,52.7
+STU0058,Elements of Mechanical Engineering,2,88.0,36.5,41.5,12.5,4.9,6.92,68.6
+STU0058,Discrete Mathematics,3,81.3,32.0,37.0,14.0,5.0,6.51,
+STU0058,Data Structures,3,77.2,27.0,24.0,17.0,4.4,6.51,
+STU0058,Digital Logic Design,3,84.2,36.0,36.0,13.5,1.3,6.51,
+STU0058,Object Oriented Programming with Java,3,77.6,38.5,39.5,13.5,1.9,6.51,
+STU0058,Computer Organization,3,72.2,40.0,41.0,11.5,5.7,6.51,
+STU0059,Engineering Mathematics I,1,65.9,6.5,8.5,9.0,0.5,4.0,15.9
+STU0059,Engineering Physics,1,58.2,6.0,9.0,8.5,2.5,4.0,18.6
+STU0059,Basic Electrical Engineering,1,54.2,7.5,6.0,9.5,0.6,4.0,15.5
+STU0059,Programming in C,1,60.1,6.0,6.5,11.5,2.2,4.0,24.2
+STU0059,Engineering Graphics,1,65.8,6.0,6.0,9.5,0.5,4.0,16.8
+STU0059,Engineering Mathematics II,2,59.3,14.0,13.0,11.5,0.5,4.0,18.9
+STU0059,Engineering Chemistry,2,71.2,9.5,7.0,7.5,1.5,4.0,28.3
+STU0059,Basic Electronics,2,66.1,9.5,6.0,9.5,2.7,4.0,25.2
+STU0059,Python Programming,2,63.8,15.0,16.0,12.5,0.5,4.0,27.3
+STU0059,Elements of Mechanical Engineering,2,70.2,7.5,6.0,8.0,2.9,4.0,18.8
+STU0059,Discrete Mathematics,3,51.4,6.0,13.0,7.0,4.7,4.0,
+STU0059,Data Structures,3,53.6,6.0,6.0,7.0,2.0,4.0,
+STU0059,Digital Logic Design,3,69.6,6.0,6.0,7.0,4.3,4.0,
+STU0059,Object Oriented Programming with Java,3,62.9,13.5,16.5,8.0,2.2,4.0,
+STU0059,Computer Organization,3,65.5,6.0,6.0,12.5,0.9,4.0,
+STU0060,Engineering Mathematics I,1,100.0,50.0,50.0,19.0,10.3,9.9,83.9
+STU0060,Engineering Physics,1,100.0,50.0,50.0,20.0,10.8,9.9,88.4
+STU0060,Basic Electrical Engineering,1,100.0,50.0,50.0,20.0,9.1,9.9,88.5
+STU0060,Programming in C,1,100.0,50.0,48.5,20.0,11.7,9.9,90.3
+STU0060,Engineering Graphics,1,98.7,50.0,50.0,20.0,8.1,9.9,91.3
+STU0060,Engineering Mathematics II,2,100.0,47.5,44.5,20.0,11.5,9.9,84.1
+STU0060,Engineering Chemistry,2,100.0,50.0,50.0,20.0,10.5,9.9,83.4
+STU0060,Basic Electronics,2,100.0,50.0,50.0,20.0,10.7,9.9,89.7
+STU0060,Python Programming,2,100.0,50.0,50.0,17.5,14.9,9.9,91.6
+STU0060,Elements of Mechanical Engineering,2,100.0,44.5,48.0,20.0,14.5,9.9,96.1
+STU0060,Discrete Mathematics,3,90.6,48.5,50.0,18.0,9.8,9.67,
+STU0060,Data Structures,3,100.0,50.0,50.0,20.0,9.2,9.67,
+STU0060,Digital Logic Design,3,100.0,44.5,48.0,20.0,12.9,9.67,
+STU0060,Object Oriented Programming with Java,3,100.0,47.5,50.0,20.0,12.4,9.67,
+STU0060,Computer Organization,3,100.0,49.0,47.0,20.0,11.2,9.67,
+STU0061,Engineering Mathematics I,1,80.0,29.5,26.5,14.5,3.7,7.1,53.1
+STU0061,Engineering Physics,1,84.0,30.0,33.0,13.0,3.7,7.1,58.9
+STU0061,Basic Electrical Engineering,1,75.7,28.0,27.0,13.0,5.6,7.1,65.3
+STU0061,Programming in C,1,75.3,30.5,29.5,12.5,7.1,7.1,55.2
+STU0061,Engineering Graphics,1,70.1,36.5,36.0,12.0,3.3,7.1,69.4
+STU0061,Engineering Mathematics II,2,70.2,30.0,28.0,13.5,6.4,7.04,61.9
+STU0061,Engineering Chemistry,2,69.7,34.5,29.0,12.0,3.8,7.04,48.8
+STU0061,Basic Electronics,2,67.5,32.0,30.0,11.0,2.6,7.04,50.3
+STU0061,Python Programming,2,66.6,37.0,36.0,11.5,4.1,7.04,63.0
+STU0061,Elements of Mechanical Engineering,2,61.7,43.5,42.0,12.0,4.3,7.04,64.7
+STU0061,Discrete Mathematics,3,71.9,30.0,24.0,11.5,6.6,6.89,
+STU0061,Data Structures,3,75.6,28.5,23.5,10.0,0.9,6.89,
+STU0061,Digital Logic Design,3,69.4,24.5,15.5,8.5,1.6,6.89,
+STU0061,Object Oriented Programming with Java,3,74.2,36.5,32.0,10.5,1.5,6.89,
+STU0061,Computer Organization,3,74.2,21.0,18.0,13.0,5.8,6.89,
+STU0062,Engineering Mathematics I,1,83.0,39.0,35.0,15.5,5.3,7.86,70.1
+STU0062,Engineering Physics,1,83.2,46.0,47.0,15.0,7.2,7.86,83.9
+STU0062,Basic Electrical Engineering,1,87.3,36.5,37.0,12.5,9.0,7.86,62.8
+STU0062,Programming in C,1,75.9,31.0,37.0,16.0,7.3,7.86,70.1
+STU0062,Engineering Graphics,1,81.3,34.0,31.5,18.0,7.7,7.86,75.9
+STU0062,Engineering Mathematics II,2,87.3,40.0,39.5,18.5,5.2,7.74,72.0
+STU0062,Engineering Chemistry,2,89.6,38.0,36.5,17.5,7.7,7.74,84.7
+STU0062,Basic Electronics,2,83.8,30.5,30.5,18.5,6.6,7.74,62.3
+STU0062,Python Programming,2,80.0,38.0,47.0,14.5,9.1,7.74,81.2
+STU0062,Elements of Mechanical Engineering,2,81.5,26.0,30.0,16.0,6.7,7.74,65.5
+STU0062,Discrete Mathematics,3,79.7,37.5,45.0,13.0,7.5,7.67,
+STU0062,Data Structures,3,88.5,23.5,26.5,15.5,6.6,7.67,
+STU0062,Digital Logic Design,3,84.8,25.5,23.0,17.0,8.6,7.67,
+STU0062,Object Oriented Programming with Java,3,80.9,25.5,26.5,17.0,6.7,7.67,
+STU0062,Computer Organization,3,84.8,27.5,35.5,16.0,4.9,7.67,
+STU0063,Engineering Mathematics I,1,90.9,40.5,41.5,19.0,2.8,9.37,81.7
+STU0063,Engineering Physics,1,81.1,39.0,37.0,16.5,9.1,9.37,77.5
+STU0063,Basic Electrical Engineering,1,95.8,41.5,46.0,18.5,7.7,9.37,87.1
+STU0063,Programming in C,1,95.2,42.0,48.0,16.0,8.1,9.37,84.6
+STU0063,Engineering Graphics,1,96.8,42.0,41.5,19.0,9.7,9.37,88.3
+STU0063,Engineering Mathematics II,2,88.1,39.0,41.5,16.0,6.3,9.15,81.6
+STU0063,Engineering Chemistry,2,95.4,39.5,43.5,16.5,8.9,9.15,76.1
+STU0063,Basic Electronics,2,92.0,50.0,50.0,18.0,7.6,9.15,86.5
+STU0063,Python Programming,2,89.2,35.0,33.0,16.5,5.7,9.15,63.2
+STU0063,Elements of Mechanical Engineering,2,85.3,39.5,38.5,16.0,7.0,9.15,85.8
+STU0063,Discrete Mathematics,3,86.7,34.5,39.5,15.5,5.8,8.85,
+STU0063,Data Structures,3,86.7,30.0,31.5,17.5,7.2,8.85,
+STU0063,Digital Logic Design,3,99.2,46.0,50.0,17.5,9.0,8.85,
+STU0063,Object Oriented Programming with Java,3,92.3,40.5,39.5,17.0,6.1,8.85,
+STU0063,Computer Organization,3,83.1,38.5,32.5,13.5,7.7,8.85,
+STU0064,Engineering Mathematics I,1,93.2,39.0,43.0,20.0,10.0,7.83,66.3
+STU0064,Engineering Physics,1,90.5,41.0,49.5,15.0,7.7,7.83,85.7
+STU0064,Basic Electrical Engineering,1,85.6,35.5,37.0,14.5,6.4,7.83,76.1
+STU0064,Programming in C,1,95.8,35.5,37.5,17.5,9.9,7.83,86.0
+STU0064,Engineering Graphics,1,76.5,38.0,36.0,17.0,6.7,7.83,74.0
+STU0064,Engineering Mathematics II,2,90.1,32.0,34.5,14.0,7.3,7.88,70.9
+STU0064,Engineering Chemistry,2,88.9,37.0,44.0,15.5,10.1,7.88,77.0
+STU0064,Basic Electronics,2,84.6,39.0,47.5,15.0,6.9,7.88,74.7
+STU0064,Python Programming,2,91.0,29.0,25.5,18.0,9.0,7.88,59.7
+STU0064,Elements of Mechanical Engineering,2,88.9,36.0,38.0,16.5,8.3,7.88,81.0
+STU0064,Discrete Mathematics,3,91.2,34.0,41.0,15.5,10.2,7.83,
+STU0064,Data Structures,3,87.8,27.0,34.0,18.0,7.2,7.83,
+STU0064,Digital Logic Design,3,92.6,35.5,32.5,16.5,7.8,7.83,
+STU0064,Object Oriented Programming with Java,3,92.5,22.5,21.0,16.5,6.4,7.83,
+STU0064,Computer Organization,3,98.4,32.5,34.5,18.5,8.4,7.83,
+STU0065,Discrete Mathematics,3,98.3,45.5,50.0,19.5,9.4,9.9,84.7
+STU0065,Data Structures,3,92.3,48.0,50.0,20.0,10.4,9.9,90.6
+STU0065,Digital Logic Design,3,100.0,49.0,50.0,18.0,11.1,9.9,86.8
+STU0065,Object Oriented Programming with Java,3,99.8,50.0,49.5,17.0,9.0,9.9,91.6
+STU0065,Computer Organization,3,97.0,45.0,49.5,20.0,8.9,9.9,85.7
+STU0065,Design and Analysis of Algorithms,4,100.0,37.5,38.5,17.0,12.7,9.55,80.0
+STU0065,Database Management Systems,4,91.3,50.0,48.5,18.0,10.1,9.55,89.8
+STU0065,Operating Systems,4,87.1,50.0,49.5,18.0,6.2,9.55,83.3
+STU0065,Microcontrollers,4,96.7,50.0,46.0,16.0,11.6,9.55,84.1
+STU0065,Graph Theory,4,92.2,50.0,47.5,20.0,6.0,9.55,91.5
+STU0065,Computer Networks,5,98.3,45.0,46.0,18.0,8.3,9.25,
+STU0065,Software Engineering,5,100.0,50.0,47.0,20.0,7.8,9.25,
+STU0065,Theory of Computation,5,94.9,45.5,50.0,20.0,8.3,9.25,
+STU0065,Web Technologies,5,92.7,48.0,46.5,16.5,9.4,9.25,
+STU0065,Artificial Intelligence,5,96.3,49.5,50.0,20.0,6.0,9.25,
+STU0066,Discrete Mathematics,3,75.1,14.0,8.0,12.0,2.4,4.24,28.9
+STU0066,Data Structures,3,79.8,13.0,9.0,8.5,4.2,4.24,35.0
+STU0066,Digital Logic Design,3,65.7,19.0,20.0,10.5,5.0,4.24,39.3
+STU0066,Object Oriented Programming with Java,3,69.9,20.5,19.5,9.5,2.0,4.24,38.0
+STU0066,Computer Organization,3,69.7,14.5,9.5,14.0,3.4,4.24,35.7
+STU0066,Design and Analysis of Algorithms,4,80.2,8.0,15.5,11.5,2.6,4.24,36.3
+STU0066,Database Management Systems,4,64.9,22.5,23.0,11.0,4.0,4.24,31.5
+STU0066,Operating Systems,4,78.5,12.0,7.5,14.0,1.9,4.24,32.1
+STU0066,Microcontrollers,4,72.4,18.5,17.5,9.5,1.3,4.24,24.1
+STU0066,Graph Theory,4,69.0,9.0,12.0,11.0,0.8,4.24,23.4
+STU0066,Computer Networks,5,77.6,8.5,15.5,12.5,5.5,4.0,
+STU0066,Software Engineering,5,78.9,20.0,20.0,15.5,5.9,4.0,
+STU0066,Theory of Computation,5,83.8,14.0,13.5,13.5,4.3,4.0,
+STU0066,Web Technologies,5,80.9,14.5,15.5,13.5,5.0,4.0,
+STU0066,Artificial Intelligence,5,78.8,25.0,30.5,14.0,3.3,4.0,
+STU0067,Discrete Mathematics,3,69.0,20.0,17.0,12.5,1.9,5.24,31.2
+STU0067,Data Structures,3,76.5,22.5,21.0,9.5,0.6,5.24,39.9
+STU0067,Digital Logic Design,3,65.1,7.5,11.0,12.5,0.5,5.24,28.2
+STU0067,Object Oriented Programming with Java,3,66.7,19.5,18.0,8.0,0.5,5.24,37.3
+STU0067,Computer Organization,3,79.1,20.0,13.5,13.0,2.6,5.24,38.0
+STU0067,Design and Analysis of Algorithms,4,68.9,22.0,20.5,12.5,0.5,4.59,29.0
+STU0067,Database Management Systems,4,67.4,24.0,19.5,9.5,0.5,4.59,30.5
+STU0067,Operating Systems,4,68.8,18.5,20.5,9.5,0.5,4.59,28.0
+STU0067,Microcontrollers,4,69.0,14.5,13.0,12.0,2.0,4.59,24.3
+STU0067,Graph Theory,4,66.0,22.0,20.5,9.0,0.5,4.59,28.2
+STU0067,Computer Networks,5,58.5,12.5,12.5,8.0,3.4,4.0,
+STU0067,Software Engineering,5,58.7,18.5,25.5,10.5,1.3,4.0,
+STU0067,Theory of Computation,5,68.1,6.5,6.0,9.0,4.6,4.0,
+STU0067,Web Technologies,5,62.5,23.5,16.5,9.0,0.5,4.0,
+STU0067,Artificial Intelligence,5,64.2,10.0,7.5,8.0,0.5,4.0,
+STU0068,Discrete Mathematics,3,76.7,28.0,25.5,10.5,4.8,7.7,51.5
+STU0068,Data Structures,3,81.7,34.0,42.0,15.5,5.3,7.7,79.4
+STU0068,Digital Logic Design,3,83.9,38.0,42.0,15.0,7.9,7.7,74.9
+STU0068,Object Oriented Programming with Java,3,79.5,33.5,31.5,13.5,4.6,7.7,50.3
+STU0068,Computer Organization,3,89.2,31.5,37.5,14.5,4.8,7.7,77.6
+STU0068,Design and Analysis of Algorithms,4,88.4,30.0,30.5,19.0,9.3,7.23,55.5
+STU0068,Database Management Systems,4,90.3,46.5,41.5,19.0,7.9,7.23,78.6
+STU0068,Operating Systems,4,84.7,32.5,35.5,14.0,5.1,7.23,70.6
+STU0068,Microcontrollers,4,83.6,34.0,37.0,15.5,5.1,7.23,67.3
+STU0068,Graph Theory,4,91.0,34.5,32.0,16.5,8.8,7.23,71.9
+STU0068,Computer Networks,5,78.2,32.0,26.0,11.0,3.8,7.04,
+STU0068,Software Engineering,5,78.4,28.5,27.5,13.0,2.7,7.04,
+STU0068,Theory of Computation,5,75.7,28.5,26.0,14.0,7.4,7.04,
+STU0068,Web Technologies,5,86.0,34.0,34.5,16.5,4.1,7.04,
+STU0068,Artificial Intelligence,5,80.4,31.0,30.5,17.0,4.6,7.04,
+STU0069,Discrete Mathematics,3,83.0,37.5,36.0,13.5,1.0,7.88,62.6
+STU0069,Data Structures,3,80.7,34.0,35.5,16.5,4.8,7.88,71.2
+STU0069,Digital Logic Design,3,87.5,23.5,33.0,12.0,5.8,7.88,73.5
+STU0069,Object Oriented Programming with Java,3,76.9,28.5,31.0,12.5,6.1,7.88,75.1
+STU0069,Computer Organization,3,79.1,21.0,20.5,14.0,5.9,7.88,57.2
+STU0069,Design and Analysis of Algorithms,4,83.7,33.0,31.5,11.5,0.9,7.72,54.8
+STU0069,Database Management Systems,4,83.9,33.0,36.0,15.0,6.2,7.72,70.2
+STU0069,Operating Systems,4,73.4,35.5,35.5,11.5,3.5,7.72,50.7
+STU0069,Microcontrollers,4,81.7,33.0,37.5,11.0,3.7,7.72,62.5
+STU0069,Graph Theory,4,76.2,36.0,31.0,14.5,5.1,7.72,70.3
+STU0069,Computer Networks,5,80.3,35.5,31.5,15.5,5.8,7.17,
+STU0069,Software Engineering,5,79.5,35.0,35.5,11.5,2.5,7.17,
+STU0069,Theory of Computation,5,70.7,31.0,25.0,14.5,5.8,7.17,
+STU0069,Web Technologies,5,81.3,31.5,28.5,12.5,4.2,7.17,
+STU0069,Artificial Intelligence,5,79.3,31.0,30.0,18.0,4.6,7.17,
+STU0070,Discrete Mathematics,3,73.0,35.0,36.5,14.0,3.1,7.47,63.5
+STU0070,Data Structures,3,71.8,34.0,34.0,15.5,4.8,7.47,68.1
+STU0070,Digital Logic Design,3,75.4,31.0,25.5,12.0,4.2,7.47,60.0
+STU0070,Object Oriented Programming with Java,3,71.9,31.0,33.0,13.5,4.3,7.47,63.0
+STU0070,Computer Organization,3,66.7,29.0,28.0,12.0,6.6,7.47,51.4
+STU0070,Design and Analysis of Algorithms,4,74.0,32.5,31.0,13.0,4.9,7.27,55.7
+STU0070,Database Management Systems,4,75.9,38.0,34.5,14.0,4.2,7.27,61.1
+STU0070,Operating Systems,4,71.4,29.5,32.5,11.0,3.1,7.27,50.2
+STU0070,Microcontrollers,4,81.5,33.0,28.0,14.0,3.0,7.27,64.0
+STU0070,Graph Theory,4,78.6,33.5,30.5,11.0,4.8,7.27,67.4
+STU0070,Computer Networks,5,70.1,30.5,27.5,10.0,1.4,6.98,
+STU0070,Software Engineering,5,63.2,31.5,27.0,13.0,2.6,6.98,
+STU0070,Theory of Computation,5,75.0,24.0,23.0,9.5,2.9,6.98,
+STU0070,Web Technologies,5,66.6,30.0,33.0,9.5,4.7,6.98,
+STU0070,Artificial Intelligence,5,73.9,36.5,35.5,15.0,5.1,6.98,
+STU0071,Discrete Mathematics,3,61.9,6.0,6.0,5.0,0.5,4.0,14.2
+STU0071,Data Structures,3,57.5,14.0,8.5,9.5,0.5,4.0,15.0
+STU0071,Digital Logic Design,3,57.4,12.5,8.5,8.0,1.2,4.0,20.4
+STU0071,Object Oriented Programming with Java,3,54.0,16.5,15.5,8.0,0.5,4.0,23.0
+STU0071,Computer Organization,3,48.9,6.0,6.0,11.0,0.5,4.0,12.0
+STU0071,Design and Analysis of Algorithms,4,52.3,10.0,6.0,7.5,0.8,4.0,12.2
+STU0071,Database Management Systems,4,63.2,17.0,20.5,5.0,0.5,4.0,24.7
+STU0071,Operating Systems,4,56.9,13.0,8.5,6.0,0.5,4.0,17.1
+STU0071,Microcontrollers,4,55.1,8.5,6.0,6.5,0.5,4.0,13.6
+STU0071,Graph Theory,4,52.3,6.0,6.0,6.0,0.5,4.0,9.0
+STU0071,Computer Networks,5,54.6,6.0,6.0,5.5,0.5,4.0,
+STU0071,Software Engineering,5,43.1,18.5,19.0,9.5,0.5,4.0,
+STU0071,Theory of Computation,5,60.9,6.0,7.5,7.0,0.5,4.0,
+STU0071,Web Technologies,5,55.2,11.0,13.5,10.0,2.5,4.0,
+STU0071,Artificial Intelligence,5,54.5,6.0,6.0,7.0,0.5,4.0,
+STU0072,Discrete Mathematics,3,89.5,40.5,43.0,15.5,4.4,8.75,75.5
+STU0072,Data Structures,3,88.0,44.0,43.5,16.5,5.7,8.75,75.8
+STU0072,Digital Logic Design,3,96.8,42.5,42.5,18.0,7.7,8.75,87.6
+STU0072,Object Oriented Programming with Java,3,93.6,45.5,42.0,15.5,8.9,8.75,81.7
+STU0072,Computer Organization,3,86.0,33.5,30.5,16.5,6.1,8.75,70.2
+STU0072,Design and Analysis of Algorithms,4,90.3,40.5,42.0,13.0,6.1,8.39,72.0
+STU0072,Database Management Systems,4,77.5,37.5,39.5,13.0,6.2,8.39,73.6
+STU0072,Operating Systems,4,87.4,36.0,37.0,16.0,7.8,8.39,82.8
+STU0072,Microcontrollers,4,76.1,50.0,49.5,12.0,4.9,8.39,73.7
+STU0072,Graph Theory,4,69.0,41.5,38.5,14.5,6.7,8.39,73.9
+STU0072,Computer Networks,5,79.7,31.0,33.0,15.0,5.7,7.92,
+STU0072,Software Engineering,5,84.9,33.0,35.5,14.5,6.5,7.92,
+STU0072,Theory of Computation,5,89.6,39.5,46.0,16.5,5.1,7.92,
+STU0072,Web Technologies,5,71.8,38.5,36.5,17.5,7.9,7.92,
+STU0072,Artificial Intelligence,5,81.5,32.0,32.0,17.0,7.1,7.92,
+STU0073,Discrete Mathematics,3,56.6,6.0,6.0,6.0,1.1,4.0,15.0
+STU0073,Data Structures,3,53.8,6.0,6.0,7.0,0.5,4.0,11.6
+STU0073,Digital Logic Design,3,59.3,10.5,8.0,7.0,0.5,4.0,15.6
+STU0073,Object Oriented Programming with Java,3,51.2,10.5,6.0,6.5,0.7,4.0,7.8
+STU0073,Computer Organization,3,51.5,6.0,6.0,2.0,0.5,4.0,9.7
+STU0073,Design and Analysis of Algorithms,4,58.9,6.0,6.0,5.5,0.5,4.0,7.8
+STU0073,Database Management Systems,4,54.1,11.5,10.0,7.0,2.5,4.0,14.7
+STU0073,Operating Systems,4,65.2,9.0,6.5,8.5,0.5,4.0,16.4
+STU0073,Microcontrollers,4,49.9,7.5,6.0,9.5,0.5,4.0,9.3
+STU0073,Graph Theory,4,61.7,14.5,11.5,9.5,0.5,4.0,19.8
+STU0073,Computer Networks,5,49.9,7.0,6.0,7.0,0.5,4.0,
+STU0073,Software Engineering,5,50.2,14.5,9.0,3.0,0.5,4.0,
+STU0073,Theory of Computation,5,56.4,6.0,13.5,5.0,0.5,4.0,
+STU0073,Web Technologies,5,46.8,6.0,6.0,3.5,0.5,4.0,
+STU0073,Artificial Intelligence,5,56.6,6.0,6.0,5.0,0.5,4.0,
+STU0074,Discrete Mathematics,3,91.7,37.5,38.0,16.5,9.4,8.12,73.3
+STU0074,Data Structures,3,91.6,33.5,37.5,20.0,6.5,8.12,78.4
+STU0074,Digital Logic Design,3,80.0,35.0,39.5,18.0,9.8,8.12,76.8
+STU0074,Object Oriented Programming with Java,3,93.8,43.5,46.5,20.0,8.8,8.12,88.1
+STU0074,Computer Organization,3,98.0,41.5,42.5,19.5,5.9,8.12,74.5
+STU0074,Design and Analysis of Algorithms,4,94.9,36.5,37.5,14.5,7.6,7.99,71.2
+STU0074,Database Management Systems,4,82.6,45.0,47.5,14.0,6.8,7.99,83.7
+STU0074,Operating Systems,4,88.6,43.0,44.0,14.5,6.6,7.99,85.7
+STU0074,Microcontrollers,4,88.5,37.5,43.5,15.5,7.3,7.99,66.0
+STU0074,Graph Theory,4,84.9,42.0,42.5,19.0,9.5,7.99,82.9
+STU0074,Computer Networks,5,86.2,37.5,33.5,17.0,7.9,8.04,
+STU0074,Software Engineering,5,96.5,37.0,37.5,19.0,5.0,8.04,
+STU0074,Theory of Computation,5,100.0,32.0,35.0,16.5,9.0,8.04,
+STU0074,Web Technologies,5,83.5,40.0,47.0,13.0,6.6,8.04,
+STU0074,Artificial Intelligence,5,90.0,23.5,20.0,17.0,4.9,8.04,
+STU0075,Discrete Mathematics,3,76.3,22.0,27.0,13.5,3.7,6.56,47.3
+STU0075,Data Structures,3,84.8,26.0,31.5,15.5,8.5,6.56,59.5
+STU0075,Digital Logic Design,3,79.9,25.5,24.0,13.0,3.0,6.56,48.3
+STU0075,Object Oriented Programming with Java,3,78.2,26.5,20.0,12.5,5.9,6.56,46.0
+STU0075,Computer Organization,3,81.1,26.5,24.5,14.0,5.9,6.56,54.8
+STU0075,Design and Analysis of Algorithms,4,85.9,32.0,31.0,15.5,4.4,5.92,54.6
+STU0075,Database Management Systems,4,79.4,28.5,30.0,13.5,1.5,5.92,64.6
+STU0075,Operating Systems,4,74.2,25.0,23.5,16.0,4.4,5.92,63.1
+STU0075,Microcontrollers,4,76.8,23.5,29.0,16.0,4.2,5.92,54.4
+STU0075,Graph Theory,4,73.0,28.5,31.0,10.5,3.2,5.92,47.6
+STU0075,Computer Networks,5,85.5,26.0,26.5,12.5,3.9,6.24,
+STU0075,Software Engineering,5,90.2,34.0,33.5,14.5,4.1,6.24,
+STU0075,Theory of Computation,5,78.6,16.0,19.0,10.0,6.5,6.24,
+STU0075,Web Technologies,5,86.6,23.5,20.0,13.0,6.6,6.24,
+STU0075,Artificial Intelligence,5,70.7,28.5,28.5,15.5,5.6,6.24,
+STU0076,Discrete Mathematics,3,78.0,24.0,25.0,13.5,5.7,6.71,62.5
+STU0076,Data Structures,3,75.2,35.0,35.0,11.5,4.4,6.71,77.1
+STU0076,Digital Logic Design,3,72.3,33.5,34.5,13.0,4.7,6.71,59.8
+STU0076,Object Oriented Programming with Java,3,76.9,41.5,40.5,14.5,3.0,6.71,66.2
+STU0076,Computer Organization,3,76.2,25.0,24.0,13.0,4.0,6.71,61.2
+STU0076,Design and Analysis of Algorithms,4,78.4,28.0,30.5,11.0,1.5,6.63,39.8
+STU0076,Database Management Systems,4,63.0,23.5,24.0,11.5,4.2,6.63,47.4
+STU0076,Operating Systems,4,73.1,23.5,25.0,10.0,1.4,6.63,28.5
+STU0076,Microcontrollers,4,74.1,29.0,33.0,11.5,1.2,6.63,56.7
+STU0076,Graph Theory,4,71.3,22.0,20.5,12.5,5.4,6.63,45.6
+STU0076,Computer Networks,5,91.1,32.0,37.0,11.5,5.5,5.96,
+STU0076,Software Engineering,5,86.4,31.5,31.5,9.5,5.5,5.96,
+STU0076,Theory of Computation,5,75.3,31.5,34.0,14.5,6.5,5.96,
+STU0076,Web Technologies,5,82.7,37.0,45.5,11.0,6.1,5.96,
+STU0076,Artificial Intelligence,5,75.4,30.0,29.5,15.5,5.3,5.96,
+STU0077,Discrete Mathematics,3,73.5,17.0,17.0,11.0,5.3,5.35,37.8
+STU0077,Data Structures,3,77.8,20.5,17.5,13.5,2.9,5.35,37.7
+STU0077,Digital Logic Design,3,78.6,26.0,22.0,9.5,3.7,5.35,43.9
+STU0077,Object Oriented Programming with Java,3,66.3,23.0,23.0,11.0,1.4,5.35,35.3
+STU0077,Computer Organization,3,70.6,16.0,11.0,13.5,6.2,5.35,33.2
+STU0077,Design and Analysis of Algorithms,4,79.9,14.5,17.5,13.0,2.8,5.12,28.0
+STU0077,Database Management Systems,4,67.8,23.5,22.5,11.5,0.5,5.12,27.6
+STU0077,Operating Systems,4,67.9,17.0,17.5,13.0,2.8,5.12,47.8
+STU0077,Microcontrollers,4,73.9,15.5,9.0,11.5,5.4,5.12,26.0
+STU0077,Graph Theory,4,74.1,10.0,17.0,11.0,2.4,5.12,24.5
+STU0077,Computer Networks,5,70.5,21.0,23.0,13.5,2.9,4.51,
+STU0077,Software Engineering,5,77.5,22.5,22.0,9.5,4.9,4.51,
+STU0077,Theory of Computation,5,74.8,22.5,17.0,15.0,3.1,4.51,
+STU0077,Web Technologies,5,76.3,14.0,14.0,13.0,3.1,4.51,
+STU0077,Artificial Intelligence,5,73.5,13.0,21.0,10.0,0.5,4.51,
+STU0078,Discrete Mathematics,3,77.7,39.5,39.0,17.0,6.1,8.14,68.4
+STU0078,Data Structures,3,83.4,29.0,29.5,14.0,5.8,8.14,58.2
+STU0078,Digital Logic Design,3,81.1,34.0,34.0,13.5,5.3,8.14,66.0
+STU0078,Object Oriented Programming with Java,3,79.9,46.5,41.0,13.0,4.0,8.14,71.0
+STU0078,Computer Organization,3,90.4,35.5,36.5,14.5,2.9,8.14,75.8
+STU0078,Design and Analysis of Algorithms,4,67.7,27.5,26.5,10.5,4.9,7.9,52.4
+STU0078,Database Management Systems,4,68.6,28.5,25.5,15.5,5.0,7.9,62.3
+STU0078,Operating Systems,4,84.3,29.5,35.0,11.0,7.2,7.9,70.9
+STU0078,Microcontrollers,4,75.3,34.5,38.0,15.0,3.2,7.9,66.9
+STU0078,Graph Theory,4,78.7,32.5,34.5,14.0,5.6,7.9,70.5
+STU0078,Computer Networks,5,75.0,30.5,30.0,13.5,6.3,7.19,
+STU0078,Software Engineering,5,70.6,22.5,18.0,14.5,4.2,7.19,
+STU0078,Theory of Computation,5,75.6,31.0,32.0,11.5,5.1,7.19,
+STU0078,Web Technologies,5,70.0,40.5,45.0,11.5,5.7,7.19,
+STU0078,Artificial Intelligence,5,80.5,33.5,30.5,13.0,4.5,7.19,
+STU0079,Discrete Mathematics,3,72.7,38.5,46.5,11.0,5.8,7.61,61.4
+STU0079,Data Structures,3,79.7,35.5,34.0,14.0,1.7,7.61,64.0
+STU0079,Digital Logic Design,3,75.5,43.0,50.0,13.5,2.9,7.61,73.9
+STU0079,Object Oriented Programming with Java,3,65.9,37.5,34.0,12.5,2.6,7.61,68.3
+STU0079,Computer Organization,3,79.9,32.0,35.5,12.0,3.3,7.61,51.2
+STU0079,Design and Analysis of Algorithms,4,63.0,35.0,31.0,9.0,2.0,7.34,48.7
+STU0079,Database Management Systems,4,65.0,30.5,23.0,12.0,3.1,7.34,50.4
+STU0079,Operating Systems,4,72.6,30.5,33.5,8.0,1.4,7.34,58.7
+STU0079,Microcontrollers,4,74.8,30.5,25.0,10.5,3.6,7.34,45.3
+STU0079,Graph Theory,4,62.3,35.5,29.0,12.0,3.2,7.34,50.8
+STU0079,Computer Networks,5,80.2,29.5,29.0,13.5,6.2,6.73,
+STU0079,Software Engineering,5,80.0,39.0,38.0,12.0,5.7,6.73,
+STU0079,Theory of Computation,5,79.5,32.0,25.0,13.5,3.0,6.73,
+STU0079,Web Technologies,5,74.4,32.0,34.5,17.5,7.2,6.73,
+STU0079,Artificial Intelligence,5,77.4,29.5,27.5,12.0,2.9,6.73,
+STU0080,Discrete Mathematics,3,83.1,23.5,24.0,13.0,3.9,7.05,51.9
+STU0080,Data Structures,3,66.3,26.0,27.5,12.5,6.3,7.05,55.3
+STU0080,Digital Logic Design,3,82.4,29.5,32.5,11.0,4.4,7.05,61.8
+STU0080,Object Oriented Programming with Java,3,65.9,32.5,33.0,9.0,1.8,7.05,52.7
+STU0080,Computer Organization,3,68.5,30.0,24.5,12.0,5.5,7.05,46.8
+STU0080,Design and Analysis of Algorithms,4,76.5,24.5,25.0,10.0,2.0,6.67,38.3
+STU0080,Database Management Systems,4,77.8,27.5,24.0,10.5,4.4,6.67,66.9
+STU0080,Operating Systems,4,78.2,34.0,28.0,11.0,2.9,6.67,56.2
+STU0080,Microcontrollers,4,75.7,32.0,31.5,12.0,3.4,6.67,54.7
+STU0080,Graph Theory,4,70.9,32.0,32.0,10.0,3.9,6.67,46.0
+STU0080,Computer Networks,5,73.0,30.0,34.5,13.0,4.5,6.26,
+STU0080,Software Engineering,5,74.3,43.0,41.0,13.0,3.3,6.26,
+STU0080,Theory of Computation,5,71.2,33.5,27.0,13.5,4.4,6.26,
+STU0080,Web Technologies,5,75.9,38.0,42.0,10.5,4.2,6.26,
+STU0080,Artificial Intelligence,5,78.9,37.0,46.5,14.0,4.9,6.26,
+STU0081,Computer Networks,5,85.3,39.0,36.5,17.5,8.0,8.16,71.7
+STU0081,Software Engineering,5,88.9,44.5,44.0,16.0,6.5,8.16,84.4
+STU0081,Theory of Computation,5,81.5,32.0,31.5,15.0,6.7,8.16,71.7
+STU0081,Web Technologies,5,83.0,38.5,34.5,17.0,7.7,8.16,67.6
+STU0081,Artificial Intelligence,5,89.8,35.5,32.0,16.0,6.0,8.16,76.7
+STU0081,Compiler Design,6,91.1,42.0,45.5,18.0,3.4,7.9,72.9
+STU0081,Cloud Computing,6,78.3,34.5,38.5,16.0,8.4,7.9,77.5
+STU0081,Machine Learning,6,84.2,29.5,40.0,20.0,8.7,7.9,83.3
+STU0081,Cryptography and Network Security,6,95.5,39.0,40.5,13.5,7.2,7.9,81.9
+STU0081,Mobile Application Development,6,94.7,32.0,31.5,13.0,7.3,7.9,77.1
+STU0081,Distributed Systems,7,77.4,33.5,38.0,13.5,7.0,7.82,
+STU0081,Internet of Things,7,72.2,44.5,50.0,16.0,3.1,7.82,
+STU0081,Big Data Analytics,7,83.7,34.5,36.5,15.5,8.0,7.82,
+STU0081,Blockchain Technology,7,82.4,32.0,35.0,15.0,7.0,7.82,
+STU0081,DevOps,7,92.9,42.0,36.0,15.0,6.3,7.82,
+STU0082,Computer Networks,5,92.7,46.5,45.5,14.0,7.0,8.59,80.1
+STU0082,Software Engineering,5,77.7,41.5,39.5,16.5,7.1,8.59,73.0
+STU0082,Theory of Computation,5,88.3,43.5,42.5,16.5,5.6,8.59,76.3
+STU0082,Web Technologies,5,88.1,35.5,40.0,15.5,6.5,8.59,81.7
+STU0082,Artificial Intelligence,5,87.8,37.0,40.0,15.0,5.1,8.59,79.8
+STU0082,Compiler Design,6,86.9,41.5,47.0,15.5,6.1,8.4,80.1
+STU0082,Cloud Computing,6,85.5,50.0,50.0,16.0,6.8,8.4,85.2
+STU0082,Machine Learning,6,81.4,43.0,47.0,17.0,6.4,8.4,72.6
+STU0082,Cryptography and Network Security,6,90.7,37.0,43.0,18.5,6.5,8.4,78.8
+STU0082,Mobile Application Development,6,89.2,50.0,50.0,13.5,7.9,8.4,91.9
+STU0082,Distributed Systems,7,82.6,38.5,41.0,13.0,4.8,8.64,
+STU0082,Internet of Things,7,81.9,39.5,34.5,13.5,4.4,8.64,
+STU0082,Big Data Analytics,7,83.1,34.0,34.0,15.0,4.0,8.64,
+STU0082,Blockchain Technology,7,77.0,44.5,45.0,11.5,5.7,8.64,
+STU0082,DevOps,7,91.1,40.0,39.0,14.5,3.2,8.64,
+STU0083,Computer Networks,5,87.4,27.5,26.0,12.5,4.9,6.52,63.6
+STU0083,Software Engineering,5,87.1,30.5,31.0,13.0,6.6,6.52,61.3
+STU0083,Theory of Computation,5,68.1,22.5,21.5,10.0,2.4,6.52,37.1
+STU0083,Web Technologies,5,74.3,25.0,24.0,11.5,2.3,6.52,57.3
+STU0083,Artificial Intelligence,5,65.6,25.0,25.0,13.5,1.0,6.52,37.0
+STU0083,Compiler Design,6,83.8,26.0,35.0,12.5,3.5,5.94,57.9
+STU0083,Cloud Computing,6,78.8,31.0,31.5,13.0,5.2,5.94,58.0
+STU0083,Machine Learning,6,77.1,32.5,33.5,14.0,7.3,5.94,56.6
+STU0083,Cryptography and Network Security,6,73.8,33.0,30.0,12.0,5.5,5.94,69.7
+STU0083,Mobile Application Development,6,75.8,31.0,31.5,12.0,6.9,5.94,68.5
+STU0083,Distributed Systems,7,79.8,23.0,26.5,14.5,3.7,6.44,
+STU0083,Internet of Things,7,75.9,23.0,23.0,12.5,1.9,6.44,
+STU0083,Big Data Analytics,7,70.8,28.5,21.0,10.5,2.2,6.44,
+STU0083,Blockchain Technology,7,77.1,26.0,32.0,15.5,1.0,6.44,
+STU0083,DevOps,7,76.4,23.0,22.0,14.5,2.3,6.44,
+STU0084,Computer Networks,5,58.8,11.5,11.0,8.0,0.5,4.0,17.8
+STU0084,Software Engineering,5,61.8,11.5,8.5,10.0,1.3,4.0,19.0
+STU0084,Theory of Computation,5,69.5,7.5,6.0,11.5,0.5,4.0,17.1
+STU0084,Web Technologies,5,56.8,13.5,10.0,7.5,0.5,4.0,8.9
+STU0084,Artificial Intelligence,5,59.9,15.5,18.0,7.5,0.5,4.0,25.1
+STU0084,Compiler Design,6,52.4,16.5,14.5,10.5,0.5,4.0,16.8
+STU0084,Cloud Computing,6,64.7,15.0,13.5,9.0,0.5,4.0,24.9
+STU0084,Machine Learning,6,54.9,19.0,14.5,4.5,1.2,4.0,22.1
+STU0084,Cryptography and Network Security,6,57.1,13.5,9.5,7.0,0.5,4.0,16.8
+STU0084,Mobile Application Development,6,67.0,9.0,6.0,8.0,0.5,4.0,16.7
+STU0084,Distributed Systems,7,60.6,12.5,13.0,10.0,1.2,4.0,
+STU0084,Internet of Things,7,61.3,12.0,10.0,10.0,1.6,4.0,
+STU0084,Big Data Analytics,7,70.9,13.0,10.5,3.5,2.5,4.0,
+STU0084,Blockchain Technology,7,55.2,13.5,14.5,11.0,1.1,4.0,
+STU0084,DevOps,7,75.1,9.0,6.0,8.0,1.1,4.0,
+STU0085,Computer Networks,5,89.8,24.0,20.5,15.0,3.8,6.87,62.7
+STU0085,Software Engineering,5,79.9,31.5,35.0,14.0,5.2,6.87,64.0
+STU0085,Theory of Computation,5,75.8,32.5,34.0,13.5,5.1,6.87,67.3
+STU0085,Web Technologies,5,80.0,37.5,39.0,12.0,8.3,6.87,84.2
+STU0085,Artificial Intelligence,5,85.3,34.0,38.0,17.0,5.5,6.87,65.0
+STU0085,Compiler Design,6,84.3,23.0,24.0,13.5,6.7,7.09,60.8
+STU0085,Cloud Computing,6,92.6,30.0,33.0,15.0,5.3,7.09,58.4
+STU0085,Machine Learning,6,77.3,16.0,23.0,16.0,5.0,7.09,51.2
+STU0085,Cryptography and Network Security,6,72.4,24.5,33.5,14.0,3.3,7.09,60.0
+STU0085,Mobile Application Development,6,81.8,32.5,33.0,14.0,6.3,7.09,77.1
+STU0085,Distributed Systems,7,89.8,30.0,31.5,13.5,6.1,6.85,
+STU0085,Internet of Things,7,79.7,29.5,24.5,11.5,7.2,6.85,
+STU0085,Big Data Analytics,7,85.5,31.5,33.0,14.5,3.9,6.85,
+STU0085,Blockchain Technology,7,83.0,28.0,31.0,17.5,1.4,6.85,
+STU0085,DevOps,7,74.6,25.0,31.5,16.5,5.2,6.85,
+STU0086,Computer Networks,5,100.0,39.5,47.5,20.0,9.5,9.03,81.8
+STU0086,Software Engineering,5,97.0,45.5,47.0,20.0,10.4,9.03,89.8
+STU0086,Theory of Computation,5,100.0,36.5,40.0,17.0,12.7,9.03,78.7
+STU0086,Web Technologies,5,90.3,44.5,47.0,19.0,11.1,9.03,89.8
+STU0086,Artificial Intelligence,5,92.2,44.0,40.5,20.0,10.2,9.03,75.0
+STU0086,Compiler Design,6,93.5,38.5,40.5,17.0,7.5,8.86,80.3
+STU0086,Cloud Computing,6,88.9,39.0,46.0,20.0,8.5,8.86,88.7
+STU0086,Machine Learning,6,99.0,40.5,50.0,20.0,6.3,8.86,85.2
+STU0086,Cryptography and Network Security,6,93.3,46.5,45.0,17.5,9.3,8.86,86.4
+STU0086,Mobile Application Development,6,97.5,48.0,50.0,19.0,8.3,8.86,83.1
+STU0086,Distributed Systems,7,100.0,38.5,48.0,20.0,9.6,9.18,
+STU0086,Internet of Things,7,100.0,38.5,43.0,17.5,10.2,9.18,
+STU0086,Big Data Analytics,7,96.2,42.5,42.5,20.0,9.6,9.18,
+STU0086,Blockchain Technology,7,100.0,39.5,50.0,19.0,10.1,9.18,
+STU0086,DevOps,7,100.0,47.0,50.0,20.0,8.4,9.18,
+STU0087,Computer Networks,5,88.1,38.0,36.5,13.0,8.7,8.8,80.1
+STU0087,Software Engineering,5,78.5,50.0,50.0,16.0,5.1,8.8,86.2
+STU0087,Theory of Computation,5,90.0,39.0,42.0,17.5,6.8,8.8,81.2
+STU0087,Web Technologies,5,88.7,50.0,50.0,15.5,5.3,8.8,82.9
+STU0087,Artificial Intelligence,5,83.2,40.0,37.0,16.0,8.5,8.8,84.7
+STU0087,Compiler Design,6,92.0,29.0,29.5,17.5,4.6,8.91,76.4
+STU0087,Cloud Computing,6,79.8,34.0,33.0,15.0,9.3,8.91,81.8
+STU0087,Machine Learning,6,91.7,35.0,39.0,16.5,8.0,8.91,66.0
+STU0087,Cryptography and Network Security,6,73.2,39.5,35.0,15.0,8.1,8.91,73.8
+STU0087,Mobile Application Development,6,84.1,50.0,50.0,15.0,4.0,8.91,81.5
+STU0087,Distributed Systems,7,74.6,35.5,31.5,18.0,5.7,8.55,
+STU0087,Internet of Things,7,83.0,40.0,41.5,15.0,2.6,8.55,
+STU0087,Big Data Analytics,7,83.0,47.5,45.5,11.0,6.4,8.55,
+STU0087,Blockchain Technology,7,75.8,30.5,28.5,17.5,7.0,8.55,
+STU0087,DevOps,7,86.8,37.0,42.5,15.0,3.2,8.55,
+STU0088,Computer Networks,5,66.3,30.0,27.0,13.0,2.5,6.8,52.4
+STU0088,Software Engineering,5,88.4,24.0,25.5,12.5,4.9,6.8,56.6
+STU0088,Theory of Computation,5,82.5,30.0,32.5,16.0,5.5,6.8,53.6
+STU0088,Web Technologies,5,83.1,27.0,30.5,14.0,4.0,6.8,77.4
+STU0088,Artificial Intelligence,5,88.1,26.5,34.5,11.5,7.1,6.8,71.7
+STU0088,Compiler Design,6,89.8,18.0,20.0,14.5,4.0,6.58,52.2
+STU0088,Cloud Computing,6,100.0,20.5,17.5,14.0,6.5,6.58,49.8
+STU0088,Machine Learning,6,85.6,19.5,28.5,13.5,6.6,6.58,56.1
+STU0088,Cryptography and Network Security,6,86.5,26.0,29.5,16.5,7.3,6.58,57.4
+STU0088,Mobile Application Development,6,88.1,30.0,25.5,13.0,7.3,6.58,68.9
+STU0088,Distributed Systems,7,82.1,19.0,19.0,14.5,5.7,5.96,
+STU0088,Internet of Things,7,81.2,24.0,33.0,14.5,6.0,5.96,
+STU0088,Big Data Analytics,7,82.1,18.0,14.0,13.0,5.5,5.96,
+STU0088,Blockchain Technology,7,91.2,22.5,19.0,15.0,3.6,5.96,
+STU0088,DevOps,7,82.8,32.5,36.0,14.0,6.3,5.96,
+STU0089,Computer Networks,5,78.2,25.0,22.0,10.0,3.5,5.25,28.2
+STU0089,Software Engineering,5,75.2,25.0,18.0,11.5,2.7,5.25,50.1
+STU0089,Theory of Computation,5,69.9,16.5,16.5,13.5,4.7,5.25,39.5
+STU0089,Web Technologies,5,76.1,21.0,23.5,10.5,2.7,5.25,46.3
+STU0089,Artificial Intelligence,5,73.4,17.0,10.0,13.5,3.8,5.25,39.8
+STU0089,Compiler Design,6,79.5,15.0,16.0,13.0,3.5,4.63,34.4
+STU0089,Cloud Computing,6,75.2,24.5,26.5,13.0,2.4,4.63,50.4
+STU0089,Machine Learning,6,85.4,25.5,23.5,14.5,3.2,4.63,56.8
+STU0089,Cryptography and Network Security,6,74.6,21.5,19.0,12.0,6.8,4.63,51.1
+STU0089,Mobile Application Development,6,81.3,22.0,23.5,12.0,2.5,4.63,62.6
+STU0089,Distributed Systems,7,74.2,12.0,10.5,14.5,5.8,5.06,
+STU0089,Internet of Things,7,71.9,23.0,21.0,12.0,2.7,5.06,
+STU0089,Big Data Analytics,7,73.2,15.5,15.5,9.5,1.0,5.06,
+STU0089,Blockchain Technology,7,68.5,29.0,25.5,13.0,6.8,5.06,
+STU0089,DevOps,7,74.5,20.0,19.5,11.0,7.0,5.06,
+STU0090,Computer Networks,5,82.9,35.5,35.0,10.5,0.8,7.07,52.6
+STU0090,Software Engineering,5,71.2,28.5,26.5,10.0,3.4,7.07,46.9
+STU0090,Theory of Computation,5,66.9,26.0,26.5,12.0,1.3,7.07,52.7
+STU0090,Web Technologies,5,59.2,32.0,34.0,13.0,3.9,7.07,51.0
+STU0090,Artificial Intelligence,5,72.3,32.5,24.5,13.0,1.9,7.07,51.3
+STU0090,Compiler Design,6,81.2,31.0,28.5,13.5,8.9,6.28,64.2
+STU0090,Cloud Computing,6,69.0,29.5,32.0,9.5,1.7,6.28,44.3
+STU0090,Machine Learning,6,77.2,33.0,27.5,16.5,3.8,6.28,48.4
+STU0090,Cryptography and Network Security,6,62.9,22.0,21.0,12.0,3.6,6.28,36.4
+STU0090,Mobile Application Development,6,69.4,28.5,32.0,12.0,4.4,6.28,49.4
+STU0090,Distributed Systems,7,63.4,18.5,23.0,11.5,3.8,5.57,
+STU0090,Internet of Things,7,65.1,28.0,24.0,11.5,4.1,5.57,
+STU0090,Big Data Analytics,7,61.8,29.5,28.0,13.5,1.1,5.57,
+STU0090,Blockchain Technology,7,73.9,23.5,23.5,11.5,2.7,5.57,
+STU0090,DevOps,7,71.0,28.5,25.5,9.0,2.7,5.57,
+STU0091,Computer Networks,5,74.3,27.5,23.5,15.5,8.4,7.81,76.3
+STU0091,Software Engineering,5,96.7,39.0,33.5,16.5,8.2,7.81,74.9
+STU0091,Theory of Computation,5,83.0,31.0,35.5,12.5,7.4,7.81,64.7
+STU0091,Web Technologies,5,82.7,38.0,35.5,16.5,6.4,7.81,73.5
+STU0091,Artificial Intelligence,5,83.9,34.5,33.0,16.0,6.3,7.81,67.9
+STU0091,Compiler Design,6,86.4,33.5,33.5,16.0,7.6,7.6,59.4
+STU0091,Cloud Computing,6,90.6,40.0,39.0,20.0,6.6,7.6,75.9
+STU0091,Machine Learning,6,77.1,42.0,48.5,15.5,4.8,7.6,81.9
+STU0091,Cryptography and Network Security,6,92.6,37.0,39.5,18.0,7.1,7.6,76.9
+STU0091,Mobile Application Development,6,84.8,49.5,50.0,18.0,7.1,7.6,86.3
+STU0091,Distributed Systems,7,92.8,32.5,36.0,16.5,7.9,7.82,
+STU0091,Internet of Things,7,100.0,41.5,40.0,17.0,5.0,7.82,
+STU0091,Big Data Analytics,7,83.5,37.5,36.0,18.0,6.3,7.82,
+STU0091,Blockchain Technology,7,92.4,29.0,30.0,14.0,5.3,7.82,
+STU0091,DevOps,7,80.4,40.5,40.0,14.0,5.8,7.82,
+STU0092,Computer Networks,5,81.2,22.5,31.5,13.0,7.0,7.08,61.0
+STU0092,Software Engineering,5,76.1,26.0,23.5,14.0,3.7,7.08,52.2
+STU0092,Theory of Computation,5,86.3,21.5,21.0,16.5,4.5,7.08,53.1
+STU0092,Web Technologies,5,81.9,24.5,21.0,17.0,3.5,7.08,61.8
+STU0092,Artificial Intelligence,5,77.7,24.0,22.0,15.5,4.9,7.08,54.4
+STU0092,Compiler Design,6,92.6,33.5,34.5,19.5,6.7,6.93,71.5
+STU0092,Cloud Computing,6,90.3,42.0,38.5,20.0,7.6,6.93,78.6
+STU0092,Machine Learning,6,81.2,25.5,30.0,14.5,6.2,6.93,61.5
+STU0092,Cryptography and Network Security,6,95.1,30.5,27.5,16.0,6.3,6.93,79.8
+STU0092,Mobile Application Development,6,93.2,32.0,34.0,17.0,7.0,6.93,69.3
+STU0092,Distributed Systems,7,82.5,28.5,29.5,11.0,3.4,7.32,
+STU0092,Internet of Things,7,71.2,26.5,34.0,16.0,6.4,7.32,
+STU0092,Big Data Analytics,7,69.4,22.5,30.0,14.0,4.1,7.32,
+STU0092,Blockchain Technology,7,78.9,26.5,31.5,14.5,5.0,7.32,
+STU0092,DevOps,7,89.4,26.5,17.0,15.0,4.8,7.32,
+STU0093,Computer Networks,5,83.4,28.5,25.0,15.5,5.3,6.87,50.0
+STU0093,Software Engineering,5,78.2,29.5,37.0,15.0,2.9,6.87,69.0
+STU0093,Theory of Computation,5,96.8,22.5,21.5,15.0,6.8,6.87,50.8
+STU0093,Web Technologies,5,80.8,34.0,29.0,13.5,7.7,6.87,64.0
+STU0093,Artificial Intelligence,5,87.1,39.0,39.0,14.0,7.9,6.87,75.9
+STU0093,Compiler Design,6,65.4,24.5,30.0,14.0,5.3,6.64,40.4
+STU0093,Cloud Computing,6,78.4,24.0,27.0,13.5,1.8,6.64,59.6
+STU0093,Machine Learning,6,69.0,24.5,29.0,15.0,4.7,6.64,56.7
+STU0093,Cryptography and Network Security,6,88.3,31.5,28.5,12.0,4.5,6.64,62.3
+STU0093,Mobile Application Development,6,71.6,29.5,34.0,14.0,6.0,6.64,62.9
+STU0093,Distributed Systems,7,81.2,23.0,23.0,16.5,4.8,6.45,
+STU0093,Internet of Things,7,76.0,26.5,29.5,15.0,2.1,6.45,
+STU0093,Big Data Analytics,7,83.8,31.0,35.5,16.5,6.0,6.45,
+STU0093,Blockchain Technology,7,71.3,29.0,35.5,16.0,5.9,6.45,
+STU0093,DevOps,7,82.0,22.0,23.5,12.5,5.2,6.45,
+STU0094,Computer Networks,5,100.0,39.0,42.0,17.0,8.9,6.17,79.3
+STU0094,Software Engineering,5,90.2,32.0,30.0,18.0,6.5,6.17,69.3
+STU0094,Theory of Computation,5,88.2,31.5,37.0,15.0,6.8,6.17,54.4
+STU0094,Web Technologies,5,95.5,36.0,44.5,20.0,5.5,6.17,81.2
+STU0094,Artificial Intelligence,5,94.1,22.0,22.5,18.5,11.3,6.17,60.8
+STU0094,Compiler Design,6,85.3,26.5,29.5,14.5,6.0,6.87,65.1
+STU0094,Cloud Computing,6,90.4,27.5,23.0,16.0,8.6,6.87,82.7
+STU0094,Machine Learning,6,93.8,32.0,36.5,13.5,6.0,6.87,74.9
+STU0094,Cryptography and Network Security,6,85.9,29.5,35.5,14.5,6.7,6.87,53.4
+STU0094,Mobile Application Development,6,88.6,31.0,37.5,17.0,3.6,6.87,75.5
+STU0094,Distributed Systems,7,88.7,38.0,39.5,19.0,6.2,7.21,
+STU0094,Internet of Things,7,94.3,36.0,39.5,16.5,7.8,7.21,
+STU0094,Big Data Analytics,7,85.4,34.5,29.5,17.5,5.7,7.21,
+STU0094,Blockchain Technology,7,85.3,39.0,33.5,16.0,7.9,7.21,
+STU0094,DevOps,7,86.8,33.5,27.5,17.5,9.0,7.21,
+STU0095,Computer Networks,5,86.4,17.0,30.0,14.5,6.4,5.71,53.1
+STU0095,Software Engineering,5,91.5,30.5,28.0,16.0,9.5,5.71,55.5
+STU0095,Theory of Computation,5,91.1,17.5,19.5,16.5,4.0,5.71,42.8
+STU0095,Web Technologies,5,94.5,27.5,25.5,18.5,7.8,5.71,60.5
+STU0095,Artificial Intelligence,5,95.7,25.5,31.5,10.0,9.9,5.71,59.3
+STU0095,Compiler Design,6,85.2,25.0,20.0,18.0,2.7,5.93,57.3
+STU0095,Cloud Computing,6,84.2,26.0,29.0,13.5,7.6,5.93,66.4
+STU0095,Machine Learning,6,77.8,24.0,25.5,16.0,3.9,5.93,49.1
+STU0095,Cryptography and Network Security,6,97.2,24.5,27.5,17.5,7.1,5.93,64.5
+STU0095,Mobile Application Development,6,89.2,19.0,14.5,15.5,8.0,5.93,50.5
+STU0095,Distributed Systems,7,84.6,17.5,22.0,13.5,7.9,6.12,
+STU0095,Internet of Things,7,83.4,28.5,32.5,14.0,7.3,6.12,
+STU0095,Big Data Analytics,7,83.2,25.5,30.5,18.0,5.2,6.12,
+STU0095,Blockchain Technology,7,91.4,19.5,21.5,14.5,7.5,6.12,
+STU0095,DevOps,7,92.0,39.0,37.0,17.0,7.7,6.12,
+STU0096,Computer Networks,5,73.9,34.5,36.0,13.0,4.0,7.9,62.6
+STU0096,Software Engineering,5,68.0,33.5,36.0,16.0,5.5,7.9,65.7
+STU0096,Theory of Computation,5,71.8,33.0,31.5,12.5,4.6,7.9,60.6
+STU0096,Web Technologies,5,80.2,29.0,30.5,12.0,4.1,7.9,64.7
+STU0096,Artificial Intelligence,5,78.3,34.5,36.0,14.5,1.6,7.9,62.7
+STU0096,Compiler Design,6,77.5,38.0,41.0,14.5,5.1,7.07,72.0
+STU0096,Cloud Computing,6,74.3,32.0,29.0,18.0,4.6,7.07,79.0
+STU0096,Machine Learning,6,85.4,37.0,39.5,12.5,5.3,7.07,63.7
+STU0096,Cryptography and Network Security,6,92.0,34.5,35.0,16.0,4.6,7.07,61.9
+STU0096,Mobile Application Development,6,84.5,49.0,49.0,15.5,7.3,7.07,87.8
+STU0096,Distributed Systems,7,87.6,31.5,26.5,14.5,6.2,7.27,
+STU0096,Internet of Things,7,74.9,32.0,30.0,15.0,5.3,7.27,
+STU0096,Big Data Analytics,7,84.1,27.0,28.5,13.5,4.1,7.27,
+STU0096,Blockchain Technology,7,92.0,29.0,32.0,16.0,8.8,7.27,
+STU0096,DevOps,7,79.7,35.0,36.0,12.0,7.7,7.27,
+STU0097,Engineering Mathematics I,1,79.4,23.5,19.5,13.5,3.0,7.5,50.2
+STU0097,Engineering Physics,1,64.6,35.0,33.0,12.5,3.7,7.5,61.3
+STU0097,Basic Electrical Engineering,1,80.7,19.0,25.0,14.0,5.9,7.5,74.1
+STU0097,Programming in C,1,72.0,31.0,30.0,14.0,1.5,7.5,62.6
+STU0097,Engineering Graphics,1,75.8,34.0,32.5,12.5,3.9,7.5,71.4
+STU0097,Engineering Mathematics II,2,69.3,29.0,29.0,13.0,5.3,7.37,54.4
+STU0097,Engineering Chemistry,2,75.4,39.0,36.0,14.5,3.5,7.37,72.7
+STU0097,Basic Electronics,2,86.1,34.5,38.0,17.0,6.8,7.37,74.7
+STU0097,Python Programming,2,71.0,38.5,37.0,17.5,4.7,7.37,69.8
+STU0097,Elements of Mechanical Engineering,2,81.6,33.0,34.5,16.0,7.3,7.37,60.5
+STU0097,Discrete Mathematics,3,89.7,24.5,28.5,16.0,3.1,7.18,
+STU0097,Data Structures,3,83.8,29.0,27.0,15.0,6.8,7.18,
+STU0097,Analog and Digital Electronics,3,75.2,32.0,34.0,14.5,5.3,7.18,
+STU0097,Object Oriented Programming with Java,3,88.5,33.0,27.5,13.5,4.8,7.18,
+STU0097,Unix System Programming,3,83.4,36.0,44.5,13.0,6.6,7.18,
+STU0098,Engineering Mathematics I,1,89.0,18.5,23.0,10.0,3.9,6.21,41.8
+STU0098,Engineering Physics,1,80.1,25.0,21.0,13.0,4.3,6.21,58.6
+STU0098,Basic Electrical Engineering,1,77.3,21.5,18.5,14.0,3.1,6.21,49.4
+STU0098,Programming in C,1,72.8,29.0,26.0,14.5,0.9,6.21,44.0
+STU0098,Engineering Graphics,1,71.8,37.5,41.0,13.5,4.7,6.21,68.1
+STU0098,Engineering Mathematics II,2,75.8,19.0,18.0,7.0,4.1,5.69,36.3
+STU0098,Engineering Chemistry,2,76.1,16.5,8.5,12.5,1.9,5.69,30.6
+STU0098,Basic Electronics,2,56.6,13.0,11.0,10.0,0.5,5.69,19.5
+STU0098,Python Programming,2,70.5,25.5,22.5,15.5,1.8,5.69,44.8
+STU0098,Elements of Mechanical Engineering,2,61.3,18.0,10.0,10.5,0.5,5.69,18.7
+STU0098,Discrete Mathematics,3,75.7,13.5,13.0,10.5,6.9,4.68,
+STU0098,Data Structures,3,68.5,16.5,25.0,12.5,4.5,4.68,
+STU0098,Analog and Digital Electronics,3,70.4,22.5,16.0,9.0,1.9,4.68,
+STU0098,Object Oriented Programming with Java,3,76.2,26.5,28.0,11.5,5.2,4.68,
+STU0098,Unix System Programming,3,66.1,22.0,17.5,11.5,0.5,4.68,
+STU0099,Engineering Mathematics I,1,91.2,30.5,28.0,15.0,4.7,7.17,66.7
+STU0099,Engineering Physics,1,81.1,33.5,38.5,13.5,4.8,7.17,65.6
+STU0099,Basic Electrical Engineering,1,81.8,27.0,26.5,10.0,3.0,7.17,59.9
+STU0099,Programming in C,1,71.6,29.5,29.5,12.5,3.7,7.17,56.8
+STU0099,Engineering Graphics,1,76.5,28.0,32.0,9.5,3.7,7.17,57.7
+STU0099,Engineering Mathematics II,2,71.1,34.0,34.5,10.0,3.5,6.81,51.1
+STU0099,Engineering Chemistry,2,78.7,31.0,30.0,11.5,1.8,6.81,72.4
+STU0099,Basic Electronics,2,71.6,27.5,28.5,14.0,4.4,6.81,51.6
+STU0099,Python Programming,2,73.6,28.5,31.5,11.5,2.3,6.81,40.9
+STU0099,Elements of Mechanical Engineering,2,83.6,30.0,35.5,12.0,2.4,6.81,58.5
+STU0099,Discrete Mathematics,3,78.2,24.0,24.0,9.5,4.7,6.21,
+STU0099,Data Structures,3,77.0,26.5,23.0,13.0,7.4,6.21,
+STU0099,Analog and Digital Electronics,3,78.5,22.0,15.5,13.5,4.3,6.21,
+STU0099,Object Oriented Programming with Java,3,76.6,32.5,33.5,11.5,5.5,6.21,
+STU0099,Unix System Programming,3,82.8,31.0,29.0,12.5,5.1,6.21,
+STU0100,Engineering Mathematics I,1,62.4,16.5,19.5,10.5,1.0,4.0,26.9
+STU0100,Engineering Physics,1,65.5,12.5,9.0,7.0,4.8,4.0,26.0
+STU0100,Basic Electrical Engineering,1,66.0,11.5,10.0,10.5,0.5,4.0,23.1
+STU0100,Programming in C,1,63.0,8.5,6.0,8.5,2.6,4.0,24.3
+STU0100,Engineering Graphics,1,64.8,18.5,15.0,4.5,3.8,4.0,32.2
+STU0100,Engineering Mathematics II,2,60.7,9.0,12.5,9.5,2.9,4.0,20.7
+STU0100,Engineering Chemistry,2,60.8,13.5,16.0,8.0,1.7,4.0,24.5
+STU0100,Basic Electronics,2,66.2,6.0,6.0,8.5,0.5,4.0,19.6
+STU0100,Python Programming,2,69.9,9.5,6.5,10.0,0.5,4.0,20.7
+STU0100,Elements of Mechanical Engineering,2,60.6,12.0,10.0,7.5,0.5,4.0,18.5
+STU0100,Discrete Mathematics,3,69.0,10.5,10.5,8.5,0.7,4.0,
+STU0100,Data Structures,3,66.7,13.0,7.0,11.0,2.4,4.0,
+STU0100,Analog and Digital Electronics,3,58.0,12.5,13.0,8.0,0.5,4.0,
+STU0100,Object Oriented Programming with Java,3,62.9,7.0,7.0,8.5,0.5,4.0,
+STU0100,Unix System Programming,3,66.8,16.5,9.5,8.0,0.5,4.0,
+STU0101,Engineering Mathematics I,1,68.5,15.5,14.5,13.5,2.8,6.33,43.2
+STU0101,Engineering Physics,1,61.6,22.0,22.0,9.5,1.9,6.33,45.3
+STU0101,Basic Electrical Engineering,1,72.2,33.0,32.0,12.5,3.0,6.33,51.1
+STU0101,Programming in C,1,64.5,36.0,38.0,12.0,2.2,6.33,46.8
+STU0101,Engineering Graphics,1,77.0,21.0,18.0,15.0,1.0,6.33,56.9
+STU0101,Engineering Mathematics II,2,69.9,29.5,31.5,10.5,2.9,5.78,50.8
+STU0101,Engineering Chemistry,2,65.7,26.0,26.0,11.5,3.5,5.78,45.3
+STU0101,Basic Electronics,2,73.9,23.0,20.5,8.5,0.5,5.78,33.1
+STU0101,Python Programming,2,67.5,30.5,33.0,11.5,4.7,5.78,51.6
+STU0101,Elements of Mechanical Engineering,2,70.2,33.0,31.0,8.0,3.8,5.78,39.6
+STU0101,Discrete Mathematics,3,81.8,20.0,24.5,11.5,3.8,5.3,
+STU0101,Data Structures,3,74.3,28.0,33.0,15.5,5.0,5.3,
+STU0101,Analog and Digital Electronics,3,84.1,18.5,16.0,12.0,3.7,5.3,
+STU0101,Object Oriented Programming with Java,3,73.2,30.0,37.0,10.5,4.0,5.3,
+STU0101,Unix System Programming,3,74.1,25.5,23.5,15.0,6.0,5.3,
+STU0102,Engineering Mathematics I,1,83.7,36.0,39.0,14.0,7.4,7.2,76.4
+STU0102,Engineering Physics,1,84.9,32.5,36.0,15.0,9.9,7.2,70.3
+STU0102,Basic Electrical Engineering,1,80.9,34.0,39.0,15.0,6.3,7.2,67.4
+STU0102,Programming in C,1,80.5,39.5,38.0,16.5,3.7,7.2,72.2
+STU0102,Engineering Graphics,1,84.0,29.5,27.0,18.0,5.6,7.2,67.4
+STU0102,Engineering Mathematics II,2,82.1,28.0,27.5,15.0,5.3,7.49,57.1
+STU0102,Engineering Chemistry,2,78.0,44.0,37.0,15.0,4.9,7.49,69.9
+STU0102,Basic Electronics,2,76.2,37.0,40.0,14.5,4.8,7.49,76.0
+STU0102,Python Programming,2,86.7,34.5,36.5,15.0,6.5,7.49,68.3
+STU0102,Elements of Mechanical Engineering,2,71.1,35.0,36.5,12.0,2.0,7.49,65.0
+STU0102,Discrete Mathematics,3,76.2,36.5,35.0,12.0,6.5,7.35,
+STU0102,Data Structures,3,76.5,32.5,39.5,11.0,7.6,7.35,
+STU0102,Analog and Digital Electronics,3,89.9,34.0,33.0,13.5,4.3,7.35,
+STU0102,Object Oriented Programming with Java,3,74.9,38.0,38.0,13.0,5.6,7.35,
+STU0102,Unix System Programming,3,86.1,30.0,27.0,15.5,4.1,7.35,
+STU0103,Engineering Mathematics I,1,84.3,35.5,26.5,12.5,3.8,8.1,60.3
+STU0103,Engineering Physics,1,88.3,35.5,39.5,12.5,3.1,8.1,64.8
+STU0103,Basic Electrical Engineering,1,79.5,31.5,36.0,14.5,2.6,8.1,63.7
+STU0103,Programming in C,1,79.4,37.0,35.0,16.5,5.9,8.1,80.9
+STU0103,Engineering Graphics,1,82.5,30.0,29.0,14.0,3.6,8.1,52.9
+STU0103,Engineering Mathematics II,2,80.6,39.5,39.5,16.5,5.1,7.61,74.1
+STU0103,Engineering Chemistry,2,90.3,41.0,40.0,15.5,4.6,7.61,79.3
+STU0103,Basic Electronics,2,89.6,41.0,41.5,15.0,8.6,7.61,65.6
+STU0103,Python Programming,2,91.7,44.0,47.0,13.0,5.9,7.61,74.7
+STU0103,Elements of Mechanical Engineering,2,92.8,37.5,37.5,17.5,6.8,7.61,81.0
+STU0103,Discrete Mathematics,3,84.9,43.5,46.0,13.5,4.8,7.52,
+STU0103,Data Structures,3,100.0,36.5,33.5,19.0,6.8,7.52,
+STU0103,Analog and Digital Electronics,3,93.5,45.5,43.0,16.0,7.1,7.52,
+STU0103,Object Oriented Programming with Java,3,93.3,39.0,40.0,13.0,7.2,7.52,
+STU0103,Unix System Programming,3,90.3,39.5,44.0,18.5,6.1,7.52,
+STU0104,Engineering Mathematics I,1,74.0,29.0,27.0,16.5,4.6,7.0,65.9
+STU0104,Engineering Physics,1,73.4,28.0,30.0,13.0,3.8,7.0,43.6
+STU0104,Basic Electrical Engineering,1,77.7,38.0,37.0,12.5,5.3,7.0,80.0
+STU0104,Programming in C,1,77.2,32.0,34.5,10.5,5.7,7.0,60.8
+STU0104,Engineering Graphics,1,70.5,40.0,37.5,14.5,3.6,7.0,75.4
+STU0104,Engineering Mathematics II,2,86.7,41.5,40.5,14.0,7.9,6.96,65.3
+STU0104,Engineering Chemistry,2,91.5,33.5,26.5,14.5,8.6,6.96,70.5
+STU0104,Basic Electronics,2,85.7,33.0,38.0,16.5,7.0,6.96,74.1
+STU0104,Python Programming,2,86.9,39.5,37.0,16.5,7.6,6.96,81.0
+STU0104,Elements of Mechanical Engineering,2,92.4,31.5,30.0,15.0,7.4,6.96,68.5
+STU0104,Discrete Mathematics,3,68.0,28.0,37.0,17.0,0.5,7.22,
+STU0104,Data Structures,3,80.4,23.5,19.5,13.5,2.7,7.22,
+STU0104,Analog and Digital Electronics,3,80.9,28.0,28.5,12.0,6.1,7.22,
+STU0104,Object Oriented Programming with Java,3,71.3,29.5,22.5,13.5,6.1,7.22,
+STU0104,Unix System Programming,3,88.7,33.0,37.5,12.0,4.2,7.22,
+STU0105,Engineering Mathematics I,1,84.4,38.0,44.5,15.0,6.9,7.7,75.5
+STU0105,Engineering Physics,1,87.6,30.0,32.5,14.5,5.1,7.7,57.8
+STU0105,Basic Electrical Engineering,1,85.2,29.5,34.0,10.5,8.2,7.7,63.9
+STU0105,Programming in C,1,92.6,37.5,41.0,12.0,5.4,7.7,73.2
+STU0105,Engineering Graphics,1,82.8,32.5,31.5,13.0,8.9,7.7,63.7
+STU0105,Engineering Mathematics II,2,75.3,30.0,25.0,13.0,3.9,7.59,53.7
+STU0105,Engineering Chemistry,2,74.0,35.0,32.5,13.5,5.0,7.59,78.6
+STU0105,Basic Electronics,2,89.8,29.5,25.0,15.5,3.1,7.59,57.3
+STU0105,Python Programming,2,79.5,35.5,38.0,14.5,8.0,7.59,71.1
+STU0105,Elements of Mechanical Engineering,2,84.0,39.5,37.0,12.5,3.4,7.59,60.5
+STU0105,Discrete Mathematics,3,71.0,33.0,33.5,10.5,2.5,7.11,
+STU0105,Data Structures,3,71.0,27.0,23.0,10.0,5.7,7.11,
+STU0105,Analog and Digital Electronics,3,73.9,36.5,39.0,16.0,3.6,7.11,
+STU0105,Object Oriented Programming with Java,3,70.8,35.0,34.5,13.0,1.2,7.11,
+STU0105,Unix System Programming,3,74.2,32.0,28.5,14.0,3.7,7.11,
+STU0106,Engineering Mathematics I,1,61.4,6.0,6.0,7.5,2.0,4.0,22.2
+STU0106,Engineering Physics,1,64.9,6.0,10.5,10.0,0.5,4.0,16.6
+STU0106,Basic Electrical Engineering,1,61.1,6.0,6.0,7.5,0.5,4.0,20.1
+STU0106,Programming in C,1,60.5,8.5,15.5,8.5,0.5,4.0,24.0
+STU0106,Engineering Graphics,1,59.3,8.5,6.0,8.0,0.5,4.0,19.9
+STU0106,Engineering Mathematics II,2,64.4,8.0,7.0,6.5,4.0,4.0,19.5
+STU0106,Engineering Chemistry,2,71.0,12.0,16.0,8.0,5.0,4.0,29.1
+STU0106,Basic Electronics,2,75.7,13.0,15.5,11.0,0.8,4.0,26.7
+STU0106,Python Programming,2,63.6,14.0,15.0,9.5,5.1,4.0,29.1
+STU0106,Elements of Mechanical Engineering,2,69.9,12.5,9.5,7.5,2.9,4.0,25.6
+STU0106,Discrete Mathematics,3,67.8,6.0,13.5,9.0,4.4,4.0,
+STU0106,Data Structures,3,57.3,7.0,6.0,5.5,2.9,4.0,
+STU0106,Analog and Digital Electronics,3,69.8,12.5,16.0,8.0,0.9,4.0,
+STU0106,Object Oriented Programming with Java,3,65.4,9.0,8.5,4.5,1.4,4.0,
+STU0106,Unix System Programming,3,57.6,15.0,17.0,9.0,3.9,4.0,
+STU0107,Engineering Mathematics I,1,83.9,8.0,9.0,14.0,4.5,4.77,28.6
+STU0107,Engineering Physics,1,76.3,13.0,21.0,16.0,2.8,4.77,40.0
+STU0107,Basic Electrical Engineering,1,78.8,20.5,28.0,10.0,2.8,4.77,49.6
+STU0107,Programming in C,1,80.2,25.5,34.0,12.5,5.2,4.77,61.4
+STU0107,Engineering Graphics,1,77.7,20.0,23.5,13.5,3.4,4.77,43.1
+STU0107,Engineering Mathematics II,2,71.8,14.5,11.0,9.5,3.2,4.74,35.0
+STU0107,Engineering Chemistry,2,69.2,11.5,15.5,13.0,2.6,4.74,35.5
+STU0107,Basic Electronics,2,70.2,20.0,23.0,10.0,1.1,4.74,43.2
+STU0107,Python Programming,2,67.1,20.5,16.5,12.0,4.8,4.74,44.0
+STU0107,Elements of Mechanical Engineering,2,84.5,18.5,18.0,8.5,1.4,4.74,33.7
+STU0107,Discrete Mathematics,3,78.3,7.5,7.5,11.5,3.6,4.51,
+STU0107,Data Structures,3,79.2,6.0,6.0,12.0,3.7,4.51,
+STU0107,Analog and Digital Electronics,3,80.2,11.5,15.0,9.0,6.1,4.51,
+STU0107,Object Oriented Programming with Java,3,67.1,25.0,26.5,10.0,3.2,4.51,
+STU0107,Unix System Programming,3,70.2,20.5,25.0,12.0,1.7,4.51,
+STU0108,Engineering Mathematics I,1,65.7,30.5,25.5,6.0,1.0,7.42,40.4
+STU0108,Engineering Physics,1,67.6,25.0,26.0,7.5,0.5,7.42,35.7
+STU0108,Basic Electrical Engineering,1,57.6,22.0,16.5,9.0,0.5,7.42,28.5
+STU0108,Programming in C,1,66.1,35.5,35.5,8.0,3.2,7.42,50.5
+STU0108,Engineering Graphics,1,59.8,33.0,32.0,8.0,1.2,7.42,49.1
+STU0108,Engineering Mathematics II,2,54.5,25.0,22.5,9.0,0.5,6.28,23.1
+STU0108,Engineering Chemistry,2,56.3,26.0,24.0,7.5,0.5,6.28,26.9
+STU0108,Basic Electronics,2,59.4,25.5,21.0,9.0,0.7,6.28,27.6
+STU0108,Python Programming,2,50.0,30.0,21.0,7.5,0.5,6.28,36.8
+STU0108,Elements of Mechanical Engineering,2,51.5,38.5,36.5,7.5,0.5,6.28,33.4
+STU0108,Discrete Mathematics,3,54.1,30.0,20.5,7.0,0.5,5.03,
+STU0108,Data Structures,3,64.1,31.5,21.5,8.0,0.5,5.03,
+STU0108,Analog and Digital Electronics,3,55.9,34.5,30.0,14.0,3.4,5.03,
+STU0108,Object Oriented Programming with Java,3,64.6,30.5,21.5,8.5,0.5,5.03,
+STU0108,Unix System Programming,3,56.5,29.0,26.0,9.5,1.6,5.03,
+STU0109,Engineering Mathematics I,1,86.0,38.0,41.5,15.5,6.8,8.66,70.8
+STU0109,Engineering Physics,1,90.1,36.5,33.5,18.5,2.4,8.66,66.6
+STU0109,Basic Electrical Engineering,1,84.6,37.0,37.0,16.5,7.1,8.66,73.5
+STU0109,Programming in C,1,85.3,35.5,37.0,17.0,5.6,8.66,66.2
+STU0109,Engineering Graphics,1,91.9,45.0,47.5,17.5,8.4,8.66,93.4
+STU0109,Engineering Mathematics II,2,91.7,32.5,30.0,14.0,8.6,8.23,76.2
+STU0109,Engineering Chemistry,2,74.9,47.0,48.5,15.5,2.6,8.23,75.1
+STU0109,Basic Electronics,2,84.6,34.0,34.5,10.5,3.4,8.23,61.8
+STU0109,Python Programming,2,80.0,37.5,34.0,11.5,5.3,8.23,71.9
+STU0109,Elements of Mechanical Engineering,2,80.4,38.5,37.5,14.0,3.6,8.23,55.5
+STU0109,Discrete Mathematics,3,82.2,41.5,45.0,18.0,6.3,7.87,
+STU0109,Data Structures,3,88.8,36.0,36.5,18.5,4.1,7.87,
+STU0109,Analog and Digital Electronics,3,88.1,43.0,43.5,17.5,7.3,7.87,
+STU0109,Object Oriented Programming with Java,3,77.7,42.5,46.5,17.5,3.3,7.87,
+STU0109,Unix System Programming,3,83.5,45.0,50.0,17.5,6.7,7.87,
+STU0110,Engineering Mathematics I,1,78.7,31.0,24.0,15.5,4.3,6.12,45.7
+STU0110,Engineering Physics,1,66.5,31.0,31.5,11.5,2.5,6.12,42.5
+STU0110,Basic Electrical Engineering,1,65.5,29.5,34.0,12.5,5.3,6.12,36.3
+STU0110,Programming in C,1,66.2,25.0,22.5,10.0,4.2,6.12,51.2
+STU0110,Engineering Graphics,1,75.6,24.5,25.0,9.5,4.3,6.12,52.2
+STU0110,Engineering Mathematics II,2,87.5,16.5,17.5,15.5,0.9,5.22,36.2
+STU0110,Engineering Chemistry,2,78.3,21.5,22.0,11.0,3.2,5.22,50.6
+STU0110,Basic Electronics,2,65.6,23.5,22.5,9.5,5.2,5.22,34.2
+STU0110,Python Programming,2,81.0,26.5,23.0,12.0,3.4,5.22,44.2
+STU0110,Elements of Mechanical Engineering,2,75.0,25.0,21.5,11.5,4.3,5.22,52.7
+STU0110,Discrete Mathematics,3,76.8,21.0,25.0,15.5,7.4,4.98,
+STU0110,Data Structures,3,75.3,24.0,27.0,12.5,2.5,4.98,
+STU0110,Analog and Digital Electronics,3,73.9,22.5,23.0,13.5,5.3,4.98,
+STU0110,Object Oriented Programming with Java,3,78.4,23.0,28.0,14.0,4.2,4.98,
+STU0110,Unix System Programming,3,78.6,24.5,31.5,13.0,7.1,4.98,
+STU0111,Engineering Mathematics I,1,83.2,23.0,21.0,15.0,3.5,5.82,50.4
+STU0111,Engineering Physics,1,84.9,22.5,24.0,12.5,4.9,5.82,59.8
+STU0111,Basic Electrical Engineering,1,81.7,28.5,29.5,11.5,5.2,5.82,50.6
+STU0111,Programming in C,1,88.2,20.5,23.0,13.5,5.9,5.82,49.0
+STU0111,Engineering Graphics,1,76.1,19.5,18.0,15.0,7.3,5.82,62.0
+STU0111,Engineering Mathematics II,2,79.4,24.5,23.5,17.0,7.2,5.91,52.8
+STU0111,Engineering Chemistry,2,90.7,25.5,26.5,18.0,3.8,5.91,58.6
+STU0111,Basic Electronics,2,93.7,23.0,28.5,17.0,7.6,5.91,65.0
+STU0111,Python Programming,2,74.2,32.0,29.5,17.5,5.2,5.91,68.5
+STU0111,Elements of Mechanical Engineering,2,82.8,22.0,32.0,14.0,3.6,5.91,51.0
+STU0111,Discrete Mathematics,3,79.7,28.0,26.0,12.5,8.2,5.95,
+STU0111,Data Structures,3,83.2,18.5,16.0,12.5,3.4,5.95,
+STU0111,Analog and Digital Electronics,3,77.1,25.0,32.5,14.5,4.4,5.95,
+STU0111,Object Oriented Programming with Java,3,85.9,29.5,32.0,15.0,5.5,5.95,
+STU0111,Unix System Programming,3,88.1,29.0,27.5,15.5,4.2,5.95,
+STU0112,Engineering Mathematics I,1,88.1,43.0,45.0,17.0,9.3,8.72,87.9
+STU0112,Engineering Physics,1,90.8,41.5,43.0,16.0,8.1,8.72,82.0
+STU0112,Basic Electrical Engineering,1,90.7,43.5,43.0,18.5,10.9,8.72,84.9
+STU0112,Programming in C,1,98.1,41.5,43.0,17.5,7.1,8.72,78.1
+STU0112,Engineering Graphics,1,94.1,46.5,48.5,16.5,8.7,8.72,88.6
+STU0112,Engineering Mathematics II,2,100.0,38.0,41.0,19.0,9.4,8.65,77.6
+STU0112,Engineering Chemistry,2,100.0,38.5,48.0,18.5,9.7,8.65,79.8
+STU0112,Basic Electronics,2,89.6,49.0,50.0,20.0,11.2,8.65,91.5
+STU0112,Python Programming,2,97.2,46.0,50.0,17.0,9.3,8.65,89.8
+STU0112,Elements of Mechanical Engineering,2,100.0,40.5,45.0,17.0,8.5,8.65,76.1
+STU0112,Discrete Mathematics,3,86.5,40.0,41.0,15.0,9.7,8.84,
+STU0112,Data Structures,3,93.0,37.5,40.0,18.5,8.0,8.84,
+STU0112,Analog and Digital Electronics,3,92.3,48.5,49.0,17.5,6.1,8.84,
+STU0112,Object Oriented Programming with Java,3,87.6,38.5,37.0,17.5,7.7,8.84,
+STU0112,Unix System Programming,3,99.5,41.0,36.0,15.5,9.0,8.84,
+STU0113,Discrete Mathematics,3,65.5,28.0,27.5,12.0,4.9,7.8,43.0
+STU0113,Data Structures,3,68.8,23.0,20.0,10.0,2.4,7.8,46.4
+STU0113,Analog and Digital Electronics,3,76.1,28.5,34.5,10.0,1.3,7.8,57.3
+STU0113,Object Oriented Programming with Java,3,73.0,32.0,29.5,12.0,5.1,7.8,62.5
+STU0113,Unix System Programming,3,72.0,35.5,38.5,10.0,1.2,7.8,55.2
+STU0113,Design and Analysis of Algorithms,4,66.8,21.0,20.5,13.5,2.3,6.82,43.8
+STU0113,Database Management Systems,4,69.8,33.0,32.5,12.0,0.5,6.82,61.9
+STU0113,Operating Systems,4,65.9,24.5,25.0,11.5,0.5,6.82,30.0
+STU0113,Software Testing,4,62.7,25.5,26.0,10.5,2.3,6.82,39.9
+STU0113,Linear Algebra,4,66.3,28.5,28.0,11.5,3.3,6.82,47.0
+STU0113,Computer Networks,5,86.5,29.0,29.0,12.0,1.9,5.78,
+STU0113,Information Systems Management,5,73.5,36.5,43.0,15.0,3.7,5.78,
+STU0113,Theory of Computation,5,74.9,29.0,25.5,14.5,4.1,5.78,
+STU0113,Web Technologies,5,74.9,33.0,25.0,11.5,2.0,5.78,
+STU0113,Data Mining,5,76.7,33.5,38.0,14.0,7.0,5.78,
+STU0114,Discrete Mathematics,3,76.2,19.0,22.5,14.5,7.6,6.15,41.4
+STU0114,Data Structures,3,74.9,27.0,26.0,13.5,3.9,6.15,43.6
+STU0114,Analog and Digital Electronics,3,92.3,27.0,26.0,12.5,5.1,6.15,69.5
+STU0114,Object Oriented Programming with Java,3,68.9,21.0,20.5,12.5,5.5,6.15,40.4
+STU0114,Unix System Programming,3,79.7,24.5,24.5,11.5,0.9,6.15,55.6
+STU0114,Design and Analysis of Algorithms,4,77.6,32.5,36.0,15.5,6.8,5.73,72.5
+STU0114,Database Management Systems,4,79.5,28.5,29.5,14.0,7.2,5.73,49.4
+STU0114,Operating Systems,4,79.7,17.0,18.5,11.5,2.2,5.73,38.6
+STU0114,Software Testing,4,78.9,22.0,26.0,13.0,5.0,5.73,58.2
+STU0114,Linear Algebra,4,71.5,28.0,32.0,12.0,4.4,5.73,48.5
+STU0114,Computer Networks,5,74.6,19.0,19.0,12.0,5.0,5.59,
+STU0114,Information Systems Management,5,72.0,21.5,17.0,13.5,3.1,5.59,
+STU0114,Theory of Computation,5,75.7,25.5,19.5,13.5,6.0,5.59,
+STU0114,Web Technologies,5,72.8,17.0,22.5,13.5,4.5,5.59,
+STU0114,Data Mining,5,72.2,21.0,19.5,10.0,1.3,5.59,
+STU0115,Discrete Mathematics,3,82.6,31.5,26.0,15.5,5.5,7.17,60.7
+STU0115,Data Structures,3,95.3,32.5,44.0,14.5,4.9,7.17,69.8
+STU0115,Analog and Digital Electronics,3,75.8,27.0,29.0,13.5,8.0,7.17,60.9
+STU0115,Object Oriented Programming with Java,3,73.4,31.5,27.5,16.5,7.7,7.17,62.4
+STU0115,Unix System Programming,3,83.1,34.5,26.5,15.5,6.9,7.17,65.3
+STU0115,Design and Analysis of Algorithms,4,78.8,29.0,29.5,15.5,2.5,6.95,49.5
+STU0115,Database Management Systems,4,85.7,31.5,27.0,11.0,6.2,6.95,63.7
+STU0115,Operating Systems,4,73.7,29.0,25.5,14.0,6.6,6.95,54.3
+STU0115,Software Testing,4,77.8,34.5,34.5,14.0,6.3,6.95,57.3
+STU0115,Linear Algebra,4,79.9,35.0,37.5,13.0,4.9,6.95,71.3
+STU0115,Computer Networks,5,84.4,40.5,49.0,16.0,5.1,6.62,
+STU0115,Information Systems Management,5,73.4,34.5,35.5,14.5,3.4,6.62,
+STU0115,Theory of Computation,5,88.2,36.5,41.5,15.0,9.1,6.62,
+STU0115,Web Technologies,5,82.3,34.0,33.0,16.5,9.1,6.62,
+STU0115,Data Mining,5,77.2,31.5,32.5,16.5,5.3,6.62,
+STU0116,Discrete Mathematics,3,86.7,47.5,43.5,19.0,9.1,9.9,73.2
+STU0116,Data Structures,3,94.6,49.5,50.0,19.0,9.9,9.9,84.5
+STU0116,Analog and Digital Electronics,3,96.6,46.0,49.5,19.5,9.6,9.9,86.8
+STU0116,Object Oriented Programming with Java,3,100.0,49.5,50.0,17.5,9.3,9.9,91.4
+STU0116,Unix System Programming,3,92.8,48.0,46.5,16.0,8.6,9.9,83.7
+STU0116,Design and Analysis of Algorithms,4,100.0,50.0,50.0,20.0,11.7,9.53,87.5
+STU0116,Database Management Systems,4,100.0,48.5,50.0,19.0,10.8,9.53,91.4
+STU0116,Operating Systems,4,100.0,50.0,48.0,20.0,10.5,9.53,86.4
+STU0116,Software Testing,4,100.0,49.5,47.5,20.0,11.1,9.53,88.4
+STU0116,Linear Algebra,4,97.6,50.0,50.0,20.0,11.4,9.53,89.0
+STU0116,Computer Networks,5,100.0,46.0,48.5,20.0,10.1,9.44,
+STU0116,Information Systems Management,5,88.9,50.0,48.0,20.0,11.5,9.44,
+STU0116,Theory of Computation,5,97.2,41.5,40.5,19.0,10.5,9.44,
+STU0116,Web Technologies,5,92.5,49.5,50.0,20.0,11.3,9.44,
+STU0116,Data Mining,5,100.0,43.5,45.5,20.0,8.5,9.44,
+STU0117,Discrete Mathematics,3,80.7,10.0,6.5,13.5,4.5,5.17,29.7
+STU0117,Data Structures,3,69.2,17.0,19.0,13.5,4.8,5.17,42.8
+STU0117,Analog and Digital Electronics,3,85.0,26.0,25.5,18.5,5.6,5.17,50.2
+STU0117,Object Oriented Programming with Java,3,76.2,27.0,29.5,14.5,6.3,5.17,45.3
+STU0117,Unix System Programming,3,87.8,28.5,21.5,14.0,4.6,5.17,50.2
+STU0117,Design and Analysis of Algorithms,4,73.6,18.5,21.5,15.5,4.9,5.07,44.3
+STU0117,Database Management Systems,4,72.4,33.0,40.5,8.0,5.1,5.07,58.2
+STU0117,Operating Systems,4,84.6,19.0,19.0,14.5,4.7,5.07,38.6
+STU0117,Software Testing,4,86.0,19.0,24.0,11.0,4.9,5.07,46.9
+STU0117,Linear Algebra,4,76.3,17.5,10.5,12.5,8.4,5.07,41.1
+STU0117,Computer Networks,5,85.1,32.5,33.0,14.0,4.7,5.15,
+STU0117,Information Systems Management,5,77.1,27.0,31.5,14.5,5.4,5.15,
+STU0117,Theory of Computation,5,75.2,23.5,23.0,14.0,6.5,5.15,
+STU0117,Web Technologies,5,91.7,28.0,33.0,13.5,4.9,5.15,
+STU0117,Data Mining,5,83.8,26.5,28.0,16.0,4.0,5.15,
+STU0118,Discrete Mathematics,3,100.0,40.5,42.5,20.0,9.5,9.6,84.6
+STU0118,Data Structures,3,100.0,50.0,50.0,20.0,11.1,9.6,88.9
+STU0118,Analog and Digital Electronics,3,100.0,49.0,50.0,20.0,11.0,9.6,87.2
+STU0118,Object Oriented Programming with Java,3,100.0,49.5,50.0,20.0,9.9,9.6,91.9
+STU0118,Unix System Programming,3,100.0,50.0,50.0,19.0,7.5,9.6,90.7
+STU0118,Design and Analysis of Algorithms,4,91.0,47.0,48.5,20.0,11.5,9.24,84.7
+STU0118,Database Management Systems,4,100.0,50.0,50.0,20.0,8.2,9.24,84.0
+STU0118,Operating Systems,4,100.0,50.0,50.0,20.0,9.1,9.24,83.5
+STU0118,Software Testing,4,100.0,50.0,50.0,20.0,11.2,9.24,93.7
+STU0118,Linear Algebra,4,94.3,45.5,45.5,20.0,11.2,9.24,83.4
+STU0118,Computer Networks,5,96.0,50.0,50.0,20.0,9.6,8.94,
+STU0118,Information Systems Management,5,100.0,50.0,49.5,20.0,10.3,8.94,
+STU0118,Theory of Computation,5,100.0,50.0,50.0,20.0,13.3,8.94,
+STU0118,Web Technologies,5,100.0,50.0,50.0,20.0,9.6,8.94,
+STU0118,Data Mining,5,100.0,50.0,50.0,20.0,14.0,8.94,
+STU0119,Discrete Mathematics,3,71.4,27.5,31.0,12.5,2.1,6.77,45.8
+STU0119,Data Structures,3,73.6,27.5,25.5,10.5,0.5,6.77,38.2
+STU0119,Analog and Digital Electronics,3,72.0,33.0,29.0,11.5,5.4,6.77,54.0
+STU0119,Object Oriented Programming with Java,3,78.7,30.0,31.5,11.5,4.0,6.77,68.9
+STU0119,Unix System Programming,3,74.3,28.0,32.5,11.5,2.4,6.77,61.4
+STU0119,Design and Analysis of Algorithms,4,71.3,28.0,24.5,13.0,5.6,6.23,46.4
+STU0119,Database Management Systems,4,78.1,28.0,30.0,13.0,7.3,6.23,61.8
+STU0119,Operating Systems,4,75.2,30.0,28.5,11.5,2.9,6.23,59.6
+STU0119,Software Testing,4,76.7,36.0,28.5,15.0,3.9,6.23,56.7
+STU0119,Linear Algebra,4,77.3,24.0,28.5,16.0,3.3,6.23,53.2
+STU0119,Computer Networks,5,68.3,27.5,19.0,13.5,5.8,6.15,
+STU0119,Information Systems Management,5,76.4,38.0,38.5,14.0,6.5,6.15,
+STU0119,Theory of Computation,5,76.0,28.5,30.5,14.5,6.7,6.15,
+STU0119,Web Technologies,5,77.6,33.0,40.0,12.0,7.8,6.15,
+STU0119,Data Mining,5,77.8,36.0,38.0,16.0,5.4,6.15,
+STU0120,Discrete Mathematics,3,86.0,33.0,35.0,12.0,4.8,6.57,63.4
+STU0120,Data Structures,3,88.8,35.0,37.5,14.0,5.2,6.57,66.9
+STU0120,Analog and Digital Electronics,3,81.2,26.0,27.0,13.0,6.0,6.57,55.5
+STU0120,Object Oriented Programming with Java,3,85.3,27.0,30.0,11.0,3.6,6.57,45.1
+STU0120,Unix System Programming,3,83.2,34.0,32.5,11.0,5.0,6.57,54.4
+STU0120,Design and Analysis of Algorithms,4,75.8,25.5,27.5,14.5,5.0,6.32,51.8
+STU0120,Database Management Systems,4,79.3,18.0,20.5,13.5,5.1,6.32,54.2
+STU0120,Operating Systems,4,71.2,22.0,25.5,11.0,4.2,6.32,42.3
+STU0120,Software Testing,4,81.2,24.5,28.5,15.0,3.7,6.32,63.8
+STU0120,Linear Algebra,4,83.0,25.5,23.5,13.5,4.4,6.32,50.1
+STU0120,Computer Networks,5,84.5,28.5,22.0,16.0,8.7,5.95,
+STU0120,Information Systems Management,5,80.8,30.0,25.0,14.0,3.0,5.95,
+STU0120,Theory of Computation,5,82.8,31.5,26.5,16.0,7.8,5.95,
+STU0120,Web Technologies,5,81.8,34.0,32.0,14.5,5.7,5.95,
+STU0120,Data Mining,5,78.4,31.0,27.5,11.5,4.1,5.95,
+STU0121,Discrete Mathematics,3,70.8,13.0,17.0,10.5,0.8,4.41,23.6
+STU0121,Data Structures,3,68.9,7.0,9.0,9.5,3.9,4.41,24.7
+STU0121,Analog and Digital Electronics,3,66.8,19.0,13.5,11.5,1.6,4.41,36.4
+STU0121,Object Oriented Programming with Java,3,73.7,8.5,6.0,11.0,0.5,4.41,23.6
+STU0121,Unix System Programming,3,62.9,10.0,9.0,14.5,1.1,4.41,19.9
+STU0121,Design and Analysis of Algorithms,4,70.7,8.5,6.0,11.5,1.3,4.0,28.9
+STU0121,Database Management Systems,4,73.9,10.5,6.0,12.5,2.6,4.0,28.4
+STU0121,Operating Systems,4,68.3,12.0,15.0,11.5,4.7,4.0,28.2
+STU0121,Software Testing,4,65.6,17.5,15.5,11.5,2.5,4.0,26.2
+STU0121,Linear Algebra,4,75.2,6.5,6.0,12.5,3.2,4.0,21.2
+STU0121,Computer Networks,5,72.4,16.5,15.0,13.0,4.9,4.0,
+STU0121,Information Systems Management,5,74.2,17.5,21.5,12.5,1.4,4.0,
+STU0121,Theory of Computation,5,79.3,10.0,9.0,10.0,4.0,4.0,
+STU0121,Web Technologies,5,77.0,19.0,16.5,10.0,6.8,4.0,
+STU0121,Data Mining,5,80.6,17.5,17.5,14.0,3.7,4.0,
+STU0122,Discrete Mathematics,3,86.1,40.0,42.0,18.0,7.8,7.91,77.6
+STU0122,Data Structures,3,89.5,32.5,34.0,16.0,6.8,7.91,69.4
+STU0122,Analog and Digital Electronics,3,85.8,35.0,25.0,18.0,7.5,7.91,67.1
+STU0122,Object Oriented Programming with Java,3,79.0,35.0,34.0,14.0,4.3,7.91,63.2
+STU0122,Unix System Programming,3,86.4,39.5,44.5,14.5,9.4,7.91,79.8
+STU0122,Design and Analysis of Algorithms,4,85.9,32.5,28.5,14.0,7.3,7.81,54.2
+STU0122,Database Management Systems,4,81.6,34.0,35.5,15.0,6.0,7.81,72.6
+STU0122,Operating Systems,4,74.6,35.5,42.0,14.0,5.1,7.81,73.4
+STU0122,Software Testing,4,86.0,40.5,45.5,17.0,5.2,7.81,81.6
+STU0122,Linear Algebra,4,94.2,42.5,45.5,17.0,4.6,7.81,74.9
+STU0122,Computer Networks,5,79.9,37.0,34.0,14.0,2.1,7.81,
+STU0122,Information Systems Management,5,90.2,42.5,46.0,14.0,3.2,7.81,
+STU0122,Theory of Computation,5,82.3,31.0,32.0,14.5,3.3,7.81,
+STU0122,Web Technologies,5,76.4,43.5,43.5,17.5,5.4,7.81,
+STU0122,Data Mining,5,81.9,40.5,37.5,18.0,4.9,7.81,
+STU0123,Discrete Mathematics,3,96.1,44.5,46.5,18.5,13.9,8.69,83.8
+STU0123,Data Structures,3,90.2,42.5,42.0,20.0,9.8,8.69,81.5
+STU0123,Analog and Digital Electronics,3,97.5,45.5,49.5,19.0,10.0,8.69,86.2
+STU0123,Object Oriented Programming with Java,3,100.0,44.0,50.0,20.0,8.7,8.69,85.8
+STU0123,Unix System Programming,3,100.0,41.0,43.5,20.0,8.9,8.69,84.5
+STU0123,Design and Analysis of Algorithms,4,100.0,38.5,40.5,18.0,8.3,8.71,73.8
+STU0123,Database Management Systems,4,100.0,48.0,48.5,17.5,9.6,8.71,90.6
+STU0123,Operating Systems,4,86.0,43.5,50.0,18.0,7.3,8.71,84.6
+STU0123,Software Testing,4,95.4,40.0,45.0,18.5,11.2,8.71,88.6
+STU0123,Linear Algebra,4,90.7,43.5,42.5,16.5,9.2,8.71,77.8
+STU0123,Computer Networks,5,83.0,44.0,49.5,18.0,8.0,8.73,
+STU0123,Information Systems Management,5,88.8,50.0,50.0,20.0,11.2,8.73,
+STU0123,Theory of Computation,5,86.5,36.5,48.0,17.5,7.5,8.73,
+STU0123,Web Technologies,5,88.5,46.0,46.5,14.5,10.4,8.73,
+STU0123,Data Mining,5,100.0,40.0,50.0,20.0,9.7,8.73,
+STU0124,Discrete Mathematics,3,60.3,18.0,23.5,10.0,5.5,5.71,27.4
+STU0124,Data Structures,3,75.9,18.0,15.5,9.0,4.6,5.71,37.2
+STU0124,Analog and Digital Electronics,3,69.4,14.5,11.5,12.0,1.8,5.71,27.7
+STU0124,Object Oriented Programming with Java,3,67.1,21.0,25.0,8.5,0.9,5.71,41.0
+STU0124,Unix System Programming,3,69.1,20.0,17.5,10.5,2.8,5.71,33.2
+STU0124,Design and Analysis of Algorithms,4,75.3,30.5,29.5,16.0,0.6,4.87,54.2
+STU0124,Database Management Systems,4,70.9,26.5,25.5,13.5,4.8,4.87,57.7
+STU0124,Operating Systems,4,78.6,38.0,36.0,9.5,3.8,4.87,47.4
+STU0124,Software Testing,4,81.8,30.0,27.5,11.5,3.5,4.87,49.0
+STU0124,Linear Algebra,4,76.3,29.0,29.5,11.5,3.5,4.87,40.8
+STU0124,Computer Networks,5,81.0,32.5,28.5,10.0,2.6,4.87,
+STU0124,Information Systems Management,5,80.9,31.0,28.5,13.5,5.0,4.87,
+STU0124,Theory of Computation,5,74.0,32.0,32.0,11.0,4.3,4.87,
+STU0124,Web Technologies,5,67.4,34.0,36.0,10.0,1.2,4.87,
+STU0124,Data Mining,5,77.9,31.5,36.5,13.5,0.7,4.87,
+STU0125,Discrete Mathematics,3,72.3,25.0,25.0,9.0,1.7,5.91,47.7
+STU0125,Data Structures,3,72.6,26.5,27.5,14.0,3.8,5.91,49.7
+STU0125,Analog and Digital Electronics,3,79.2,26.0,27.5,14.5,3.7,5.91,59.3
+STU0125,Object Oriented Programming with Java,3,71.1,25.0,22.0,10.0,2.5,5.91,31.3
+STU0125,Unix System Programming,3,65.0,22.0,29.0,13.0,6.7,5.91,48.8
+STU0125,Design and Analysis of Algorithms,4,89.4,19.0,16.5,12.5,5.8,5.34,50.6
+STU0125,Database Management Systems,4,89.8,25.5,32.5,12.5,5.7,5.34,59.8
+STU0125,Operating Systems,4,83.4,23.0,21.0,16.5,4.0,5.34,64.0
+STU0125,Software Testing,4,81.5,25.0,26.0,13.0,4.9,5.34,55.2
+STU0125,Linear Algebra,4,83.1,24.0,24.5,13.5,4.7,5.34,48.7
+STU0125,Computer Networks,5,79.3,24.5,23.0,11.5,5.7,5.73,
+STU0125,Information Systems Management,5,77.2,21.5,25.0,9.0,5.9,5.73,
+STU0125,Theory of Computation,5,85.0,16.0,14.0,8.0,4.5,5.73,
+STU0125,Web Technologies,5,84.4,21.5,13.5,10.5,3.8,5.73,
+STU0125,Data Mining,5,82.0,19.0,19.5,11.0,2.7,5.73,
+STU0126,Discrete Mathematics,3,89.2,32.0,22.5,19.0,7.3,7.45,66.9
+STU0126,Data Structures,3,81.5,33.5,34.0,15.5,8.4,7.45,72.2
+STU0126,Analog and Digital Electronics,3,85.2,40.5,42.0,16.5,5.9,7.45,79.4
+STU0126,Object Oriented Programming with Java,3,86.0,38.5,34.5,17.0,6.9,7.45,69.1
+STU0126,Unix System Programming,3,94.3,38.0,34.0,16.5,8.5,7.45,67.3
+STU0126,Design and Analysis of Algorithms,4,90.6,27.0,24.5,13.0,6.8,7.47,60.1
+STU0126,Database Management Systems,4,82.2,30.5,32.0,12.5,8.7,7.47,65.6
+STU0126,Operating Systems,4,85.0,28.0,30.5,18.0,5.6,7.47,66.9
+STU0126,Software Testing,4,90.4,36.5,35.5,15.0,7.2,7.47,72.5
+STU0126,Linear Algebra,4,87.1,30.0,34.5,14.0,7.5,7.47,72.7
+STU0126,Computer Networks,5,95.2,38.5,41.5,15.0,6.6,7.48,
+STU0126,Information Systems Management,5,84.4,40.0,39.5,17.5,7.4,7.48,
+STU0126,Theory of Computation,5,86.8,32.0,43.0,17.0,9.0,7.48,
+STU0126,Web Technologies,5,85.9,37.5,34.5,19.0,9.9,7.48,
+STU0126,Data Mining,5,94.9,38.5,50.0,14.0,9.6,7.48,
+STU0127,Discrete Mathematics,3,87.4,35.0,37.5,11.0,4.7,8.21,66.2
+STU0127,Data Structures,3,73.1,33.5,31.0,14.5,4.6,8.21,64.0
+STU0127,Analog and Digital Electronics,3,78.0,33.0,35.5,13.5,5.7,8.21,64.5
+STU0127,Object Oriented Programming with Java,3,74.8,45.5,45.0,12.0,4.7,8.21,80.9
+STU0127,Unix System Programming,3,76.6,34.5,39.0,13.0,5.5,8.21,79.2
+STU0127,Design and Analysis of Algorithms,4,87.0,36.0,38.0,19.5,10.4,7.73,65.4
+STU0127,Database Management Systems,4,77.1,43.5,38.5,17.0,5.5,7.73,79.1
+STU0127,Operating Systems,4,97.1,40.5,46.5,17.0,8.5,7.73,78.7
+STU0127,Software Testing,4,79.8,40.5,42.5,12.0,5.9,7.73,73.1
+STU0127,Linear Algebra,4,86.2,45.0,47.0,14.5,7.7,7.73,66.8
+STU0127,Computer Networks,5,91.7,39.5,45.5,17.0,3.8,7.8,
+STU0127,Information Systems Management,5,79.4,42.0,44.5,10.5,4.2,7.8,
+STU0127,Theory of Computation,5,88.5,35.5,35.0,13.5,6.5,7.8,
+STU0127,Web Technologies,5,84.3,42.0,43.0,17.5,7.3,7.8,
+STU0127,Data Mining,5,76.1,38.0,40.5,13.0,7.0,7.8,
+STU0128,Discrete Mathematics,3,94.0,44.5,44.0,17.5,4.7,7.86,72.2
+STU0128,Data Structures,3,81.6,41.0,45.0,14.0,7.0,7.86,75.7
+STU0128,Analog and Digital Electronics,3,88.4,41.0,40.5,15.0,4.6,7.86,73.7
+STU0128,Object Oriented Programming with Java,3,77.2,40.5,40.5,17.5,5.3,7.86,81.4
+STU0128,Unix System Programming,3,83.1,36.0,43.5,13.0,4.5,7.86,72.0
+STU0128,Design and Analysis of Algorithms,4,76.5,31.0,36.5,14.5,4.6,7.93,59.9
+STU0128,Database Management Systems,4,81.4,35.5,39.0,12.0,6.5,7.93,79.4
+STU0128,Operating Systems,4,80.8,33.0,28.5,11.5,5.4,7.93,57.6
+STU0128,Software Testing,4,84.0,31.0,28.0,13.5,3.9,7.93,62.3
+STU0128,Linear Algebra,4,80.1,40.5,48.5,11.5,7.1,7.93,69.3
+STU0128,Computer Networks,5,87.4,41.0,46.5,15.0,9.3,7.6,
+STU0128,Information Systems Management,5,84.6,45.5,49.5,15.5,4.4,7.6,
+STU0128,Theory of Computation,5,82.8,38.5,35.0,15.5,3.9,7.6,
+STU0128,Web Technologies,5,88.4,41.0,44.5,14.5,8.2,7.6,
+STU0128,Data Mining,5,78.0,31.0,31.0,13.5,9.3,7.6,
+STU0129,Computer Networks,5,69.6,28.5,24.0,13.5,4.3,6.8,46.0
+STU0129,Information Systems Management,5,80.5,25.0,22.0,11.0,4.4,6.8,57.4
+STU0129,Theory of Computation,5,72.2,19.0,20.5,12.5,1.7,6.8,38.5
+STU0129,Web Technologies,5,74.8,30.0,39.0,14.0,2.6,6.8,61.2
+STU0129,Data Mining,5,70.5,31.5,34.0,11.0,0.5,6.8,38.2
+STU0129,Cloud Computing,6,79.9,33.0,34.0,14.5,4.4,5.92,50.0
+STU0129,Machine Learning,6,69.3,31.0,38.0,12.5,3.6,5.92,50.0
+STU0129,Information Retrieval,6,65.4,24.5,36.0,11.5,5.6,5.92,64.3
+STU0129,Cyber Security,6,80.2,27.5,30.0,12.5,2.6,5.92,57.6
+STU0129,Full Stack Development,6,80.6,28.0,23.5,12.5,5.2,5.92,57.4
+STU0129,Distributed Systems,7,68.8,24.0,31.0,13.0,3.6,5.67,
+STU0129,Internet of Things,7,75.2,30.0,27.0,12.0,1.2,5.67,
+STU0129,Big Data Analytics,7,76.3,31.0,37.0,16.0,5.9,5.67,
+STU0129,Information Security,7,69.3,29.0,26.5,12.0,1.3,5.67,
+STU0129,Project Management,7,78.0,23.5,23.5,15.0,1.8,5.67,
+STU0130,Computer Networks,5,69.6,26.5,26.5,12.0,3.6,7.63,66.7
+STU0130,Information Systems Management,5,65.5,35.0,30.0,13.0,4.2,7.63,63.7
+STU0130,Theory of Computation,5,75.4,20.0,16.0,15.5,6.2,7.63,53.9
+STU0130,Web Technologies,5,77.8,25.5,28.0,14.5,5.9,7.63,59.7
+STU0130,Data Mining,5,89.3,22.5,23.0,11.5,4.3,7.63,63.1
+STU0130,Cloud Computing,6,89.6,37.0,40.0,15.0,5.0,7.22,71.1
+STU0130,Machine Learning,6,84.7,26.0,28.0,12.0,4.7,7.22,50.6
+STU0130,Information Retrieval,6,74.7,37.5,38.0,15.0,3.7,7.22,57.5
+STU0130,Cyber Security,6,80.9,35.0,39.0,17.0,7.0,7.22,69.4
+STU0130,Full Stack Development,6,74.3,36.5,34.5,13.5,5.2,7.22,67.1
+STU0130,Distributed Systems,7,72.8,37.5,41.0,16.5,7.3,7.36,
+STU0130,Internet of Things,7,78.4,38.5,30.0,15.0,8.0,7.36,
+STU0130,Big Data Analytics,7,85.0,28.5,29.5,14.5,5.9,7.36,
+STU0130,Information Security,7,83.2,37.0,37.0,16.0,7.7,7.36,
+STU0130,Project Management,7,85.1,39.5,40.5,14.0,5.6,7.36,
+STU0131,Computer Networks,5,64.3,24.0,29.0,11.5,5.0,4.86,42.9
+STU0131,Information Systems Management,5,73.8,22.5,21.0,8.5,1.7,4.86,41.8
+STU0131,Theory of Computation,5,67.5,18.5,22.5,9.5,2.2,4.86,29.0
+STU0131,Web Technologies,5,65.7,18.5,17.0,12.0,1.3,4.86,32.1
+STU0131,Data Mining,5,64.1,23.5,19.0,13.0,4.7,4.86,40.4
+STU0131,Cloud Computing,6,72.4,19.0,10.5,11.5,2.8,4.5,30.2
+STU0131,Machine Learning,6,73.7,16.5,19.5,11.0,3.2,4.5,37.1
+STU0131,Information Retrieval,6,68.6,16.0,13.5,8.5,5.2,4.5,33.3
+STU0131,Cyber Security,6,66.2,16.0,15.5,8.5,1.7,4.5,19.7
+STU0131,Full Stack Development,6,71.9,23.5,28.5,10.5,0.5,4.5,47.5
+STU0131,Distributed Systems,7,56.0,27.0,28.0,10.0,2.3,4.16,
+STU0131,Internet of Things,7,74.4,32.5,29.5,12.5,2.3,4.16,
+STU0131,Big Data Analytics,7,65.2,26.0,25.5,11.5,1.7,4.16,
+STU0131,Information Security,7,72.7,21.0,21.0,10.0,2.9,4.16,
+STU0131,Project Management,7,67.7,32.5,35.0,9.0,1.7,4.16,
+STU0132,Computer Networks,5,72.9,32.0,34.5,12.0,2.9,7.54,59.1
+STU0132,Information Systems Management,5,71.7,36.0,32.5,8.0,5.9,7.54,53.8
+STU0132,Theory of Computation,5,68.3,28.0,27.5,10.5,2.8,7.54,40.2
+STU0132,Web Technologies,5,74.3,30.0,29.0,8.0,5.2,7.54,50.2
+STU0132,Data Mining,5,67.7,29.5,24.5,11.5,4.8,7.54,52.3
+STU0132,Cloud Computing,6,72.0,41.5,44.5,15.0,2.6,6.51,62.4
+STU0132,Machine Learning,6,77.5,41.0,39.0,11.5,4.1,6.51,70.1
+STU0132,Information Retrieval,6,76.7,38.5,36.5,7.5,5.7,6.51,51.2
+STU0132,Cyber Security,6,69.3,40.5,34.0,11.0,1.4,6.51,48.3
+STU0132,Full Stack Development,6,78.0,41.0,40.0,13.5,2.2,6.51,70.6
+STU0132,Distributed Systems,7,68.7,25.5,28.5,11.0,2.9,6.48,
+STU0132,Internet of Things,7,66.2,33.5,35.5,9.0,5.5,6.48,
+STU0132,Big Data Analytics,7,65.0,30.0,26.0,10.0,2.8,6.48,
+STU0132,Information Security,7,67.8,23.5,23.0,13.5,4.2,6.48,
+STU0132,Project Management,7,65.9,28.5,26.5,9.0,3.9,6.48,
+STU0133,Computer Networks,5,100.0,50.0,50.0,20.0,7.9,8.96,89.0
+STU0133,Information Systems Management,5,97.7,50.0,50.0,20.0,11.5,8.96,87.5
+STU0133,Theory of Computation,5,100.0,46.5,50.0,17.5,10.8,8.96,86.0
+STU0133,Web Technologies,5,100.0,47.0,50.0,20.0,11.1,8.96,86.2
+STU0133,Data Mining,5,100.0,37.0,40.5,20.0,10.3,8.96,73.3
+STU0133,Cloud Computing,6,96.6,37.5,47.0,18.5,8.4,8.9,82.5
+STU0133,Machine Learning,6,100.0,42.5,50.0,20.0,9.5,8.9,80.2
+STU0133,Information Retrieval,6,98.0,50.0,50.0,19.5,11.2,8.9,89.4
+STU0133,Cyber Security,6,100.0,37.5,39.5,20.0,11.8,8.9,87.3
+STU0133,Full Stack Development,6,100.0,38.5,49.5,20.0,10.7,8.9,90.8
+STU0133,Distributed Systems,7,84.9,40.0,44.0,16.5,11.4,8.95,
+STU0133,Internet of Things,7,100.0,39.0,44.5,19.5,12.2,8.95,
+STU0133,Big Data Analytics,7,100.0,46.5,50.0,19.0,8.7,8.95,
+STU0133,Information Security,7,98.3,46.5,50.0,20.0,9.3,8.95,
+STU0133,Project Management,7,99.1,43.0,48.5,19.5,9.8,8.95,
+STU0134,Computer Networks,5,92.3,40.5,50.0,20.0,10.1,8.32,81.8
+STU0134,Information Systems Management,5,100.0,45.0,45.0,20.0,5.1,8.32,85.1
+STU0134,Theory of Computation,5,88.6,34.5,36.0,17.5,8.1,8.32,66.4
+STU0134,Web Technologies,5,94.4,37.5,33.5,18.5,9.1,8.32,82.1
+STU0134,Data Mining,5,97.0,46.5,50.0,20.0,9.4,8.32,97.8
+STU0134,Cloud Computing,6,90.1,37.0,38.0,15.0,6.9,8.21,73.1
+STU0134,Machine Learning,6,86.3,29.5,30.5,17.0,8.4,8.21,68.1
+STU0134,Information Retrieval,6,93.5,27.5,30.5,17.0,5.6,8.21,62.2
+STU0134,Cyber Security,6,94.8,29.0,36.5,12.0,10.1,8.21,77.5
+STU0134,Full Stack Development,6,82.7,29.5,31.0,14.5,8.6,8.21,68.9
+STU0134,Distributed Systems,7,93.1,30.0,32.0,17.5,11.4,8.12,
+STU0134,Internet of Things,7,96.3,33.0,32.0,20.0,5.7,8.12,
+STU0134,Big Data Analytics,7,93.6,41.5,40.5,19.5,8.1,8.12,
+STU0134,Information Security,7,93.7,38.5,43.5,16.0,9.7,8.12,
+STU0134,Project Management,7,100.0,43.0,45.5,20.0,9.5,8.12,
+STU0135,Computer Networks,5,79.7,29.0,33.5,13.5,4.6,7.1,65.9
+STU0135,Information Systems Management,5,84.7,36.0,35.0,10.5,6.7,7.1,70.8
+STU0135,Theory of Computation,5,82.9,14.5,17.5,15.0,5.0,7.1,41.5
+STU0135,Web Technologies,5,82.3,30.5,35.0,11.0,5.5,7.1,64.8
+STU0135,Data Mining,5,76.0,32.5,37.5,15.5,3.1,7.1,68.4
+STU0135,Cloud Computing,6,78.2,38.5,39.0,14.5,4.0,6.63,75.5
+STU0135,Machine Learning,6,78.7,24.0,22.0,12.0,8.9,6.63,65.9
+STU0135,Information Retrieval,6,82.8,25.0,30.5,14.0,3.9,6.63,67.2
+STU0135,Cyber Security,6,78.0,29.5,27.5,13.5,5.6,6.63,50.3
+STU0135,Full Stack Development,6,81.1,34.0,37.0,13.5,6.0,6.63,77.5
+STU0135,Distributed Systems,7,83.5,37.5,34.0,13.5,6.9,6.99,
+STU0135,Internet of Things,7,83.6,30.0,31.5,15.0,5.8,6.99,
+STU0135,Big Data Analytics,7,95.3,33.0,36.5,15.5,7.0,6.99,
+STU0135,Information Security,7,79.5,34.5,38.5,16.5,5.6,6.99,
+STU0135,Project Management,7,87.9,36.5,33.5,14.5,7.0,6.99,
+STU0136,Computer Networks,5,89.0,42.0,36.5,15.5,9.2,9.03,84.6
+STU0136,Information Systems Management,5,88.8,50.0,46.5,16.0,4.9,9.03,79.7
+STU0136,Theory of Computation,5,81.7,43.0,49.0,15.5,6.5,9.03,71.9
+STU0136,Web Technologies,5,90.1,45.5,47.5,16.0,8.0,9.03,85.1
+STU0136,Data Mining,5,86.4,50.0,50.0,16.5,8.9,9.03,85.9
+STU0136,Cloud Computing,6,92.5,47.0,45.5,19.0,10.5,8.71,87.3
+STU0136,Machine Learning,6,100.0,44.0,44.5,18.5,10.3,8.71,85.0
+STU0136,Information Retrieval,6,97.5,44.5,50.0,17.5,9.5,8.71,94.4
+STU0136,Cyber Security,6,99.0,45.0,50.0,18.0,7.2,8.71,76.4
+STU0136,Full Stack Development,6,89.1,38.5,35.5,19.5,9.9,8.71,80.3
+STU0136,Distributed Systems,7,90.8,37.5,40.5,16.0,6.1,8.68,
+STU0136,Internet of Things,7,77.2,42.0,41.5,14.5,7.9,8.68,
+STU0136,Big Data Analytics,7,90.8,48.5,50.0,16.5,7.5,8.68,
+STU0136,Information Security,7,88.5,46.5,44.5,16.5,7.4,8.68,
+STU0136,Project Management,7,89.9,36.5,29.0,20.0,6.8,8.68,
+STU0137,Computer Networks,5,70.0,22.5,24.5,9.5,0.5,5.83,34.2
+STU0137,Information Systems Management,5,65.2,28.0,33.0,12.0,0.6,5.83,30.2
+STU0137,Theory of Computation,5,62.0,20.0,11.5,6.5,1.3,5.83,27.4
+STU0137,Web Technologies,5,61.4,17.5,17.0,8.0,0.5,5.83,27.4
+STU0137,Data Mining,5,59.0,26.5,26.0,9.0,0.5,5.83,28.3
+STU0137,Cloud Computing,6,71.4,31.5,28.5,12.5,3.9,4.93,49.2
+STU0137,Machine Learning,6,76.8,29.5,30.5,12.0,1.7,4.93,51.1
+STU0137,Information Retrieval,6,72.6,30.0,32.0,11.5,2.8,4.93,45.9
+STU0137,Cyber Security,6,73.6,33.5,34.5,12.5,3.0,4.93,46.9
+STU0137,Full Stack Development,6,78.7,26.0,28.5,13.0,2.9,4.93,36.1
+STU0137,Distributed Systems,7,70.7,13.0,8.0,11.5,0.5,4.93,
+STU0137,Internet of Things,7,65.2,25.5,31.5,10.5,0.5,4.93,
+STU0137,Big Data Analytics,7,74.5,25.5,28.0,12.0,2.7,4.93,
+STU0137,Information Security,7,69.1,29.5,27.0,13.5,2.1,4.93,
+STU0137,Project Management,7,77.7,24.0,25.0,10.0,3.4,4.93,
+STU0138,Computer Networks,5,91.8,42.5,48.0,16.0,6.6,7.95,75.8
+STU0138,Information Systems Management,5,88.6,43.5,49.5,17.0,7.2,7.95,86.3
+STU0138,Theory of Computation,5,94.4,35.5,39.5,18.0,7.8,7.95,68.3
+STU0138,Web Technologies,5,86.2,35.0,31.5,18.0,7.2,7.95,76.7
+STU0138,Data Mining,5,82.5,35.0,38.0,15.0,7.3,7.95,63.5
+STU0138,Cloud Computing,6,86.3,37.5,45.5,13.5,7.0,7.97,82.4
+STU0138,Machine Learning,6,74.2,25.5,36.5,15.5,9.5,7.97,76.3
+STU0138,Information Retrieval,6,94.0,33.0,32.0,18.0,6.5,7.97,68.8
+STU0138,Cyber Security,6,83.5,30.5,31.0,16.5,8.1,7.97,64.2
+STU0138,Full Stack Development,6,85.3,35.0,35.5,16.0,9.7,7.97,78.7
+STU0138,Distributed Systems,7,81.1,44.0,43.0,15.5,10.9,7.74,
+STU0138,Internet of Things,7,83.1,38.0,46.0,16.0,10.2,7.74,
+STU0138,Big Data Analytics,7,97.9,41.0,47.0,16.5,7.5,7.74,
+STU0138,Information Security,7,82.9,41.0,47.0,17.0,8.9,7.74,
+STU0138,Project Management,7,78.0,44.0,46.5,18.0,12.6,7.74,
+STU0139,Computer Networks,5,70.7,22.5,22.5,9.0,1.2,5.51,40.1
+STU0139,Information Systems Management,5,78.4,21.5,19.0,8.5,3.3,5.51,44.6
+STU0139,Theory of Computation,5,73.4,28.5,30.5,8.5,1.6,5.51,30.7
+STU0139,Web Technologies,5,66.3,28.0,33.5,11.5,5.6,5.51,51.9
+STU0139,Data Mining,5,64.9,22.0,20.0,14.5,3.6,5.51,38.9
+STU0139,Cloud Computing,6,70.6,26.0,23.5,13.0,4.4,5.27,55.9
+STU0139,Machine Learning,6,68.7,20.0,19.0,14.0,2.2,5.27,40.7
+STU0139,Information Retrieval,6,72.3,11.5,9.0,12.0,4.3,5.27,35.2
+STU0139,Cyber Security,6,73.8,23.5,21.0,11.5,5.6,5.27,49.8
+STU0139,Full Stack Development,6,70.2,17.0,18.0,13.0,5.7,5.27,39.1
+STU0139,Distributed Systems,7,65.5,26.0,26.0,12.5,0.5,4.98,
+STU0139,Internet of Things,7,80.2,20.0,20.5,9.5,4.0,4.98,
+STU0139,Big Data Analytics,7,60.4,25.0,23.5,8.5,1.8,4.98,
+STU0139,Information Security,7,79.8,19.0,19.5,14.5,2.7,4.98,
+STU0139,Project Management,7,52.9,17.0,15.0,8.5,6.5,4.98,
+STU0140,Computer Networks,5,84.8,23.0,27.0,17.0,5.9,6.9,53.8
+STU0140,Information Systems Management,5,81.6,26.5,29.0,18.5,7.0,6.9,67.9
+STU0140,Theory of Computation,5,80.0,25.0,26.5,16.5,7.4,6.9,62.7
+STU0140,Web Technologies,5,86.9,38.5,45.0,17.5,6.7,6.9,79.2
+STU0140,Data Mining,5,81.1,28.5,28.5,15.5,8.6,6.9,57.9
+STU0140,Cloud Computing,6,89.0,25.5,22.0,15.5,6.4,7.03,56.6
+STU0140,Machine Learning,6,90.8,31.5,39.0,15.0,8.8,7.03,69.7
+STU0140,Information Retrieval,6,88.9,33.0,35.5,13.5,9.2,7.03,63.7
+STU0140,Cyber Security,6,95.2,37.5,41.5,15.5,4.2,7.03,64.7
+STU0140,Full Stack Development,6,99.6,33.5,36.0,15.5,9.7,7.03,75.5
+STU0140,Distributed Systems,7,92.9,25.0,28.5,16.5,6.8,6.92,
+STU0140,Internet of Things,7,84.6,28.0,31.5,17.0,9.6,6.92,
+STU0140,Big Data Analytics,7,94.4,35.0,43.5,17.5,11.6,6.92,
+STU0140,Information Security,7,100.0,34.0,36.0,17.5,10.0,6.92,
+STU0140,Project Management,7,100.0,31.5,31.0,19.5,7.6,6.92,
+STU0141,Computer Networks,5,81.6,37.5,32.0,9.5,5.1,9.2,81.7
+STU0141,Information Systems Management,5,67.8,42.5,35.0,10.5,1.6,9.2,68.9
+STU0141,Theory of Computation,5,75.4,37.0,33.5,12.0,3.0,9.2,57.1
+STU0141,Web Technologies,5,69.7,38.0,40.0,13.5,2.6,9.2,62.2
+STU0141,Data Mining,5,66.3,48.0,42.5,12.0,3.3,9.2,68.5
+STU0141,Cloud Computing,6,84.4,44.0,47.5,17.5,7.1,8.27,88.1
+STU0141,Machine Learning,6,94.7,36.0,39.5,16.0,7.7,8.27,85.0
+STU0141,Information Retrieval,6,76.6,36.5,39.0,14.5,6.7,8.27,75.3
+STU0141,Cyber Security,6,74.1,40.0,40.5,18.5,7.1,8.27,72.9
+STU0141,Full Stack Development,6,83.8,41.5,50.0,15.0,5.9,8.27,77.6
+STU0141,Distributed Systems,7,69.7,29.5,26.5,12.5,1.8,8.6,
+STU0141,Internet of Things,7,77.2,35.0,37.0,15.0,4.7,8.6,
+STU0141,Big Data Analytics,7,76.1,43.0,48.5,13.0,1.8,8.6,
+STU0141,Information Security,7,72.9,36.5,37.5,13.0,3.1,8.6,
+STU0141,Project Management,7,75.8,38.5,35.0,12.0,2.4,8.6,
+STU0142,Computer Networks,5,65.8,24.5,24.0,13.5,4.5,6.86,54.6
+STU0142,Information Systems Management,5,74.3,27.5,28.0,14.5,5.1,6.86,64.2
+STU0142,Theory of Computation,5,71.8,30.0,25.5,11.0,3.4,6.86,51.7
+STU0142,Web Technologies,5,72.3,35.5,31.0,12.0,1.5,6.86,51.9
+STU0142,Data Mining,5,73.0,31.0,31.0,14.0,2.5,6.86,52.0
+STU0142,Cloud Computing,6,73.9,27.0,26.5,10.5,2.0,6.74,53.8
+STU0142,Machine Learning,6,59.0,26.0,29.0,12.5,2.6,6.74,43.1
+STU0142,Information Retrieval,6,57.5,19.5,18.5,9.0,4.1,6.74,29.2
+STU0142,Cyber Security,6,68.5,25.0,20.0,9.0,1.7,6.74,34.0
+STU0142,Full Stack Development,6,63.2,32.5,29.5,5.5,1.1,6.74,49.6
+STU0142,Distributed Systems,7,63.8,27.0,19.0,11.5,5.6,5.84,
+STU0142,Internet of Things,7,69.9,24.5,19.5,13.5,1.1,5.84,
+STU0142,Big Data Analytics,7,59.8,29.5,26.0,9.0,3.1,5.84,
+STU0142,Information Security,7,75.0,30.0,29.5,11.5,2.9,5.84,
+STU0142,Project Management,7,67.9,36.5,30.0,10.5,4.4,5.84,
+STU0143,Computer Networks,5,88.4,40.5,40.5,13.0,8.3,9.02,81.5
+STU0143,Information Systems Management,5,86.5,42.0,43.0,15.0,5.2,9.02,80.8
+STU0143,Theory of Computation,5,75.7,38.5,35.0,11.5,8.8,9.02,75.5
+STU0143,Web Technologies,5,88.4,46.0,50.0,16.0,7.0,9.02,83.9
+STU0143,Data Mining,5,83.0,46.5,47.0,18.5,7.3,9.02,84.7
+STU0143,Cloud Computing,6,100.0,50.0,50.0,18.5,7.9,8.86,78.7
+STU0143,Machine Learning,6,97.0,47.0,45.0,20.0,7.4,8.86,86.0
+STU0143,Information Retrieval,6,100.0,50.0,45.5,19.0,7.5,8.86,82.5
+STU0143,Cyber Security,6,92.8,41.5,39.0,18.0,8.3,8.86,80.7
+STU0143,Full Stack Development,6,100.0,50.0,47.0,18.0,9.6,8.86,89.6
+STU0143,Distributed Systems,7,87.7,39.5,41.5,16.5,6.7,8.86,
+STU0143,Internet of Things,7,84.8,44.0,47.0,19.0,7.3,8.86,
+STU0143,Big Data Analytics,7,87.3,35.5,35.0,16.0,5.3,8.86,
+STU0143,Information Security,7,96.0,35.5,43.5,20.0,11.5,8.86,
+STU0143,Project Management,7,93.2,41.0,42.5,16.0,9.9,8.86,
+STU0144,Computer Networks,5,76.2,19.0,22.5,13.5,4.6,5.22,49.4
+STU0144,Information Systems Management,5,81.2,20.0,24.5,14.5,3.7,5.22,50.0
+STU0144,Theory of Computation,5,80.7,26.5,25.0,10.5,6.8,5.22,41.0
+STU0144,Web Technologies,5,76.7,23.0,21.5,12.5,7.1,5.22,50.0
+STU0144,Data Mining,5,78.4,28.5,29.0,18.0,2.7,5.22,47.5
+STU0144,Cloud Computing,6,74.0,23.0,23.0,13.0,2.7,5.43,38.6
+STU0144,Machine Learning,6,88.8,24.5,22.0,12.5,3.8,5.43,47.2
+STU0144,Information Retrieval,6,76.2,28.0,29.0,14.0,4.2,5.43,55.0
+STU0144,Cyber Security,6,77.5,28.5,30.0,12.5,3.8,5.43,51.8
+STU0144,Full Stack Development,6,75.6,26.0,24.0,14.0,4.3,5.43,59.0
+STU0144,Distributed Systems,7,67.4,14.0,11.0,14.0,5.9,5.7,
+STU0144,Internet of Things,7,73.8,25.0,22.0,13.0,3.8,5.7,
+STU0144,Big Data Analytics,7,82.4,14.0,19.0,12.0,5.9,5.7,
+STU0144,Information Security,7,72.8,32.0,33.0,12.5,5.2,5.7,
+STU0144,Project Management,7,69.9,25.0,22.0,11.5,6.9,5.7,

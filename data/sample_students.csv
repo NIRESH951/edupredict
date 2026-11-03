@@ -1,0 +1,145 @@
+student_id,reg_no,full_name,email,department,semester,academic_year,section,enrollment_date
+STU0001,1EP25AI001,Arjun Agarwal,arjun.agarwal.1ep25ai001@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-13
+STU0002,1EP25AI002,Pooja Agarwal,pooja.agarwal.1ep25ai002@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-09
+STU0003,1EP25AI003,Zara Gupta,zara.gupta.1ep25ai003@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-08
+STU0004,1EP25AI004,Gaurav Desai,gaurav.desai.1ep25ai004@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-11
+STU0005,1EP25AI005,Sakshi Fernandes,sakshi.fernandes.1ep25ai005@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-03
+STU0006,1EP25AI006,Zara Bhat,zara.bhat.1ep25ai006@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-16
+STU0007,1EP25AI007,Pooja Sharma,pooja.sharma.1ep25ai007@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-19
+STU0008,1EP25AI008,Riya Menon,riya.menon.1ep25ai008@student.edupredict.edu,Computer Science (AIML),3,2026-27,A,2025-08-05
+STU0009,1EP25AI009,Arjun Mehta,arjun.mehta.1ep25ai009@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-13
+STU0010,1EP25AI010,Vikram Iyer,vikram.iyer.1ep25ai010@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-10
+STU0011,1EP25AI011,Varun Khan,varun.khan.1ep25ai011@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-19
+STU0012,1EP25AI012,Siddharth Verma,siddharth.verma.1ep25ai012@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-15
+STU0013,1EP25AI013,Shreya Menon,shreya.menon.1ep25ai013@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-13
+STU0014,1EP25AI014,Nikhil Naik,nikhil.naik.1ep25ai014@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-01
+STU0015,1EP25AI015,Kavya Kumar,kavya.kumar.1ep25ai015@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-14
+STU0016,1EP25AI016,Ananya Mehta,ananya.mehta.1ep25ai016@student.edupredict.edu,Computer Science (AIML),3,2026-27,B,2025-08-08
+STU0017,1EP24AI001,Meera Agarwal,meera.agarwal.1ep24ai001@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-09
+STU0018,1EP24AI002,Rakesh Joshi,rakesh.joshi.1ep24ai002@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-14
+STU0019,1EP24AI003,Pranav Chatterjee,pranav.chatterjee.1ep24ai003@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-12
+STU0020,1EP24AI004,Nisha Desai,nisha.desai.1ep24ai004@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-03
+STU0021,1EP24AI005,Jahnavi Rao,jahnavi.rao.1ep24ai005@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-18
+STU0022,1EP24AI006,Bhavana Verma,bhavana.verma.1ep24ai006@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-18
+STU0023,1EP24AI007,Chetan Nair,chetan.nair.1ep24ai007@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-03
+STU0024,1EP24AI008,Sanjay Khan,sanjay.khan.1ep24ai008@student.edupredict.edu,Computer Science (AIML),5,2026-27,A,2024-08-14
+STU0025,1EP24AI009,Manoj Sharma,manoj.sharma.1ep24ai009@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-16
+STU0026,1EP24AI010,Riya Fernandes,riya.fernandes.1ep24ai010@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-16
+STU0027,1EP24AI011,Bhavana Iyer,bhavana.iyer.1ep24ai011@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-11
+STU0028,1EP24AI012,Mehul Nair,mehul.nair.1ep24ai012@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-15
+STU0029,1EP24AI013,Chetan Gowda,chetan.gowda.1ep24ai013@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-18
+STU0030,1EP24AI014,Sahana Iyer,sahana.iyer.1ep24ai014@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-16
+STU0031,1EP24AI015,Varun Sharma,varun.sharma.1ep24ai015@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-01
+STU0032,1EP24AI016,Riya Patel,riya.patel.1ep24ai016@student.edupredict.edu,Computer Science (AIML),5,2026-27,B,2024-08-02
+STU0033,1EP23AI001,Rohan Desai,rohan.desai.1ep23ai001@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-03
+STU0034,1EP23AI002,Karthik Mehta,karthik.mehta.1ep23ai002@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-15
+STU0035,1EP23AI003,Aarav Singh,aarav.singh.1ep23ai003@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-19
+STU0036,1EP23AI004,Harini Khan,harini.khan.1ep23ai004@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-14
+STU0037,1EP23AI005,Mehul Verma,mehul.verma.1ep23ai005@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-05
+STU0038,1EP23AI006,Ananya Kumar,ananya.kumar.1ep23ai006@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-05
+STU0039,1EP23AI007,Vikram Agarwal,vikram.agarwal.1ep23ai007@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-05
+STU0040,1EP23AI008,Rakesh Naik,rakesh.naik.1ep23ai008@student.edupredict.edu,Computer Science (AIML),7,2026-27,A,2023-08-14
+STU0041,1EP23AI009,Sanjay Nair,sanjay.nair.1ep23ai009@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-10
+STU0042,1EP23AI010,Nandini Menon,nandini.menon.1ep23ai010@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-19
+STU0043,1EP23AI011,Deepa Das,deepa.das.1ep23ai011@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-11
+STU0044,1EP23AI012,Sakshi Reddy,sakshi.reddy.1ep23ai012@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-15
+STU0045,1EP23AI013,Darshan Fernandes,darshan.fernandes.1ep23ai013@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-08
+STU0046,1EP23AI014,Pranav Mishra,pranav.mishra.1ep23ai014@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-01
+STU0047,1EP23AI015,Manoj Hegde,manoj.hegde.1ep23ai015@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-17
+STU0048,1EP23AI016,Mohit Nair,mohit.nair.1ep23ai016@student.edupredict.edu,Computer Science (AIML),7,2026-27,B,2023-08-07
+STU0049,1EP25CS001,Yash Mishra,yash.mishra.1ep25cs001@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-16
+STU0050,1EP25CS002,Kavya Patel,kavya.patel.1ep25cs002@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-17
+STU0051,1EP25CS003,Suhas Gowda,suhas.gowda.1ep25cs003@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-07
+STU0052,1EP25CS004,Karthik Patel,karthik.patel.1ep25cs004@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-11
+STU0053,1EP25CS005,Pranav Patel,pranav.patel.1ep25cs005@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-13
+STU0054,1EP25CS006,Farhan Pandey,farhan.pandey.1ep25cs006@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-12
+STU0055,1EP25CS007,Tarun Chatterjee,tarun.chatterjee.1ep25cs007@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-15
+STU0056,1EP25CS008,Mehul Hegde,mehul.hegde.1ep25cs008@student.edupredict.edu,Computer Science,3,2026-27,A,2025-08-13
+STU0057,1EP25CS009,Siddharth Gowda,siddharth.gowda.1ep25cs009@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-02
+STU0058,1EP25CS010,Karthik Bhat,karthik.bhat.1ep25cs010@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-09
+STU0059,1EP25CS011,Vikram Joshi,vikram.joshi.1ep25cs011@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-14
+STU0060,1EP25CS012,Omkar Pandey,omkar.pandey.1ep25cs012@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-13
+STU0061,1EP25CS013,Nandini Verma,nandini.verma.1ep25cs013@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-03
+STU0062,1EP25CS014,Varun Gupta,varun.gupta.1ep25cs014@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-03
+STU0063,1EP25CS015,Mohit Chatterjee,mohit.chatterjee.1ep25cs015@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-19
+STU0064,1EP25CS016,Siddharth Sharma,siddharth.sharma.1ep25cs016@student.edupredict.edu,Computer Science,3,2026-27,B,2025-08-18
+STU0065,1EP24CS001,Jahnavi Das,jahnavi.das.1ep24cs001@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-07
+STU0066,1EP24CS002,Nandini Kulkarni,nandini.kulkarni.1ep24cs002@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-03
+STU0067,1EP24CS003,Neha Mehta,neha.mehta.1ep24cs003@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-02
+STU0068,1EP24CS004,Nisha Reddy,nisha.reddy.1ep24cs004@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-07
+STU0069,1EP24CS005,Pallavi Naik,pallavi.naik.1ep24cs005@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-19
+STU0070,1EP24CS006,Siddharth Das,siddharth.das.1ep24cs006@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-17
+STU0071,1EP24CS007,Rohan Nair,rohan.nair.1ep24cs007@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-03
+STU0072,1EP24CS008,Kavya Kamath,kavya.kamath.1ep24cs008@student.edupredict.edu,Computer Science,5,2026-27,A,2024-08-03
+STU0073,1EP24CS009,Mohit Patel,mohit.patel.1ep24cs009@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-14
+STU0074,1EP24CS010,Aarav Verma,aarav.verma.1ep24cs010@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-10
+STU0075,1EP24CS011,Pranav Gupta,pranav.gupta.1ep24cs011@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-13
+STU0076,1EP24CS012,Bhavana Kamath,bhavana.kamath.1ep24cs012@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-12
+STU0077,1EP24CS013,Aditi Gupta,aditi.gupta.1ep24cs013@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-08
+STU0078,1EP24CS014,Lakshmi Kamath,lakshmi.kamath.1ep24cs014@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-08
+STU0079,1EP24CS015,Sakshi Nair,sakshi.nair.1ep24cs015@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-13
+STU0080,1EP24CS016,Vikram Gowda,vikram.gowda.1ep24cs016@student.edupredict.edu,Computer Science,5,2026-27,B,2024-08-13
+STU0081,1EP23CS001,Anjali Chatterjee,anjali.chatterjee.1ep23cs001@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-02
+STU0082,1EP23CS002,Mohit Kumar,mohit.kumar.1ep23cs002@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-03
+STU0083,1EP23CS003,Abhishek Singh,abhishek.singh.1ep23cs003@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-11
+STU0084,1EP23CS004,Manoj Gupta,manoj.gupta.1ep23cs004@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-11
+STU0085,1EP23CS005,Arjun Nair,arjun.nair.1ep23cs005@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-08
+STU0086,1EP23CS006,Nisha Agarwal,nisha.agarwal.1ep23cs006@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-14
+STU0087,1EP23CS007,Omkar Hegde,omkar.hegde.1ep23cs007@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-13
+STU0088,1EP23CS008,Tarun Patel,tarun.patel.1ep23cs008@student.edupredict.edu,Computer Science,7,2026-27,A,2023-08-01
+STU0089,1EP23CS009,Rakesh Agarwal,rakesh.agarwal.1ep23cs009@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-03
+STU0090,1EP23CS010,Bhavana Mishra,bhavana.mishra.1ep23cs010@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-15
+STU0091,1EP23CS011,Rohan Chatterjee,rohan.chatterjee.1ep23cs011@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-03
+STU0092,1EP23CS012,Karthik Joshi,karthik.joshi.1ep23cs012@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-13
+STU0093,1EP23CS013,Chetan Gupta,chetan.gupta.1ep23cs013@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-19
+STU0094,1EP23CS014,Suhas Sharma,suhas.sharma.1ep23cs014@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-01
+STU0095,1EP23CS015,Harini Reddy,harini.reddy.1ep23cs015@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-02
+STU0096,1EP23CS016,Pranav Desai,pranav.desai.1ep23cs016@student.edupredict.edu,Computer Science,7,2026-27,B,2023-08-02
+STU0097,1EP25IS001,Priya Chatterjee,priya.chatterjee.1ep25is001@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-17
+STU0098,1EP25IS002,Nisha Shetty,nisha.shetty.1ep25is002@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-07
+STU0099,1EP25IS003,Pranav Kamath,pranav.kamath.1ep25is003@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-10
+STU0100,1EP25IS004,Sneha Shetty,sneha.shetty.1ep25is004@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-02
+STU0101,1EP25IS005,Gaurav Chatterjee,gaurav.chatterjee.1ep25is005@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-09
+STU0102,1EP25IS006,Sneha Patel,sneha.patel.1ep25is006@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-17
+STU0103,1EP25IS007,Aditi Shetty,aditi.shetty.1ep25is007@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-07
+STU0104,1EP25IS008,Kavya Joshi,kavya.joshi.1ep25is008@student.edupredict.edu,Information Science,3,2026-27,A,2025-08-13
+STU0105,1EP25IS009,Farhan Kamath,farhan.kamath.1ep25is009@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-11
+STU0106,1EP25IS010,Pooja Kumar,pooja.kumar.1ep25is010@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-06
+STU0107,1EP25IS011,Pranav Mehta,pranav.mehta.1ep25is011@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-05
+STU0108,1EP25IS012,Ananya Reddy,ananya.reddy.1ep25is012@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-03
+STU0109,1EP25IS013,Kavya Mehta,kavya.mehta.1ep25is013@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-17
+STU0110,1EP25IS014,Farhan Hegde,farhan.hegde.1ep25is014@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-06
+STU0111,1EP25IS015,Yash Singh,yash.singh.1ep25is015@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-19
+STU0112,1EP25IS016,Sanjay Shetty,sanjay.shetty.1ep25is016@student.edupredict.edu,Information Science,3,2026-27,B,2025-08-06
+STU0113,1EP24IS001,Yash Menon,yash.menon.1ep24is001@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-14
+STU0114,1EP24IS002,Shreya Pandey,shreya.pandey.1ep24is002@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-05
+STU0115,1EP24IS003,Divya Patel,divya.patel.1ep24is003@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-10
+STU0116,1EP24IS004,Neha Sharma,neha.sharma.1ep24is004@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-12
+STU0117,1EP24IS005,Deepa Agarwal,deepa.agarwal.1ep24is005@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-03
+STU0118,1EP24IS006,Pallavi Sharma,pallavi.sharma.1ep24is006@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-05
+STU0119,1EP24IS007,Nikhil Iyer,nikhil.iyer.1ep24is007@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-03
+STU0120,1EP24IS008,Jahnavi Fernandes,jahnavi.fernandes.1ep24is008@student.edupredict.edu,Information Science,5,2026-27,A,2024-08-15
+STU0121,1EP24IS009,Jahnavi Gowda,jahnavi.gowda.1ep24is009@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-04
+STU0122,1EP24IS010,Tanvi Agarwal,tanvi.agarwal.1ep24is010@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-17
+STU0123,1EP24IS011,Mehul Naik,mehul.naik.1ep24is011@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-11
+STU0124,1EP24IS012,Ananya Chatterjee,ananya.chatterjee.1ep24is012@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-14
+STU0125,1EP24IS013,Chetan Shetty,chetan.shetty.1ep24is013@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-13
+STU0126,1EP24IS014,Darshan Shenoy,darshan.shenoy.1ep24is014@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-06
+STU0127,1EP24IS015,Vikram Shenoy,vikram.shenoy.1ep24is015@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-15
+STU0128,1EP24IS016,Vikram Reddy,vikram.reddy.1ep24is016@student.edupredict.edu,Information Science,5,2026-27,B,2024-08-10
+STU0129,1EP23IS001,Rakesh Mehta,rakesh.mehta.1ep23is001@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-07
+STU0130,1EP23IS002,Nikhil Gupta,nikhil.gupta.1ep23is002@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-04
+STU0131,1EP23IS003,Shreya Das,shreya.das.1ep23is003@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-06
+STU0132,1EP23IS004,Dhruv Singh,dhruv.singh.1ep23is004@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-10
+STU0133,1EP23IS005,Bhavana Shenoy,bhavana.shenoy.1ep23is005@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-07
+STU0134,1EP23IS006,Aarav Pandey,aarav.pandey.1ep23is006@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-02
+STU0135,1EP23IS007,Chetan Rao,chetan.rao.1ep23is007@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-19
+STU0136,1EP23IS008,Ishaan Menon,ishaan.menon.1ep23is008@student.edupredict.edu,Information Science,7,2026-27,A,2023-08-14
+STU0137,1EP23IS009,Divya Fernandes,divya.fernandes.1ep23is009@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-14
+STU0138,1EP23IS010,Sanjay Naik,sanjay.naik.1ep23is010@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-17
+STU0139,1EP23IS011,Suhas Kulkarni,suhas.kulkarni.1ep23is011@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-16
+STU0140,1EP23IS012,Akash Iyer,akash.iyer.1ep23is012@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-15
+STU0141,1EP23IS013,Suhas Rao,suhas.rao.1ep23is013@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-02
+STU0142,1EP23IS014,Divya Iyer,divya.iyer.1ep23is014@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-09
+STU0143,1EP23IS015,Vikram Khan,vikram.khan.1ep23is015@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-03
+STU0144,1EP23IS016,Anjali Kumar,anjali.kumar.1ep23is016@student.edupredict.edu,Information Science,7,2026-27,B,2023-08-04

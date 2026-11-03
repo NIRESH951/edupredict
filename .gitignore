@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Runtime data (re-created automatically on first run)
+data/edupredict.db
+data/edupredict.db-wal
+data/edupredict.db-shm
+models/v*/
+
+# Editors / OS
+.vscode/*
+!.vscode/launch.json
+.idea/
+.DS_Store
